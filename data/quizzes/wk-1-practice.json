@@ -1,0 +1,876 @@
+{
+  "id": "wk-1-practice",
+  "title": "Week 1 Practice Test",
+  "blurb": "Practice questions from week 1.",
+  "questions": [
+    {
+      "prompt": "The manifestations of a disease are best defined as the",
+      "options": [
+        "subjective feelings of discomfort during a chronic illness.",
+        "signs and symptoms of a disease",
+        "factors that precipitate an acute episode of a chronic illness.",
+        "early indicators of the prodromal stage of infection."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. signs and symptoms of a disease",
+      "suggestedRationale": "Manifestations are the signs and symptoms of a disease."
+    },
+    {
+      "prompt": "Which of the following would be the most likely cause of an iatrogenic disease?",
+      "options": [
+        "An inherited disorder",
+        "A combination of specific etiological factors",
+        "An unwanted effect of a prescribed drug",
+        "Prolonged exposure to toxic chemicals in the environment"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. An unwanted effect of a prescribed drug",
+      "suggestedRationale": "Iatrogenic disease is caused by a treatment or prescribed drug."
+    },
+    {
+      "prompt": "Which of the following is considered a systemic sign of disease?",
+      "options": [
+        "Swelling of the knee",
+        "Fever",
+        "Pain in the neck",
+        "Red rash on the face"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Fever",
+      "suggestedRationale": "Fever is a systemic sign; the other options are localized findings."
+    },
+    {
+      "prompt": "A type of cellular adaptation in which there is a decrease in cell size is referred to as",
+      "options": [
+        "hypertrophy.",
+        "metaplasia.",
+        "anaplasia.",
+        "atrophy"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. atrophy",
+      "suggestedRationale": "Atrophy is a decrease in cell size."
+    },
+    {
+      "prompt": "A change in a tissue marked by cells that vary in size and shape and show increased mitotic figures would be called",
+      "options": [
+        "metaplasia.",
+        "atrophy.",
+        "dysplasia",
+        "hypertrophy."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. dysplasia",
+      "suggestedRationale": "Dysplasia is disordered growth with variable cell size/shape and increased mitoses."
+    },
+    {
+      "prompt": "A deficit of oxygen in the cells usually due to respiratory or circulatory problems is called",
+      "options": [
+        "apoptosis.",
+        "ischemia",
+        "hypertrophy.",
+        "necrosis."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. ischemia",
+      "suggestedRationale": "Among these options, ischemia is the oxygen deficit in cells from circulatory (or related) compromise; hypoxia is not listed."
+    },
+    {
+      "prompt": "When a group of cells in the body dies, the change is called",
+      "options": [
+        "ischemia.",
+        "gangrene.",
+        "hypoxia.",
+        "necrosis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. necrosis",
+      "suggestedRationale": "Necrosis is death of a group of cells in the body."
+    },
+    {
+      "prompt": "The term cancer refers to",
+      "options": [
+        "dysplasia.",
+        "hyperplasia.",
+        "metaplasia.",
+        "malignant neoplasm."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. malignant neoplasm.",
+      "suggestedRationale": "Cancer refers to a malignant neoplasm."
+    },
+    {
+      "prompt": "Which of the following statements is TRUE?",
+      "options": [
+        "Alteration of DNA does not change cell function.",
+        "Damaged cells may be able to repair themselves",
+        "All types of cells die at the same rate.",
+        "Mild ischemia causes immediate cell death."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Damaged cells may be able to repair themselves",
+      "suggestedRationale": "Mildly injured cells can often repair themselves if the stressor is removed."
+    },
+    {
+      "prompt": "Caseation necrosis refers to an area where",
+      "options": [
+        "cell proteins have been denatured.",
+        "cells are liquefied by enzymes.",
+        "dead cells form a thick cheesy substance",
+        "bacterial invasion has occurred."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. dead cells form a thick cheesy substance",
+      "suggestedRationale": "Caseous necrosis is a thick, cheesy debris typical of TB lesions."
+    },
+    {
+      "prompt": "A circumstance that causes a sudden acute episode of a chronic disease to occur is termed",
+      "options": [
+        "latent stage.",
+        "predisposing factor.",
+        "incidence.",
+        "precipitating factor."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. precipitating factor.",
+      "suggestedRationale": "A precipitating factor triggers an acute flare of a chronic disease."
+    },
+    {
+      "prompt": "Routine application of sun block to skin and vaccination would be an example of",
+      "options": [
+        "an iatrogenic cause of cancer.",
+        "a preventive measure",
+        "a precipitating factor.",
+        "a predisposing condition."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. a preventive measure",
+      "suggestedRationale": "Sunscreen and vaccines are preventive measures."
+    },
+    {
+      "prompt": "Which term is used to describe a new and secondary or additional problem that arises after the original disease has been established?",
+      "options": [
+        "Symptoms",
+        "Occurrence",
+        "Manifestations",
+        "Complication"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Complication",
+      "suggestedRationale": "A complication is a new secondary problem after the original disease."
+    },
+    {
+      "prompt": "Which of the following can cause cell injury or death?",
+      "options": [
+        "Hypoxia",
+        "Exposure to excessive cold",
+        "Excessive pressure on a tissue",
+        "Chemical toxins",
+        "1, 2",
+        "2, 4",
+        "1, 3, 4",
+        "1, 2, 3, 4"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 7,
+      "suggestedLabel": "H. 1, 2, 3, 4",
+      "suggestedRationale": "Hypoxia, extreme cold, pressure, and chemical toxins can all injure or kill cells."
+    },
+    {
+      "prompt": "A collection of signs and symptoms, often affecting more than one organ or system, that usually occur together in response to a certain condition is referred to as a(an)",
+      "options": [
+        "acute disease.",
+        "multiorgan disorder.",
+        "syndrome",
+        "manifestation."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. syndrome",
+      "suggestedRationale": "A syndrome is a set of signs and symptoms that occur together."
+    },
+    {
+      "prompt": "All of the following statements are correct about cell damage EXCEPT:",
+      "options": [
+        "The initial stage of cell damage often causes an alteration in metabolic reactions.",
+        "If the factor causing the damage is removed quickly, the cell may be able to recover and return to its normal state.",
+        "If the noxious factor remains for an extended period of time, the damage becomes irreversible and the cell dies.",
+        "Initially, cell damage does not change cell metabolism, structure, or function"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Initially, cell damage does not change cell metabolism, structure, or function",
+      "suggestedRationale": "The false statement is that early cell injury leaves metabolism, structure, and function unchanged."
+    },
+    {
+      "prompt": "If the data collected from the research process confirm that the new treatment has increased effectiveness and is safe, this is called",
+      "options": [
+        "the placebo effect.",
+        "evidence-based research",
+        "blind research studies.",
+        "approval for immediate distribution."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. evidence-based research",
+      "suggestedRationale": "Confirmed safety and effectiveness from research is evidence-based research."
+    },
+    {
+      "prompt": "When prolonged ischemia occurs to an area of the heart, the resulting damage is referred to as",
+      "options": [
+        "atrophy.",
+        "liquefactive necrosis.",
+        "apoptosis.",
+        "infarction."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. infarction.",
+      "suggestedRationale": "Prolonged myocardial ischemia produces infarction."
+    },
+    {
+      "prompt": "Which of the following is usually included in a medical history?",
+      "options": [
+        "Past illnesses or surgeries",
+        "Current illnesses, acute and chronic",
+        "Prescribed medication or other treatments",
+        "Nonprescription drugs and herbal remedies",
+        "Current allergies",
+        "1, 3",
+        "2, 4, 5",
+        "1, 3, 4",
+        "1, 2, 3, 4, 5"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 8,
+      "suggestedLabel": "I. 1, 2, 3, 4, 5",
+      "suggestedRationale": "A complete history includes past and current illness, prescribed and OTC drugs, and allergies."
+    },
+    {
+      "prompt": "A therapy that has been approved for use and may show additional potential to treat a different disease is termed “_____” use.",
+      "options": [
+        "over-the-counter",
+        "off-label",
+        "additional",
+        "conditional"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. off-label",
+      "suggestedRationale": "Approved drugs used for an unapproved indication are off-label use."
+    },
+    {
+      "prompt": "Choose the correct proportion of water to body weight to be expected in a healthy male adult’s body:",
+      "options": [
+        "30%",
+        "45%",
+        "60%",
+        "70%"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. 60%",
+      "suggestedRationale": "A healthy adult male is about 60% body water."
+    },
+    {
+      "prompt": "Choose the correct proportion of blood (to body weight) in an adult male’s body: 30%",
+      "options": [
+        "30%",
+        "20%",
+        "10%",
+        "4%"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. 4%",
+      "suggestedRationale": "Blood is about 4% of adult male body weight in standard patho tables; the '30%' in the stem looks like a typo."
+    },
+    {
+      "prompt": "The osmoreceptor cells controlling the thirst mechanism are located in the",
+      "options": [
+        "medulla oblongata.",
+        "thalamus.",
+        "epithalamus.",
+        "hypothalamus"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. hypothalamus",
+      "suggestedRationale": "Osmoreceptors that drive thirst are in the hypothalamus."
+    },
+    {
+      "prompt": "When the osmotic pressure of the blood is elevated above normal, water would shift from the",
+      "options": [
+        "blood into the cells.",
+        "interstitial compartment into the cells.",
+        "interstitial compartment into the blood",
+        "cells into the interstitial compartment."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. interstitial compartment into the blood",
+      "suggestedRationale": "High blood osmotic pressure pulls water from the interstitial fluid into the vascular space."
+    },
+    {
+      "prompt": "Which of the following would result from a deficit of plasma proteins?",
+      "options": [
+        "Increased osmotic pressure",
+        "Decreased osmotic pressure",
+        "Increased hydrostatic pressure",
+        "Decreased hydrostatic pressure"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Decreased osmotic pressure",
+      "suggestedRationale": "Low plasma proteins lower plasma oncotic pressure, so fluid leaves the vessels."
+    },
+    {
+      "prompt": "Which of the following would likely be related to an elevated hematocrit reading?",
+      "options": [
+        "Fluid excess",
+        "Fluid deficit",
+        "Increased sodium level",
+        "Decreased erythrocytes"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Fluid deficit",
+      "suggestedRationale": "Dehydration concentrates red cells and raises hematocrit."
+    },
+    {
+      "prompt": "Which of the following is a typical sign of dehydration?",
+      "options": [
+        "Rapid, strong pulse",
+        "Low hematocrit",
+        "Increased urine output",
+        "Rough oral mucosa"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Rough oral mucosa",
+      "suggestedRationale": "Dry, rough oral mucosa is a typical sign of dehydration."
+    },
+    {
+      "prompt": "Excessive Sweating is a common cause for?",
+      "options": [
+        "Hyponatremia",
+        "Hypercalcemia",
+        "Hypernatremia",
+        "All of the above"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Hyponatremia",
+      "suggestedRationale": "Textbooks list excessive sweating as a common cause of hyponatremia from sodium loss in sweat (hypercalcemia is unrelated)."
+    },
+    {
+      "prompt": "Primary Cation in the ECF is Sodium and Potassium in ICF. True or False",
+      "options": [
+        "True",
+        "False"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. True",
+      "suggestedRationale": "Sodium is the main ECF cation and potassium is the main ICF cation."
+    },
+    {
+      "prompt": "",
+      "options": [],
+      "kind": "empty",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form"
+    },
+    {
+      "prompt": "Which of the following results from hypocalcemia?",
+      "options": [
+        "Low serum phosphate levels",
+        "Nausea and constipation",
+        "Skeletal muscle twitch and spasms",
+        "Weak cardiac contractions",
+        "1, 2",
+        "1, 4",
+        "2, 3",
+        "3, 4"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 7,
+      "suggestedLabel": "H. 3, 4",
+      "suggestedRationale": "Hypocalcemia increases skeletal-muscle twitching/spasms and weakens cardiac contraction; constipation and low phosphate fit hypercalcemia."
+    },
+    {
+      "prompt": "Which of the following causes tetany?",
+      "options": [
+        "Low Serum Calcium",
+        "Hyper parathyroid hormone",
+        "Neoplasm",
+        "increases cns stimulation"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Low Serum Calcium",
+      "suggestedRationale": "Tetany is caused by low serum calcium (increased neuromuscular irritability)."
+    },
+    {
+      "prompt": "Phosphate Ion plays a major role in all of the following except",
+      "options": [
+        "Clotting of Blood",
+        "Bone Metabolism",
+        "Acid Base balance",
+        "Inversely related to calcium"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Clotting of Blood",
+      "suggestedRationale": "Phosphate is important in bone and acid-base balance and relates inversely to calcium; it is not a major clotting factor (calcium is)."
+    },
+    {
+      "prompt": "Alkalosis increases irritability and spontaneous stimulation of nerves by",
+      "options": [
+        "blocking normal nerve conduction.",
+        "increasing the permeability of nerve membranes",
+        "blocking movement of calcium ions.",
+        "decreasing phosphate ion levels."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. increasing the permeability of nerve membranes",
+      "suggestedRationale": "Alkalosis increases nerve-membrane permeability and excitability."
+    },
+    {
+      "prompt": "What system controls the bicarbonate and carbonic acid buffer system",
+      "options": [
+        "Lungs and liver",
+        "Liver and kidney",
+        "Lungs and Kidney",
+        "Kidney and Liver"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Lungs and Kidney",
+      "suggestedRationale": "The carbonic acid–bicarbonate buffer is controlled by the lungs (CO2) and kidneys (HCO3−)."
+    },
+    {
+      "prompt": "Serum potassium levels are affected by",
+      "options": [
+        "ADH.",
+        "aldosterone.",
+        "serum H+ levels.",
+        "insulin levels.",
+        "2 only",
+        "1, 2",
+        "1, 3",
+        "2, 3, 4",
+        "1, 2, 3"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 7,
+      "suggestedLabel": "H. 2, 3, 4",
+      "suggestedRationale": "Aldosterone, hydrogen-ion concentration, and insulin all shift or excrete potassium; ADH does not primarily regulate K+."
+    },
+    {
+      "prompt": "Which of the following is the primary control of serum Na+ levels?",
+      "options": [
+        "Aldosterone",
+        "ADH",
+        "Potassium levels",
+        "Hypothalamus"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Aldosterone",
+      "suggestedRationale": "Aldosterone is the primary hormonal control of body sodium (ADH mainly controls water)."
+    },
+    {
+      "prompt": "Which of the following results from hypocalcemia?",
+      "options": [
+        "Low serum phosphate levels",
+        "Nausea and constipation",
+        "Skeletal muscle twitch and spasms",
+        "Weak cardiac contractions",
+        "1, 2",
+        "1, 4",
+        "2, 3",
+        "3, 4"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 7,
+      "suggestedLabel": "H. 3, 4",
+      "suggestedRationale": "Same as the earlier hypocalcemia item: muscle spasms plus weak cardiac contractions."
+    },
+    {
+      "prompt": "Which system is the slowest to have an impact on acid base balance?",
+      "options": [
+        "Respiratory System",
+        "Circulatory System",
+        "Brain",
+        "Kidneys"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Kidneys",
+      "suggestedRationale": "Renal compensation is the slowest acid-base control system."
+    },
+    {
+      "prompt": "What is the effect on blood serum when excessive lactic acid accumulates in the body?",
+      "options": [
+        "Bicarbonate ion levels decrease",
+        "Bicarbonate ion levels increase.",
+        "Carbonic acid levels increase.",
+        "pH increases."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Bicarbonate ion levels decrease",
+      "suggestedRationale": "Lactic acid is buffered by bicarbonate, so serum HCO3− falls (metabolic acidosis, lower pH)."
+    },
+    {
+      "prompt": "The direct effects of acidosis are manifested primarily in the functioning of the?",
+      "options": [
+        "digestive system.",
+        "urinary system.",
+        "nervous system",
+        "respiratory system."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. nervous system",
+      "suggestedRationale": "Acidosis primarily depresses the central nervous system."
+    },
+    {
+      "prompt": "patients with impaired expiration associated with emphysema, effective compensation for the acid-base imbalance would be",
+      "options": [
+        "increased rate and depth of respiration.",
+        "decreased rate and depth of respiration.",
+        "increased urine pH and decreased serum bicarbonate.",
+        "decreased urine pH and increased serum bicarbonate."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. decreased urine pH and increased serum bicarbonate.",
+      "suggestedRationale": "Emphysema causes CO2 retention (respiratory acidosis); kidneys compensate by retaining bicarbonate and excreting acid (lower urine pH)."
+    },
+    {
+      "prompt": "A prolonged state of metabolic acidosis often leads to",
+      "options": [
+        "hypokalemia.",
+        "hyperkalemia",
+        "hyponatremia.",
+        "hypercalcemia."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. hyperkalemia",
+      "suggestedRationale": "In acidosis, H+ enters cells in exchange for K+, raising serum potassium."
+    },
+    {
+      "prompt": "Place the following events in the correct sequence of events when ketoacids increase in the blood of a diabetic patient. Not all options are used in the answers.",
+      "options": [
+        "Serum pH decreases",
+        "Serum bicarbonate decreases",
+        "PCO2 decreases",
+        "Respiration decreases",
+        "Respiration increases",
+        "Serum pH increases",
+        "Urine pH decreases",
+        "1, 3, 7, 4, 2, 6",
+        "5, 2, 7, 3, 4, 1",
+        "2, 1, 5, 3, 7, 6",
+        "3, 1, 2, 5, 7, 6 8"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 9,
+      "suggestedLabel": "J. 2, 1, 5, 3, 7, 6",
+      "suggestedRationale": "Ketoacids consume HCO3− and lower pH, then Kussmaul respirations drop PCO2, urine acidifies, and pH begins to recover."
+    },
+    {
+      "prompt": "Which statements apply to atrial natriuretic peptide?",
+      "options": [
+        "It is secreted by heart muscle cells.",
+        "It is a hormone secreted by the kidneys.",
+        "It helps to control water and sodium balance.",
+        "It is released in response to low blood pressure.",
+        "1, 3",
+        "1, 4",
+        "2, 3",
+        "2, 4"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 4,
+      "suggestedLabel": "E. 1, 3",
+      "suggestedRationale": "ANP is released by stretched cardiac muscle and promotes sodium and water loss; it is not a renal hormone and is not triggered by low blood pressure."
+    },
+    {
+      "prompt": "Increased milk and/or antacid intake can contribute to development of “milk-alkali syndrome,” which can cause which of the following?",
+      "options": [],
+      "kind": "short_answer",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form"
+    },
+    {
+      "prompt": "During the stress response, endorphins act as",
+      "options": [
+        "pain blockers",
+        "cerebral function depressors.",
+        "stimulators of increased secretion of aldosterone and insulin.",
+        "an enhancer of the immune response."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. pain blockers",
+      "suggestedRationale": "Endorphins released in the stress response act as natural pain blockers."
+    },
+    {
+      "prompt": "Severe, prolonged stress may cause acute renal failure or stress ulcers to develop as a result of",
+      "options": [
+        "a deficit of glucose and oxygen in the body.",
+        "the development of decompensated acidosis.",
+        "prolonged vasoconstriction and ischemia.",
+        "the supply of hormones having been exhausted."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. prolonged vasoconstriction and ischemia.",
+      "suggestedRationale": "Prolonged stress vasoconstriction can ischemicize the gut and kidney, leading to stress ulcers or acute renal failure."
+    },
+    {
+      "prompt": "The stress response involves the integrated action of the",
+      "options": [
+        "hypothalamus.",
+        "hypophysis.",
+        "sympathetic nervous system.",
+        "adrenal glands.",
+        "1, 3",
+        "2, 3",
+        "1, 2, 4",
+        "1, 2, 3, 4"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 7,
+      "suggestedLabel": "H. 1, 2, 3, 4",
+      "suggestedRationale": "The stress response integrates hypothalamus, pituitary (hypophysis), sympathetic nerves, and adrenal glands."
+    },
+    {
+      "prompt": "Which of the following may alter a person’s perception of a stressor?",
+      "options": [
+        "A: The presence of several stressors at the same time",
+        "B: Past experiences",
+        "C: Lack of effective coping mechanisms",
+        "A, B, and C"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. A, B, and C",
+      "suggestedRationale": "Multiple simultaneous stressors, past experience, and poor coping all change how a stressor is perceived."
+    }
+  ]
+}

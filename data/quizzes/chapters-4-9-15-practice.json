@@ -1,0 +1,862 @@
+{
+  "id": "chapters-4-9-15-practice",
+  "title": "Practice Test · Chapters 4, 9 & 15",
+  "blurb": "Combined practice for chapters 4, 9, and 15.",
+  "questions": [
+    {
+      "prompt": "What do the extrinsic muscles of the eye control?",
+      "options": [
+        "Movement of the eyeball",
+        "Movement of the eyelid",
+        "Size of the pupil",
+        "Shape of the lens"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Movement of the eyeball",
+      "suggestedRationale": "Extrinsic eye muscles move the eyeball in the orbit."
+    },
+    {
+      "prompt": "The following happens for the pupil of the eye to dilate",
+      "options": [
+        "he circular muscle of the iris must contract.",
+        "Cranial nerve III must be activated.",
+        "Stimulation of the sympathetic nervous system is required",
+        "The optic nerve must be stimulated."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Stimulation of the sympathetic nervous system is required",
+      "suggestedRationale": "Pupillary dilation is a sympathetic effect; CN III constricts the pupil."
+    },
+    {
+      "prompt": "Trachoma is caused by _________ is a ________ infection",
+      "options": [
+        "influenza virus and the flu",
+        "Candida albicans and thrush",
+        "Staphylococcus bacteria and eye",
+        "Chlamydia bacteria and eye"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Chlamydia bacteria and eye",
+      "suggestedRationale": "Trachoma is a Chlamydia trachomatis infection of the eye."
+    },
+    {
+      "prompt": "Which statement does NOT apply to chronic glaucoma?",
+      "options": [
+        "Degeneration and obstruction of the trabecular network",
+        "Gradual increase in intraocular pressure",
+        "Abnormally narrow angle between the cornea and iris",
+        "Damage to the retina and optic nerve"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Abnormally narrow angle between the cornea and iris",
+      "suggestedRationale": "A narrow cornea–iris angle describes acute (closed-angle) glaucoma, not chronic open-angle glaucoma."
+    },
+    {
+      "prompt": "Chronic Glaucoma results in",
+      "options": [
+        "retinal detachment",
+        "Cataract",
+        "Macular degeneration",
+        "Loss of peripheral vision"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Loss of peripheral vision",
+      "suggestedRationale": "Chronic glaucoma typically produces gradual loss of peripheral vision."
+    },
+    {
+      "prompt": "True or False: Cataract is the gradual clouding of the lens of the eye",
+      "options": [
+        "True",
+        "False"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. True",
+      "suggestedRationale": "A cataract is gradual clouding of the lens—true."
+    },
+    {
+      "prompt": "Inner Ear contains the?",
+      "options": [
+        "Malleus, Incus, Stapes",
+        "Organ of Corti and Semicircular Canals",
+        "Tympanic Membrane and auditory canal",
+        "Ossicles"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Organ of Corti and Semicircular Canals",
+      "suggestedRationale": "The inner ear contains the cochlea (organ of Corti) and the semicircular canals; ossicles are middle ear."
+    },
+    {
+      "prompt": "What is Conduction Deafness",
+      "options": [
+        "Damage to the organ of Corti",
+        "Degeneration of cranial nerve VIII",
+        "Adhesions reducing the movement of the ossicles.",
+        "Trauma affecting the temporal lobe"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Adhesions reducing the movement of the ossicles.",
+      "suggestedRationale": "Conduction deafness can result from ossicles that no longer move freely (otosclerosis or adhesions)."
+    },
+    {
+      "prompt": "Certain drugs or chemicals can be ototoxic and the first sign of ototoxicity is?",
+      "options": [
+        "Sudden total loss of hearing",
+        "Tinnitus",
+        "Severe pain in ear",
+        "Fluid exudate draining from ear",
+        "Option 5"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Tinnitus",
+      "suggestedRationale": "Tinnitus is usually the first warning of ototoxicity."
+    },
+    {
+      "prompt": "What would a patient with early stages of age related macular degeneration present with?",
+      "options": [
+        "Loss of central visual acuity",
+        "Intermittent pain and blurred vision",
+        "Loss of peripheral vision",
+        "Loss of night vision and color perception"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Loss of central visual acuity",
+      "suggestedRationale": "Early age-related macular degeneration reduces central visual acuity."
+    },
+    {
+      "prompt": "An infection that damages the auditory nerve can cause what type of hearing loss?",
+      "options": [
+        "Sensorineural",
+        "Conduction",
+        "Semiacute",
+        "Inflammatory"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Sensorineural",
+      "suggestedRationale": "Damage to the auditory nerve causes sensorineural hearing loss."
+    },
+    {
+      "prompt": "Which fluid is found surrounding the optic disc?",
+      "options": [
+        "Aqueous humor",
+        "Vitreous humor",
+        "Cerebrospinal fluid",
+        "Tears"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Cerebrospinal fluid",
+      "suggestedRationale": "CSF surrounds the optic disc, which is why high ICP causes papilledema."
+    },
+    {
+      "prompt": "What role does Fovea Centralis Play?",
+      "options": [
+        "Maintain Occular Pressure and balance ICP",
+        "Provides the greatest Visual Acuity",
+        "Protects the Iris and the Lens",
+        "Helps the Rods and Cones"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Provides the greatest Visual Acuity",
+      "suggestedRationale": "The fovea centralis is the site of sharpest visual acuity."
+    },
+    {
+      "prompt": "The lens and cornea are nourished by",
+      "options": [
+        "small capillaries.",
+        "tears.",
+        "vitreous humor.",
+        "aqueous humor."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. aqueous humor.",
+      "suggestedRationale": "The avascular lens and cornea are nourished by aqueous humor."
+    },
+    {
+      "prompt": "A patient presents with Trachoma, the nurse understands that Trachoma in patients is presented by?",
+      "options": [
+        "purulent exudate and red sclerae.",
+        "corneal abrasions by the infected eyelids.",
+        "diplopia and cloudy lens.",
+        "ptosis and fixed dilation of the pupil."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. corneal abrasions by the infected eyelids.",
+      "suggestedRationale": "Trachoma scars and inverts the lids so lashes abrade the cornea."
+    },
+    {
+      "prompt": "Which of the statements apply to infection of the eye by Staphylococcus aureus?",
+      "options": [
+        "It involves the conjunctiva.",
+        "It is highly contagious.",
+        "It is commonly known as “pinkeye.”",
+        "It usually causes keratitis and permanent visual loss.",
+        "1, 3",
+        "2, 3",
+        "2, 4",
+        "1, 2, 3"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 7,
+      "suggestedLabel": "H. 1, 2, 3",
+      "suggestedRationale": "Staph conjunctivitis (pinkeye) involves the conjunctiva and is highly contagious; it does not usually cause permanent visual loss."
+    },
+    {
+      "prompt": "A patient presents to the ER with Corneal Ulceration and Scarring- The nurse assesses the patient and realizes that a potential cause for this could be?",
+      "options": [
+        "conjunctivitis.",
+        "Herpes Simplex Virus",
+        "eye infection in the neonate.",
+        "HIV related Irisitis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Herpes Simplex Virus",
+      "suggestedRationale": "Herpes simplex keratitis is a classic cause of corneal ulceration and scarring."
+    },
+    {
+      "prompt": "Sensory receptors that provide information about body movement, orientation, or muscle stretch are referred to as",
+      "options": [
+        "visceroceptors.",
+        "exteroceptors.",
+        "mechanoceptors.",
+        "proprioceptors."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. proprioceptors.",
+      "suggestedRationale": "Proprioceptors sense joint position, movement, and muscle stretch."
+    },
+    {
+      "prompt": "What is the chemical transmitter released at the neuromuscular junction?",
+      "options": [
+        "Norepinephrine",
+        "GABA",
+        "Serotonin",
+        "Acetylcholine"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Acetylcholine",
+      "suggestedRationale": "Acetylcholine is the transmitter at the neuromuscular junction."
+    },
+    {
+      "prompt": "What are the two types of bone tissue?",
+      "options": [
+        "Vascular and nonvascular",
+        "Spongy and calcified",
+        "Compact and cancellous",
+        "Dense and pliable"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Compact and cancellous",
+      "suggestedRationale": "The two bone tissues are compact and cancellous (spongy)."
+    },
+    {
+      "prompt": "Which of the following describes a Colles’ fracture?",
+      "options": [
+        "The distal radius is broken.",
+        "The distal fibula is broken.",
+        "A vertebra appears crushed.",
+        "A spontaneous fracture occurs in weakened bone."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. The distal radius is broken.",
+      "suggestedRationale": "A Colles fracture is a break of the distal radius."
+    },
+    {
+      "prompt": "The presence of a hematoma during the healing process:",
+      "options": [
+        "is broken down and absorbed immediately.",
+        "provides the base for bone cells to produce new bone.",
+        "is the structure into which granulation tissue grows.",
+        "produces fibroblasts to lay down new cartilage."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. is the structure into which granulation tissue grows.",
+      "suggestedRationale": "The fracture hematoma is the framework into which granulation tissue grows."
+    },
+    {
+      "prompt": "When a fracture is healing, the procallus or fibrocartilaginous callus- select all that applies",
+      "options": [
+        "can not bear weight.",
+        "serves as a splint across the fracture site",
+        "is the tissue that lays down new cartilage.",
+        "is made up of new bone."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. serves as a splint across the fracture site",
+      "suggestedRationale": "The fibrocartilaginous (procallus) callus acts as a splint and cannot bear weight; the form listed no combined option."
+    },
+    {
+      "prompt": "The inflammation surrounding a fracture site during the first few days may complicate healing by causing",
+      "options": [
+        "excessive bone movement.",
+        "severe ischemia and tissue necrosis.",
+        "malunion or nonunion.",
+        "fat emboli to form."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. severe ischemia and tissue necrosis.",
+      "suggestedRationale": "Marked inflammation around a fracture can compromise blood flow and cause ischemia or necrosis."
+    },
+    {
+      "prompt": "Select All that apply- All of the following predispose to osteoporosis",
+      "options": [
+        "weight-bearing activity",
+        "a sedentary lifestyle.",
+        "long-term intake of glucocorticoids.",
+        "calcium deficit."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. a sedentary lifestyle.",
+      "suggestedRationale": "A sedentary lifestyle, long-term glucocorticoids, and calcium deficit predispose to osteoporosis; weight-bearing activity is protective. No combined choice was listed."
+    },
+    {
+      "prompt": "Which of the following statements does NOT apply to osteoporosis?",
+      "options": [
+        "Bone resorption is greater than bone formation.",
+        "It causes compression fractures of the vertebrae.",
+        "Osteoporosis is always a primary disorder.",
+        "It often leads to kyphosis and loss of height."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Osteoporosis is always a primary disorder.",
+      "suggestedRationale": "Osteoporosis can be secondary, so it is not always a primary disorder."
+    },
+    {
+      "prompt": "Duchenne’s muscular dystrophy is or are ? (select all that apply)",
+      "options": [
+        "Is a X-Linked recessive genetic disease",
+        "There is difficulty climbing stairs or standing up at 2 to 3 years of age.",
+        "It involves only the legs and pelvis.",
+        "Skeletal muscle atrophy can be seen in the legs of a toddler.",
+        "It cannot be detected in any carriers."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Is a X-Linked recessive genetic disease",
+      "suggestedRationale": "Duchenne dystrophy is X-linked recessive and shows Gower/stair difficulty at ages 2–3; it is not limited to the legs, and calves are pseudohypertrophic. The form had no combined key."
+    },
+    {
+      "prompt": "Osteo Sarcoma presents with:",
+      "options": [
+        "Intermittent, increasing with activity",
+        "Sharp, increased with joint movement",
+        "Mild, aching when weight-bearing",
+        "Steady, severe, and persisting with rest"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Steady, severe, and persisting with rest",
+      "suggestedRationale": "Osteosarcoma pain is typically steady, deep, and persists at rest."
+    },
+    {
+      "prompt": "Osteoarthritis pain presents with",
+      "options": [
+        "Decreases over time",
+        "Quite severe in the early stages",
+        "Aggravated by general muscle aching",
+        "Increased with weight-bearing and activity"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Increased with weight-bearing and activity",
+      "suggestedRationale": "Osteoarthritis pain is worse with weight-bearing and activity."
+    },
+    {
+      "prompt": "What limits mobility in Osteoarthritis ?",
+      "options": [
+        "Inflammation and fibrosis develop at the joints.",
+        "Degeneration of articulating cartilage occurs in the large joints.",
+        "It progresses bilaterally through the small joints.",
+        "There are no changes in the bone at the affected joints."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Degeneration of articulating cartilage occurs in the large joints.",
+      "suggestedRationale": "OA limits motion because articular cartilage in large weight-bearing joints degenerates."
+    },
+    {
+      "prompt": "A key to identifying Rheumatoid Arthritis is in how it presents itself is or are: ( could be more than 1 choice)",
+      "options": [
+        "Random single joints, progressing to involve other joints",
+        "Bilateral small joints, symmetrical progression to other joints",
+        "Abused or damaged joints first, then joints damaged by compensatory movement",
+        "Progressive degeneration in selected joints",
+        "Systemic inflammatory disorder due to an autoimmune reaction"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Bilateral small joints, symmetrical progression to other joints",
+      "suggestedRationale": "RA typically starts in bilateral, symmetric small joints and is a systemic autoimmune disease; the form offered no combined choice."
+    },
+    {
+      "prompt": "Ankylosis and deformity develop in rheumatoid arthritis because",
+      "options": [
+        "skeletal muscle hypertrophies.",
+        "fibrosis occurs in the joint.",
+        "replacement cartilage changes alignment.",
+        "ligaments and tendons shorten."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. fibrosis occurs in the joint.",
+      "suggestedRationale": "Fibrosis in the joint produces ankylosis and deformity (tendon shortening also contributes)."
+    },
+    {
+      "prompt": "Signs and Symptoms of systemic effect of Rheumatoid Arthritis are?",
+      "options": [
+        "nodules in various tissues, severe fatigue, and anorexia.",
+        "headache, leukopenia, and high fever.",
+        "swelling and dysfunction in many organs.",
+        "progressive damage to a joint."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. nodules in various tissues, severe fatigue, and anorexia.",
+      "suggestedRationale": "Systemic RA features include rheumatoid nodules, fatigue, and anorexia."
+    },
+    {
+      "prompt": "A precipitating factor for Gout is",
+      "options": [
+        "A sudden increase in serum uric acid levels",
+        "Severe hypercalcemia",
+        "Mild trauma to the toes",
+        "Development of a tophus"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. A sudden increase in serum uric acid levels",
+      "suggestedRationale": "A sudden rise in serum uric acid can precipitate an acute gout attack."
+    },
+    {
+      "prompt": "Individuals living with ankylosing spondylitis- the diseases begins with",
+      "options": [
+        "Costovertebral joints with progression down the spine",
+        "Cervical and thoracic vertebrae, causing kyphosis",
+        "Sacroiliac joints with progression up the spine",
+        "Peripheral joints and then proceeds to the vertebrae"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Sacroiliac joints with progression up the spine",
+      "suggestedRationale": "Ankylosing spondylitis usually starts in the sacroiliac joints and ascends the spine."
+    },
+    {
+      "prompt": "Major complication from a Fat Emboli from a broken long bone is",
+      "options": [
+        "Additional ischemia in the broken bone",
+        "Nonunion or malunion of the fracture",
+        "Pulmonary inflammation and obstruction or embolus",
+        "Abscess and infection at a distant site"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Pulmonary inflammation and obstruction or embolus",
+      "suggestedRationale": "Fat emboli from long-bone fractures lodge in the lungs and cause inflammation and vascular obstruction."
+    },
+    {
+      "prompt": "The distinguishing feature of primary fibromyalgia syndrome is",
+      "options": [
+        "Joint pain and stiffness throughout the body",
+        "Degeneration and atrophy of skeletal muscles in back and lower limbs",
+        "Localized areas of constant pain",
+        "Specific trigger points for pain and tenderness"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Specific trigger points for pain and tenderness",
+      "suggestedRationale": "Fibromyalgia is characterized by specific tender/trigger points."
+    },
+    {
+      "prompt": "Ewing’s sarcoma metastasizes at an early stage to the",
+      "options": [
+        "brain.",
+        "liver.",
+        "lungs.",
+        "other bones."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. lungs.",
+      "suggestedRationale": "Ewing sarcoma tends to metastasize early to the lungs."
+    },
+    {
+      "prompt": "Rickets disease is:",
+      "options": [
+        "excessive bone resorption by osteoclasts.",
+        "a deficit of vitamin D and phosphates.",
+        "replacement of bone by fibrous tissue.",
+        "hyperparathyroidism"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. a deficit of vitamin D and phosphates.",
+      "suggestedRationale": "Rickets is caused by a deficit of vitamin D and phosphate, impairing mineralization."
+    },
+    {
+      "prompt": "Paget’s disease often leads to which of the following?",
+      "options": [
+        "A reduction in bone fractures",
+        "Decreased intracranial pressure",
+        "Cardiovascular disease",
+        "Disintegration of joint cartilage"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Cardiovascular disease",
+      "suggestedRationale": "Paget disease of bone can lead to high-output cardiovascular disease."
+    },
+    {
+      "prompt": "The type of compound fracture in which there are multiple fracture lines and bone fragments is referred to as a/an",
+      "options": [
+        "compression fracture.",
+        "greenstick fracture.",
+        "simple fracture.",
+        "comminuted fracture"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. comminuted fracture",
+      "suggestedRationale": "A comminuted fracture has multiple fracture lines and fragments."
+    },
+    {
+      "prompt": "Fluid-filled sacs composed of synovial membrane located between structures such as tendons and ligaments and act as additional cushions are called",
+      "options": [
+        "articular capsules.",
+        "bursae.",
+        "synovial sacs.",
+        "hyaline chambers."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. bursae.",
+      "suggestedRationale": "Bursae are synovial-lined sacs that cushion tendons and ligaments."
+    },
+    {
+      "prompt": "In which structure do pain impulses ascend the spinal cord?",
+      "options": [
+        "Reticular formation",
+        "Corticospinal tract",
+        "Spinothalamic tract",
+        "Relevant dermatome"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Spinothalamic tract",
+      "suggestedRationale": "Pain impulses ascend the cord in the spinothalamic tract."
+    },
+    {
+      "prompt": "According to the gate-control theory, passage of pain impulses may be naturally blocked",
+      "options": [
+        "at the synapse by entry of other sensory impulses.",
+        "by the stress response.",
+        "by administration of morphine directly into the spinal cord.",
+        "by referring the pain to other parts of the body."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. at the synapse by entry of other sensory impulses.",
+      "suggestedRationale": "Gate control: competing sensory input can block pain transmission at the spinal synapse."
+    },
+    {
+      "prompt": "What is the definition of endorphins?",
+      "options": [
+        "Neurotransmitters at the nociceptors",
+        "Transmitters for sensory impulses",
+        "Opiate-like blocking agents in the central nervous system",
+        "Pain-causing chemical mediators"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Opiate-like blocking agents in the central nervous system",
+      "suggestedRationale": "Endorphins are endogenous, opiate-like pain-blocking peptides in the CNS."
+    },
+    {
+      "prompt": "Which of the following applies to spinal anesthesia?",
+      "options": [
+        "It causes analgesia with loss of consciousness.",
+        "The drug is injected into cerebrospinal fluid (CSF) or the epidural space of the spinal cord.",
+        "The drug stimulates release of endorphins in the spinal cord.",
+        "The transmission of pain impulses is blocked in a small area of the body."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. The drug is injected into cerebrospinal fluid (CSF) or the epidural space of the spinal cord.",
+      "suggestedRationale": "Spinal or epidural anesthesia is injected into the CSF or epidural space and does not cause unconsciousness."
+    },
+    {
+      "prompt": "What is the role of nociceptors?",
+      "options": [
+        "pain receptors that are stimulated by thermal, chemical, or physical means.",
+        "spinal nerves that conduct impulses from specific areas of the skin.",
+        "responsible for the state of arousal with pain.",
+        "useful in localizing pain to a specific area of the body."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. pain receptors that are stimulated by thermal, chemical, or physical means.",
+      "suggestedRationale": "Nociceptors are pain receptors activated by thermal, chemical, or mechanical stimuli."
+    },
+    {
+      "prompt": "Pain that is caused by trauma or disease involving the peripheral nerves is referred to as",
+      "options": [
+        "neuropathic pain.",
+        "central pain.",
+        "neurogenic pain.",
+        "referred pain."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. neuropathic pain.",
+      "suggestedRationale": "Pain from disease or trauma of peripheral nerves is neuropathic pain."
+    },
+    {
+      "prompt": "Opioids released within the central nervous system are secreted by",
+      "options": [
+        "astrocytes.",
+        "motoneurons.",
+        "oligodendrocytes.",
+        "interneurons."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. interneurons.",
+      "suggestedRationale": "CNS opioid peptides (enkephalins/endorphins) are released by interneurons."
+    },
+    {
+      "prompt": "The release of neuropeptides due to a reduction in serotonin is often the cause of",
+      "options": [
+        "migraine.",
+        "tension headache.",
+        "phantom pain.",
+        "visceral pain."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. migraine.",
+      "suggestedRationale": "Migraine is linked to falling serotonin and release of vasoactive neuropeptides."
+    }
+  ]
+}

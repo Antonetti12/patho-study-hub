@@ -1,0 +1,2429 @@
+{
+  "wk-1-practice": {
+    "0": [
+      1,
+      "Manifestations are the signs and symptoms of a disease."
+    ],
+    "1": [
+      2,
+      "Iatrogenic disease is caused by a treatment or prescribed drug."
+    ],
+    "2": [
+      1,
+      "Fever is a systemic sign; the other options are localized findings."
+    ],
+    "3": [
+      3,
+      "Atrophy is a decrease in cell size."
+    ],
+    "4": [
+      2,
+      "Dysplasia is disordered growth with variable cell size/shape and increased mitoses."
+    ],
+    "5": [
+      1,
+      "Among these options, ischemia is the oxygen deficit in cells from circulatory (or related) compromise; hypoxia is not listed."
+    ],
+    "6": [
+      3,
+      "Necrosis is death of a group of cells in the body."
+    ],
+    "7": [
+      3,
+      "Cancer refers to a malignant neoplasm."
+    ],
+    "8": [
+      1,
+      "Mildly injured cells can often repair themselves if the stressor is removed."
+    ],
+    "9": [
+      2,
+      "Caseous necrosis is a thick, cheesy debris typical of TB lesions."
+    ],
+    "10": [
+      3,
+      "A precipitating factor triggers an acute flare of a chronic disease."
+    ],
+    "11": [
+      1,
+      "Sunscreen and vaccines are preventive measures."
+    ],
+    "12": [
+      3,
+      "A complication is a new secondary problem after the original disease."
+    ],
+    "13": [
+      7,
+      "Hypoxia, extreme cold, pressure, and chemical toxins can all injure or kill cells."
+    ],
+    "14": [
+      2,
+      "A syndrome is a set of signs and symptoms that occur together."
+    ],
+    "15": [
+      3,
+      "The false statement is that early cell injury leaves metabolism, structure, and function unchanged."
+    ],
+    "16": [
+      1,
+      "Confirmed safety and effectiveness from research is evidence-based research."
+    ],
+    "17": [
+      3,
+      "Prolonged myocardial ischemia produces infarction."
+    ],
+    "18": [
+      8,
+      "A complete history includes past and current illness, prescribed and OTC drugs, and allergies."
+    ],
+    "19": [
+      1,
+      "Approved drugs used for an unapproved indication are off-label use."
+    ],
+    "20": [
+      2,
+      "A healthy adult male is about 60% body water."
+    ],
+    "21": [
+      3,
+      "Blood is about 4% of adult male body weight in standard patho tables; the '30%' in the stem looks like a typo."
+    ],
+    "22": [
+      3,
+      "Osmoreceptors that drive thirst are in the hypothalamus."
+    ],
+    "23": [
+      2,
+      "High blood osmotic pressure pulls water from the interstitial fluid into the vascular space."
+    ],
+    "24": [
+      1,
+      "Low plasma proteins lower plasma oncotic pressure, so fluid leaves the vessels."
+    ],
+    "25": [
+      1,
+      "Dehydration concentrates red cells and raises hematocrit."
+    ],
+    "26": [
+      3,
+      "Dry, rough oral mucosa is a typical sign of dehydration."
+    ],
+    "27": [
+      0,
+      "Textbooks list excessive sweating as a common cause of hyponatremia from sodium loss in sweat (hypercalcemia is unrelated)."
+    ],
+    "28": [
+      0,
+      "Sodium is the main ECF cation and potassium is the main ICF cation."
+    ],
+    "30": [
+      7,
+      "Hypocalcemia increases skeletal-muscle twitching/spasms and weakens cardiac contraction; constipation and low phosphate fit hypercalcemia."
+    ],
+    "31": [
+      0,
+      "Tetany is caused by low serum calcium (increased neuromuscular irritability)."
+    ],
+    "32": [
+      0,
+      "Phosphate is important in bone and acid-base balance and relates inversely to calcium; it is not a major clotting factor (calcium is)."
+    ],
+    "33": [
+      1,
+      "Alkalosis increases nerve-membrane permeability and excitability."
+    ],
+    "34": [
+      2,
+      "The carbonic acid–bicarbonate buffer is controlled by the lungs (CO2) and kidneys (HCO3−)."
+    ],
+    "35": [
+      7,
+      "Aldosterone, hydrogen-ion concentration, and insulin all shift or excrete potassium; ADH does not primarily regulate K+."
+    ],
+    "36": [
+      0,
+      "Aldosterone is the primary hormonal control of body sodium (ADH mainly controls water)."
+    ],
+    "37": [
+      7,
+      "Same as the earlier hypocalcemia item: muscle spasms plus weak cardiac contractions."
+    ],
+    "38": [
+      3,
+      "Renal compensation is the slowest acid-base control system."
+    ],
+    "39": [
+      0,
+      "Lactic acid is buffered by bicarbonate, so serum HCO3− falls (metabolic acidosis, lower pH)."
+    ],
+    "40": [
+      2,
+      "Acidosis primarily depresses the central nervous system."
+    ],
+    "41": [
+      3,
+      "Emphysema causes CO2 retention (respiratory acidosis); kidneys compensate by retaining bicarbonate and excreting acid (lower urine pH)."
+    ],
+    "42": [
+      1,
+      "In acidosis, H+ enters cells in exchange for K+, raising serum potassium."
+    ],
+    "43": [
+      9,
+      "Ketoacids consume HCO3− and lower pH, then Kussmaul respirations drop PCO2, urine acidifies, and pH begins to recover."
+    ],
+    "44": [
+      4,
+      "ANP is released by stretched cardiac muscle and promotes sodium and water loss; it is not a renal hormone and is not triggered by low blood pressure."
+    ],
+    "46": [
+      0,
+      "Endorphins released in the stress response act as natural pain blockers."
+    ],
+    "47": [
+      2,
+      "Prolonged stress vasoconstriction can ischemicize the gut and kidney, leading to stress ulcers or acute renal failure."
+    ],
+    "48": [
+      7,
+      "The stress response integrates hypothalamus, pituitary (hypophysis), sympathetic nerves, and adrenal glands."
+    ],
+    "49": [
+      3,
+      "Multiple simultaneous stressors, past experience, and poor coping all change how a stressor is perceived."
+    ]
+  },
+  "wk-2-practice": {
+    "0": [
+      1,
+      "Sensitized T and B lymphocytes are specific (adaptive) immunity; the others are nonspecific defenses."
+    ],
+    "1": [
+      2,
+      "Inflammation is a nonspecific response to any tissue injury."
+    ],
+    "3": [
+      0,
+      "Inflammatory edema comes from leaky capillaries that put fluid and protein into the interstitium."
+    ],
+    "4": [
+      8,
+      "After injury: brief vasoconstriction, then dilation and hyperemia, increased permeability, and leukocyte migration."
+    ],
+    "5": [
+      0,
+      "Cutaneous vasodilation sheds heat; shivering and higher metabolic rate would raise temperature."
+    ],
+    "6": [
+      0,
+      "Acetaminophen (Tylenol) is not a spice and has little anti-inflammatory effect, unlike turmeric, ginger, or basil."
+    ],
+    "7": [
+      1,
+      "Cytokines are produced especially by macrophages (and T cells); that is the best match among the options."
+    ],
+    "8": [
+      3,
+      "C-reactive protein appears in serum within 24–48 hours of acute inflammation or necrosis."
+    ],
+    "9": [
+      3,
+      "Major burns raise metabolic demand through heat loss, tissue repair, and an ongoing stress response."
+    ],
+    "10": [
+      3,
+      "Cool the burn with clean tepid water and remove clothing that is not stuck to the wound."
+    ],
+    "11": [
+      0,
+      "Burn severity depends mainly on temperature, duration, and extent of the burn (the option even flags this as correct)."
+    ],
+    "12": [
+      1,
+      "Healing sequence: clot, phagocytic cleanup, granulation tissue and new vessels, then collagen scar."
+    ],
+    "13": [
+      1,
+      "Cold causes local vasoconstriction, which limits swelling after injury (RICE)."
+    ],
+    "14": [
+      0,
+      "Macrophages are the main phagocytic cells listed; lymphocytes are not professional phagocytes."
+    ],
+    "15": [
+      7,
+      "NSAIDs including COX-2 inhibitors, ibuprofen, and aspirin are anti-inflammatory, analgesic, and antipyretic; acetaminophen is not anti-inflammatory, and steroids are not NSAID-type analgesics."
+    ],
+    "16": [
+      3,
+      "Physical injury, allergy, and infection can all trigger inflammation."
+    ],
+    "17": [
+      2,
+      "Interferons protect nearby uninfected cells from viruses."
+    ],
+    "18": [
+      1,
+      "An abscess is a pocket of purulent (pus) exudate."
+    ],
+    "19": [
+      0,
+      "Neutrophils rise in the blood and carry out acute phagocytosis."
+    ],
+    "20": [
+      2,
+      "Full-thickness skin loss heals best when covered with a graft or biosynthetic substitute, not by simple regeneration."
+    ],
+    "21": [
+      0,
+      "Ice reduces edema by local vasoconstriction."
+    ],
+    "22": [
+      6,
+      "Long-term glucocorticoids atrophy lymphoid tissue and decrease protein synthesis (and actually lower, not raise, infection resistance)."
+    ],
+    "23": [
+      0,
+      "Serous exudate is thin, watery, and relatively clear or colorless."
+    ],
+    "24": [
+      7,
+      "Skin substitutes reduce infection and protein/fluid loss and speed coverage; full-thickness burns do not regenerate glands, nerves, or hair."
+    ],
+    "25": [
+      1,
+      "A capsule helps bacteria evade phagocytosis."
+    ],
+    "26": [
+      0,
+      "Mutation means the organism’s genetic information has changed."
+    ],
+    "27": [
+      3,
+      "Endospores can survive heat and drying."
+    ],
+    "28": [
+      2,
+      "A virus has a protein capsid and a DNA or RNA genome, not a true cell wall or its own metabolic enzymes."
+    ],
+    "29": [
+      0,
+      "HIV is a retrovirus: RNA plus reverse transcriptase to convert it to DNA."
+    ],
+    "30": [
+      3,
+      "Antiviral drugs slow viral replication; they do not typically destroy every virion or attack bacterial cell walls."
+    ],
+    "31": [
+      6,
+      "Fungi reproduce by budding, hyphal extension, and spores, not by binary fission."
+    ],
+    "32": [
+      2,
+      "Tinea pedis is a fungus (dermatophyte), not a protozoan."
+    ],
+    "33": [
+      0,
+      "Rickettsiae are tiny gram-negative obligate intracellular bacteria."
+    ],
+    "34": [
+      0,
+      "Urine in the bladder is normally sterile; the pharynx, sputum, and urethra carry flora."
+    ],
+    "35": [
+      1,
+      "A nosocomial infection is acquired in a hospital or other health-care facility."
+    ],
+    "36": [
+      2,
+      "Interferons are a host defense, not a microbial virulence factor."
+    ],
+    "37": [
+      2,
+      "The prodromal period is the early 'coming down with something' phase (headache, fatigue)."
+    ],
+    "38": [
+      3,
+      "Standard/universal precautions assume every person’s body fluids may be infectious."
+    ],
+    "39": [
+      3,
+      "Bacteremia means bacteria are present in the blood; option A describes septicemia (replicating pathogens in the bloodstream)."
+    ],
+    "40": [
+      2,
+      "Pain, redness, and swelling are local signs; fever and leukocytosis are systemic."
+    ],
+    "41": [
+      2,
+      "Culture and sensitivity identify the organism and which drug will work."
+    ],
+    "42": [
+      0,
+      "A broad-spectrum bactericidal drug kills many gram-positive and gram-negative bacteria."
+    ],
+    "43": [
+      3,
+      "Same distinction as earlier: bacteremia is presence of microbes in blood, not uncontrolled sepsis."
+    ],
+    "44": [
+      2,
+      "Local infection signs are pain, erythema, and swelling."
+    ],
+    "45": [
+      1,
+      "Antibacterials can wipe out normal flora and allow a secondary (often opportunistic) infection."
+    ],
+    "46": [
+      2,
+      "Viruses do not undergo mitosis, so blocking mitosis is not an antiviral mechanism."
+    ],
+    "47": [
+      1,
+      "Influenza necroses respiratory mucosa, opening the way for secondary bacterial infection."
+    ],
+    "48": [
+      2,
+      "Leukocytosis commonly indicates a bacterial infection."
+    ],
+    "49": [
+      1,
+      "Viral infections more often cause leukopenia than bacterial infections do."
+    ],
+    "50": [
+      1,
+      "Necrotic respiratory mucosa after influenza commonly leads to secondary infection."
+    ],
+    "51": [
+      2,
+      "Prions are infectious proteins, not organisms that grow on culture media."
+    ],
+    "52": [
+      0,
+      "Opportunism depends mainly on host defenses; toxins, invasiveness, and mutation more directly define virulence."
+    ],
+    "53": [
+      0,
+      "Antiseptics are for living tissue; disinfectants are for inanimate surfaces."
+    ],
+    "54": [
+      0,
+      "Neutrophils are phagocytes."
+    ],
+    "55": [
+      2,
+      "Humoral immunity is mediated by B lymphocytes and their antibodies."
+    ],
+    "56": [
+      0,
+      "A secondary (anamnestic) response is faster and produces higher antibody titers."
+    ],
+    "57": [
+      1,
+      "Vaccination is active artificial immunity."
+    ],
+    "58": [
+      1,
+      "Macrophages process and present antigen as the usual first step in the adaptive response."
+    ],
+    "59": [
+      2,
+      "IgE on mast cells plus allergen is type I hypersensitivity."
+    ],
+    "60": [
+      2,
+      "Memory cells recognize re-exposure and quickly restart a strong immune response."
+    ],
+    "61": [
+      3,
+      "Contact dermatitis is a type IV (delayed, cell-mediated) reaction in the exposed skin."
+    ],
+    "62": [
+      0,
+      "Anaphylaxis is a severe systemic type I allergic reaction."
+    ],
+    "63": [
+      2,
+      "Western blot is the classic confirmatory test after a positive HIV ELISA."
+    ],
+    "64": [
+      3,
+      "SLE involves immune-complex deposits of antinuclear antibodies."
+    ],
+    "65": [
+      0,
+      "HIV primarily infects CD4 helper T lymphocytes."
+    ],
+    "66": [
+      3,
+      "HIV-positive means virus and antibodies are in the blood; it is not the same as a diagnosis of AIDS."
+    ],
+    "67": [
+      4,
+      "TB and Pneumocystis pneumonia are the classic serious opportunistic infections in AIDS."
+    ],
+    "68": [
+      3,
+      "Host-versus-graft disease is rejection of the transplant by the recipient’s immune system (the reverse of GVHD)."
+    ],
+    "69": [
+      6,
+      "HIV is an RNA virus that mutates often and is inactivated by heat and many disinfectants; the latent period is long, not extremely short."
+    ],
+    "70": [
+      0,
+      "Cytokines activate and expand B and T lymphocytes."
+    ],
+    "71": [
+      2,
+      "HIV antibodies mean the virus is present and the person can transmit it; they do not clear the infection."
+    ],
+    "72": [
+      2,
+      "Standard patho texts list Pneumocystis pneumonia as the most common cause of death in AIDS."
+    ],
+    "73": [
+      0,
+      "A cytokine storm is classically associated with acute respiratory distress syndrome."
+    ],
+    "74": [
+      0,
+      "The epidermis has no blood vessels or nerves."
+    ],
+    "75": [
+      1,
+      "Type I reactions to ingested allergens commonly produce urticaria (hives)."
+    ],
+    "76": [
+      2,
+      "Psoriasis shows rapid keratinocyte turnover and shedding of silvery scale."
+    ],
+    "77": [
+      1,
+      "Scratching pruritic lesions lets resident flora enter and cause secondary infection."
+    ],
+    "78": [
+      0,
+      "Furuncles (boils) are usually caused by Staphylococcus aureus."
+    ],
+    "79": [
+      3,
+      "Recurrent herpes simplex is often heralded by mild tingling along the nerve or on the lips."
+    ],
+    "80": [
+      1,
+      "Antivirals shorten the acute phase and reduce viral shedding; they do not eradicate the virus."
+    ],
+    "81": [
+      3,
+      "Necrotizing fasciitis spreads rapidly with extensive necrosis and can cause toxic shock."
+    ],
+    "82": [
+      0,
+      "Tinea infections are caused by dermatophyte fungi."
+    ],
+    "83": [
+      3,
+      "Pediculosis is confirmed by finding nits attached at the base of hair shafts."
+    ],
+    "84": [
+      1,
+      "Melanoma is not a non-pruritic purplish macule (that description fits Kaposi sarcoma better)."
+    ],
+    "85": [
+      2,
+      "Kaposi sarcoma incidence rose with the number of immunosuppressed patients (especially AIDS)."
+    ],
+    "86": [
+      2,
+      "The distribution and shape of the rash often identify the contact allergen."
+    ],
+    "87": [
+      2,
+      "Scleroderma deposits collagen in small vessels of the skin and sometimes internal organs."
+    ],
+    "88": [
+      1,
+      "Impetigo starts as small vesicles that rupture into honey-colored crusts."
+    ],
+    "89": [
+      0,
+      "Dupuytren contracture is palmar fascia thickening that pulls the fingers into flexion."
+    ],
+    "90": [
+      0,
+      "Delayed diagnosis is a major reason necrotizing fasciitis has a high mortality."
+    ]
+  },
+  "exam-1": {
+    "0": [
+      0,
+      "ADH retains water, which increases circulating blood volume."
+    ],
+    "1": [
+      2,
+      "Broken skin is a portal of entry and lowers host resistance."
+    ],
+    "2": [
+      0,
+      "Brain tissue is normally sterile; skin, perineum, and the nasal cavity have flora."
+    ],
+    "3": [
+      1,
+      "Re-exposure produces a faster, stronger secondary immune response."
+    ],
+    "4": [
+      2,
+      "Cellulitis is infection of the dermis and subcutaneous tissue, often by S. aureus after a break in the skin."
+    ],
+    "5": [
+      1,
+      "Early vomiting loses gastric acid and can cause metabolic alkalosis; the other conditions cause acidosis."
+    ],
+    "6": [
+      1,
+      "Malignant melanoma grows quickly and metastasizes to lymph nodes and distant organs."
+    ],
+    "7": [
+      1,
+      "Macrophages are a key part of nonspecific (innate) immunity, though they also present antigen later."
+    ],
+    "8": [
+      2,
+      "Cortisol is made in the adrenal cortex; epinephrine comes from the medulla, and ACTH/ADH are pituitary."
+    ],
+    "9": [
+      2,
+      "Pemphigus is an autoimmune blistering disease."
+    ],
+    "10": [
+      3,
+      "Screening (a cancer scan because of family history) is secondary prevention; seatbelts and vaccines are primary, and managing known diabetes is tertiary."
+    ],
+    "11": [
+      2,
+      "Inflammation is a nonspecific (innate) defense."
+    ],
+    "12": [
+      3,
+      "B lymphocytes differentiate into plasma cells that produce antibodies."
+    ],
+    "13": [
+      2,
+      "Pathophysiology studies the functional changes in the body caused by disease."
+    ],
+    "14": [
+      1,
+      "Idiopathic means the cause is unknown."
+    ],
+    "15": [
+      2,
+      "Coagulative necrosis is denaturation of cell proteins, typical of ischemic infarcts."
+    ],
+    "16": [
+      1,
+      "Loss of bicarbonate produces metabolic acidosis."
+    ],
+    "17": [
+      1,
+      "Hypercalcemia strengthens cardiac contractions and predisposes to kidney stones."
+    ],
+    "18": [
+      1,
+      "Bradykinin from injured tissue activates pain receptors (prostaglandins mainly sensitize them)."
+    ],
+    "19": [
+      1,
+      "Redness and warmth come from increased blood flow (hyperemia) to the injured area."
+    ],
+    "20": [
+      2,
+      "Fever (pyrexia) is the classic systemic feature of extensive inflammation."
+    ],
+    "21": [
+      0,
+      "Chronic inflammation may end in granuloma or scar formation."
+    ],
+    "22": [
+      2,
+      "A full-thickness (third- or fourth-degree) burn destroys all skin layers and may involve deeper tissue."
+    ],
+    "23": [
+      2,
+      "Scar tissue is nonelastic and does not restore original function."
+    ],
+    "24": [
+      1,
+      "Viruses are obligate intracellular parasites and need living host cells to replicate."
+    ],
+    "25": [
+      2,
+      "Cocci are spherical bacteria."
+    ],
+    "26": [
+      2,
+      "Endotoxins are LPS released when gram-negative bacteria die."
+    ],
+    "27": [
+      2,
+      "Rickettsiae are typically spread by insect (arthropod) vectors."
+    ],
+    "28": [
+      1,
+      "The incubation period is the first stage, from exposure until symptoms begin."
+    ],
+    "29": [
+      3,
+      "Bacteriostatic drugs inhibit bacterial reproduction; bactericidal drugs kill bacteria."
+    ],
+    "30": [
+      2,
+      "Prions cause degenerative neurologic diseases (for example, Creutzfeldt-Jakob) and have no nucleic acid."
+    ],
+    "31": [
+      2,
+      "Antibody production is humoral immunity."
+    ],
+    "32": [
+      1,
+      "Macrophages initiate the adaptive response by processing and presenting antigen."
+    ],
+    "33": [
+      2,
+      "IgE mediates allergic (type I) responses."
+    ],
+    "34": [
+      3,
+      "IgM is the first antibody to rise in a primary immune response."
+    ],
+    "35": [
+      1,
+      "Allergic rhinitis is a classic type I hypersensitivity."
+    ],
+    "36": [
+      1,
+      "T lymphocytes carry out cell-mediated immunity."
+    ],
+    "37": [
+      1,
+      "Anaphylactic shock is caused by massive, rapid histamine release with systemic vasodilation."
+    ],
+    "39": [
+      1,
+      "The malar 'butterfly' rash is characteristic of systemic lupus erythematosus."
+    ],
+    "40": [
+      3,
+      "Contact dermatitis is a type IV delayed hypersensitivity."
+    ],
+    "41": [
+      1,
+      "Psoriasis produces silvery plaques from excessive keratinocyte proliferation."
+    ],
+    "42": [
+      2,
+      "Impetigo is most often caused by Staphylococcus aureus; Streptococcus pyogenes can also cause it, so this item is slightly ambiguous."
+    ],
+    "43": [
+      2,
+      "Warts (verrucae) are caused by human papillomavirus."
+    ],
+    "44": [
+      1,
+      "Severe pain out of proportion to early skin findings is the usual first symptom of necrotizing fasciitis."
+    ],
+    "45": [
+      2,
+      "Tinea capitis is fungal infection of the scalp."
+    ],
+    "46": [
+      1,
+      "Pemphigus is autoimmune loss of cohesion between epidermal cells, causing blisters."
+    ],
+    "47": [
+      1,
+      "Scabies presents with intense pruritus and fine burrow tracks."
+    ],
+    "48": [
+      2,
+      "An early melanoma warning is a lesion with irregular borders and color variation (ABCDE)."
+    ],
+    "49": [
+      1,
+      "Scleroderma causes tight, shiny, bound-down skin and can progress to internal organ fibrosis."
+    ]
+  },
+  "chapter-14-practice": {
+    "0": [
+      3,
+      "TIAs are brief ischemic events that resolve but warn of a possible stroke."
+    ],
+    "1": [
+      2,
+      "The somatic nervous system uniquely supplies skeletal muscle; the ANS supplies involuntary effectors."
+    ],
+    "2": [
+      2,
+      "CSF is a clear, plasma-like fluid containing glucose and salts, with very little protein."
+    ],
+    "3": [
+      2,
+      "CSF circulates in the subarachnoid space around the brain and cord."
+    ],
+    "4": [
+      2,
+      "Efferent (motor) neurons carry impulses away from the CNS."
+    ],
+    "5": [
+      3,
+      "The corticospinal tract is a pyramidal motor (efferent) pathway."
+    ],
+    "6": [
+      2,
+      "The limbic system is the main driver of emotional responses."
+    ],
+    "7": [
+      1,
+      "A vegetative state is loss of awareness and cognition with preserved brainstem function."
+    ],
+    "8": [
+      3,
+      "Brain death requires no EEG activity, no reflexes, and no spontaneous respirations—not merely the presence of a head injury."
+    ],
+    "9": [
+      0,
+      "Aphasia is impaired comprehension or expression of language; unclear articulation is dysarthria."
+    ],
+    "10": [
+      0,
+      "Neuroglia support and protect neurons rather than conduct impulses."
+    ],
+    "11": [
+      2,
+      "Decreasing responsiveness (level of consciousness) is an early sign of rising ICP; papilledema and fixed pupils come later."
+    ],
+    "12": [
+      3,
+      "Cushing change is a widening pulse pressure (rising systolic, relatively low diastolic)."
+    ],
+    "13": [
+      0,
+      "Gliomas are the largest group of primary malignant CNS tumors."
+    ],
+    "14": [
+      0,
+      "Papilledema is swelling of the optic disc from transmitted high CSF pressure."
+    ],
+    "15": [
+      1,
+      "The reticular activating system maintains wakefulness and alertness."
+    ],
+    "16": [
+      2,
+      "Rising ICP triggers the Cushing response: systemic vasoconstriction and a slower heart rate."
+    ],
+    "17": [
+      1,
+      "Ipsilateral pupil dilation comes from compression of parasympathetic fibers in CN III."
+    ],
+    "18": [
+      3,
+      "Sympathetic outflow is thoracolumbar (T1–L2) and mobilizes energy for 'fight or flight.'"
+    ],
+    "19": [
+      2,
+      "Parasympathetic nerves conserve energy and have short postganglionic fibers; paravertebral ganglia are sympathetic."
+    ],
+    "20": [
+      1,
+      "Primary brain tumors rarely spread outside the CNS."
+    ],
+    "21": [
+      0,
+      "Irritation and inflammation around a tumor can make nearby neurons fire and produce seizures."
+    ],
+    "22": [
+      2,
+      "An arterial embolus to the brain commonly originates in the carotid (or left heart)—not the venous system."
+    ],
+    "23": [
+      2,
+      "Slow atherosclerotic narrowing allows time for collateral circulation to develop."
+    ],
+    "24": [
+      1,
+      "Infarction and deficits often evolve over 1–2 days, so 'maximum necrosis within several hours' is the exception."
+    ],
+    "25": [
+      0,
+      "Stroke signs depend on the artery involved, its size, and the brain territory it supplies."
+    ],
+    "26": [
+      0,
+      "Decorticate posturing is flexion of the arms with extension of the legs."
+    ],
+    "27": [
+      1,
+      "Cerebral (neocortical) death can leave the brainstem able to maintain basic internal homeostasis."
+    ],
+    "28": [
+      2,
+      "Hypoglycemia, not hyperglycemia, is the typical metabolic trigger for seizures; meningitis, stroke, and fever can precipitate them."
+    ],
+    "29": [
+      3,
+      "A postictal sleep is typical after a tonic-clonic seizure."
+    ],
+    "30": [
+      1,
+      "Alzheimer disease is most often late-onset; plaques and tangles also occur, but acetylcholine is decreased, not increased, so 'all of the above' is wrong."
+    ],
+    "31": [
+      0,
+      "CO2 dilates, rather than constricts, cerebral vessels, so that statement is not true."
+    ],
+    "32": [
+      4,
+      "Dementia can impair new and old memory, abstraction, and language—so none of those functions is reliably spared."
+    ],
+    "33": [
+      1,
+      "A forehead (coup) impact produces a frontal injury and a contrecoup injury at the occipital pole."
+    ],
+    "34": [
+      4,
+      "High cervical cord injury can paralyze the diaphragm (C3–C5) and stop breathing."
+    ],
+    "35": [
+      0,
+      "Autonomic dysreflexia causes hypertension, not hypotension."
+    ],
+    "36": [
+      2,
+      "Best match: sudden focal deficits that clear without infarction (modern definitions usually limit TIA duration to under an hour, so the wording is slightly off)."
+    ],
+    "37": [
+      0,
+      "Stiff neck is a classic SAH sign; Kernig sign can also occur, but the form offered no combined choice."
+    ],
+    "38": [
+      2,
+      "After rupture, blood enters the CSF, so it is not true that CSF 'remains free of blood.'"
+    ],
+    "39": [
+      0,
+      "Acute bacterial meningitis classically presents with severe headache, neck stiffness, and photophobia."
+    ],
+    "40": [
+      3,
+      "Fever, vomiting, stiff neck, and paralysis describe meningitis, not tetanus."
+    ],
+    "41": [
+      3,
+      "GBS is inflammatory demyelination of peripheral nerves with ascending paralysis."
+    ],
+    "42": [
+      0,
+      "Secondary brain injury after trauma commonly comes from hematoma, infection, or ischemia/hypoxia; hematoma or infection is the listed pair."
+    ],
+    "43": [
+      0,
+      "Vertebral fractures are grouped as simple, compression, wedge, or dislocation."
+    ],
+    "44": [
+      0,
+      "As ICP rises, heart rate typically falls (Cushing bradycardia)."
+    ],
+    "45": [
+      1,
+      "Hemorrhagic strokes generally have the poorest prognosis of the CVA types."
+    ],
+    "46": [
+      1,
+      "A ruptured aneurysm presents with sudden severe headache, nuchal rigidity, and photophobia."
+    ],
+    "47": [
+      2,
+      "Neisseria meningitidis typically affects children and adolescents/young adults."
+    ],
+    "48": [
+      2,
+      "Post-polio syndrome is later progressive fatigue and weakness, not a new acute paralysis."
+    ],
+    "49": [
+      0,
+      "Reye syndrome can leave lasting brain and liver injury, so 'no permanent damage' does not apply."
+    ],
+    "50": [
+      0,
+      "Blood in contact with the cortex after head injury irritates neurons and can trigger seizures."
+    ],
+    "51": [
+      0,
+      "Rabies causes hydrophobia, dysphagia, and foaming at the mouth, often with headache."
+    ],
+    "52": [
+      1,
+      "C. tetani typically infects deep, anaerobic puncture wounds."
+    ],
+    "53": [
+      3,
+      "Poliovirus destroys anterior-horn and medullary motor neurons."
+    ],
+    "54": [
+      2,
+      "Noncommunicating hydrocephalus is a blockage in the ventricular pathways (for example, the aqueduct)."
+    ],
+    "55": [
+      1,
+      "Neonates show an enlarging head and sunset eyes; headache and paralysis are more typical in closed-skull older patients."
+    ],
+    "56": [
+      2,
+      "Myelomeningocele herniates meninges, CSF, and spinal cord or nerves through a vertebral defect."
+    ],
+    "57": [
+      1,
+      "A generalized seizure is bilateral, uncontrolled discharge of both hemispheres."
+    ],
+    "58": [
+      2,
+      "After the aura comes loss of consciousness and then the tonic phase."
+    ],
+    "59": [
+      2,
+      "The clonic phase is rhythmic alternating contraction and relaxation of skeletal muscle."
+    ],
+    "60": [
+      1,
+      "Bizarre or inappropriate automatic behavior typifies a psychomotor (complex partial) seizure."
+    ],
+    "61": [
+      3,
+      "MS is a CNS demyelinating disease; it does not randomly degenerate peripheral nerves."
+    ],
+    "62": [
+      1,
+      "Early MS often brings patchy numbness, leg weakness, and visual disturbance."
+    ],
+    "63": [
+      2,
+      "Parkinson disease is degeneration of basal nuclei (substantia nigra) with dopamine deficiency."
+    ],
+    "64": [
+      1,
+      "ALS degenerates both upper and lower motor neurons, not sensory neurons."
+    ],
+    "65": [
+      2,
+      "Huntington disease is autosomal dominant and causes chorea plus declining concentration, usually in mid-adult life."
+    ],
+    "66": [
+      1,
+      "Folic acid supplementation has reduced the incidence of neural-tube defects such as spina bifida."
+    ],
+    "67": [
+      2,
+      "EEG is used to confirm and classify seizure types."
+    ],
+    "68": [
+      3,
+      "Early ALS often shows weakness and atrophy in the hands and arms; cognition and eye movements are typically spared at first."
+    ],
+    "69": [
+      2,
+      "Anticholinesterase drugs temporarily improve neuromuscular transmission in myasthenia gravis."
+    ],
+    "70": [
+      1,
+      "Communicating hydrocephalus is impaired CSF absorption from the subarachnoid space."
+    ],
+    "71": [
+      3,
+      "Creutzfeldt-Jakob disease is a prion infection of the brain."
+    ],
+    "72": [
+      0,
+      "Primary amoebic meningoencephalitis is caused by Naegleria fowleri."
+    ],
+    "73": [
+      0,
+      "Cognition usually remains intact in ALS; death is typically from respiratory failure, not arrhythmia."
+    ]
+  },
+  "chapters-4-9-15-practice": {
+    "0": [
+      0,
+      "Extrinsic eye muscles move the eyeball in the orbit."
+    ],
+    "1": [
+      2,
+      "Pupillary dilation is a sympathetic effect; CN III constricts the pupil."
+    ],
+    "2": [
+      3,
+      "Trachoma is a Chlamydia trachomatis infection of the eye."
+    ],
+    "3": [
+      2,
+      "A narrow cornea–iris angle describes acute (closed-angle) glaucoma, not chronic open-angle glaucoma."
+    ],
+    "4": [
+      3,
+      "Chronic glaucoma typically produces gradual loss of peripheral vision."
+    ],
+    "5": [
+      0,
+      "A cataract is gradual clouding of the lens—true."
+    ],
+    "6": [
+      1,
+      "The inner ear contains the cochlea (organ of Corti) and the semicircular canals; ossicles are middle ear."
+    ],
+    "7": [
+      2,
+      "Conduction deafness can result from ossicles that no longer move freely (otosclerosis or adhesions)."
+    ],
+    "8": [
+      1,
+      "Tinnitus is usually the first warning of ototoxicity."
+    ],
+    "9": [
+      0,
+      "Early age-related macular degeneration reduces central visual acuity."
+    ],
+    "10": [
+      0,
+      "Damage to the auditory nerve causes sensorineural hearing loss."
+    ],
+    "11": [
+      2,
+      "CSF surrounds the optic disc, which is why high ICP causes papilledema."
+    ],
+    "12": [
+      1,
+      "The fovea centralis is the site of sharpest visual acuity."
+    ],
+    "13": [
+      3,
+      "The avascular lens and cornea are nourished by aqueous humor."
+    ],
+    "14": [
+      1,
+      "Trachoma scars and inverts the lids so lashes abrade the cornea."
+    ],
+    "15": [
+      7,
+      "Staph conjunctivitis (pinkeye) involves the conjunctiva and is highly contagious; it does not usually cause permanent visual loss."
+    ],
+    "16": [
+      1,
+      "Herpes simplex keratitis is a classic cause of corneal ulceration and scarring."
+    ],
+    "17": [
+      3,
+      "Proprioceptors sense joint position, movement, and muscle stretch."
+    ],
+    "18": [
+      3,
+      "Acetylcholine is the transmitter at the neuromuscular junction."
+    ],
+    "19": [
+      2,
+      "The two bone tissues are compact and cancellous (spongy)."
+    ],
+    "20": [
+      0,
+      "A Colles fracture is a break of the distal radius."
+    ],
+    "21": [
+      2,
+      "The fracture hematoma is the framework into which granulation tissue grows."
+    ],
+    "22": [
+      1,
+      "The fibrocartilaginous (procallus) callus acts as a splint and cannot bear weight; the form listed no combined option."
+    ],
+    "23": [
+      1,
+      "Marked inflammation around a fracture can compromise blood flow and cause ischemia or necrosis."
+    ],
+    "24": [
+      1,
+      "A sedentary lifestyle, long-term glucocorticoids, and calcium deficit predispose to osteoporosis; weight-bearing activity is protective. No combined choice was listed."
+    ],
+    "25": [
+      2,
+      "Osteoporosis can be secondary, so it is not always a primary disorder."
+    ],
+    "26": [
+      0,
+      "Duchenne dystrophy is X-linked recessive and shows Gower/stair difficulty at ages 2–3; it is not limited to the legs, and calves are pseudohypertrophic. The form had no combined key."
+    ],
+    "27": [
+      3,
+      "Osteosarcoma pain is typically steady, deep, and persists at rest."
+    ],
+    "28": [
+      3,
+      "Osteoarthritis pain is worse with weight-bearing and activity."
+    ],
+    "29": [
+      1,
+      "OA limits motion because articular cartilage in large weight-bearing joints degenerates."
+    ],
+    "30": [
+      1,
+      "RA typically starts in bilateral, symmetric small joints and is a systemic autoimmune disease; the form offered no combined choice."
+    ],
+    "31": [
+      1,
+      "Fibrosis in the joint produces ankylosis and deformity (tendon shortening also contributes)."
+    ],
+    "32": [
+      0,
+      "Systemic RA features include rheumatoid nodules, fatigue, and anorexia."
+    ],
+    "33": [
+      0,
+      "A sudden rise in serum uric acid can precipitate an acute gout attack."
+    ],
+    "34": [
+      2,
+      "Ankylosing spondylitis usually starts in the sacroiliac joints and ascends the spine."
+    ],
+    "35": [
+      2,
+      "Fat emboli from long-bone fractures lodge in the lungs and cause inflammation and vascular obstruction."
+    ],
+    "36": [
+      3,
+      "Fibromyalgia is characterized by specific tender/trigger points."
+    ],
+    "37": [
+      2,
+      "Ewing sarcoma tends to metastasize early to the lungs."
+    ],
+    "38": [
+      1,
+      "Rickets is caused by a deficit of vitamin D and phosphate, impairing mineralization."
+    ],
+    "39": [
+      2,
+      "Paget disease of bone can lead to high-output cardiovascular disease."
+    ],
+    "40": [
+      3,
+      "A comminuted fracture has multiple fracture lines and fragments."
+    ],
+    "41": [
+      1,
+      "Bursae are synovial-lined sacs that cushion tendons and ligaments."
+    ],
+    "42": [
+      2,
+      "Pain impulses ascend the cord in the spinothalamic tract."
+    ],
+    "43": [
+      0,
+      "Gate control: competing sensory input can block pain transmission at the spinal synapse."
+    ],
+    "44": [
+      2,
+      "Endorphins are endogenous, opiate-like pain-blocking peptides in the CNS."
+    ],
+    "45": [
+      1,
+      "Spinal or epidural anesthesia is injected into the CSF or epidural space and does not cause unconsciousness."
+    ],
+    "46": [
+      0,
+      "Nociceptors are pain receptors activated by thermal, chemical, or mechanical stimuli."
+    ],
+    "47": [
+      0,
+      "Pain from disease or trauma of peripheral nerves is neuropathic pain."
+    ],
+    "48": [
+      3,
+      "CNS opioid peptides (enkephalins/endorphins) are released by interneurons."
+    ],
+    "49": [
+      0,
+      "Migraine is linked to falling serotonin and release of vasoactive neuropeptides."
+    ]
+  },
+  "chapter-13-practice": {
+    "0": [
+      0,
+      "Relaxing the diaphragm and external intercostals decreases thoracic volume and forces air out (expiration)."
+    ],
+    "1": [
+      8,
+      "Respiratory mucosa is continuous through the upper and lower tracts, sinuses, pharynx, and the auditory tube/middle ear."
+    ],
+    "2": [
+      3,
+      "Vital capacity is the maximum volume exhaled after a maximum inspiration."
+    ],
+    "3": [
+      1,
+      "Pulmonary-artery blood is venous blood going to the lungs, so PO2 is low; hydrostatic pressure there is not high."
+    ],
+    "4": [
+      0,
+      "Epinephrine stimulates β2 receptors and dilates bronchi; histamine, parasympathetic input, and β2 blockers do the opposite."
+    ],
+    "5": [
+      3,
+      "Central chemoreceptors respond primarily to elevated PaCO2 (via CSF pH/H+)."
+    ],
+    "6": [
+      1,
+      "Oxygen diffuses down its pressure gradient because alveolar PO2 is higher than blood PO2."
+    ],
+    "7": [
+      2,
+      "Most carbon dioxide is carried as bicarbonate ion."
+    ],
+    "8": [
+      1,
+      "Respiratory alkalosis is caused by a low PaCO2, so PaCO2 is always decreased; bicarbonate falls only after renal compensation."
+    ],
+    "9": [
+      2,
+      "Carbaminohemoglobin is CO2 bound to amino groups on the globin chains, not to heme iron."
+    ],
+    "10": [
+      2,
+      "Light, bubbly crackles from serous secretions are rales (crackles)."
+    ],
+    "11": [
+      1,
+      "Laryngotracheobronchitis (croup) is typically viral and most common in children about 3 months to 3 years old."
+    ],
+    "12": [
+      1,
+      "Infectious rhinitis begins with watery discharge, congestion, and sneezing, not purulent drainage."
+    ],
+    "13": [
+      3,
+      "Antigenic drift or shift means immunity from a prior influenza infection may not protect against a new strain."
+    ],
+    "14": [
+      1,
+      "Influenza is the most common cause of viral pneumonia; H. influenzae and pneumococcus are bacteria."
+    ],
+    "15": [
+      1,
+      "Alveolar congestion and exudate impair oxygen diffusion and cause hypoxia."
+    ],
+    "16": [
+      1,
+      "Rust-colored sputum is classically associated with Streptococcus pneumoniae (pneumococcal) pneumonia."
+    ],
+    "17": [
+      null,
+      "A, B, and C are true of TB (reactivation when resistance falls, caseous tubercles, acid-fast bacillus not limited to the lungs). D overstates the role of HIV; TB is not only an opportunistic HIV infection.",
+      "A, B, and C"
+    ],
+    "18": [
+      0,
+      "Histoplasmosis is a fungal infection."
+    ],
+    "19": [
+      1,
+      "Cystic fibrosis is autosomal recessive and affects exocrine glands."
+    ],
+    "20": [
+      1,
+      "Thick mucus blocks pancreatic ducts, so digestive enzymes do not reach the intestine and growth is delayed."
+    ],
+    "21": [
+      null,
+      "Thick bronchiolar mucus causes air trapping, atelectasis, repeated infections, and irreversible lung damage (1–4). “Black meconium” is not a bronchiole effect, and no listed combo is 1–4 alone.",
+      "Air trapping, atelectasis, repeated infections, and irreversible lung damage (1–4)"
+    ],
+    "22": [
+      1,
+      "Hypercalcemia can be a paraneoplastic effect of PTH-like hormone (PTHrP) secretion by some lung tumors."
+    ],
+    "23": [
+      2,
+      "Post-procedure aspiration often follows vomiting from drugs or anesthesia while airway-protective reflexes are depressed."
+    ],
+    "24": [
+      6,
+      "During an acute attack, obstruction comes from mucosal edema and thick mucus (and bronchoconstriction), not from muscle relaxation."
+    ],
+    "25": [
+      0,
+      "Barrel chest in emphysema reflects air trapping, hyperinflation, and an increased residual volume."
+    ],
+    "26": [
+      null,
+      "In emphysema the gas-exchange surface is reduced, elastic-fiber breakdown may be genetic (α1-antitrypsin), and expiration is impaired. V/Q does not stay constant, and no combo option is listed.",
+      "A, B, and D"
+    ],
+    "27": [
+      0,
+      "Chronic bronchitis is chronic irritation, inflammation, and recurrent infection of the larger airways, usually from smoking."
+    ],
+    "28": [
+      1,
+      "Pulmonary fibrosis and hypoxic vasoconstriction raise pulmonary vascular resistance and strain the right ventricle (cor pulmonale)."
+    ],
+    "29": [
+      3,
+      "Restrictive disorders are grouped by impaired expansion from chest-wall or anatomic problems, or from lung-tissue damage."
+    ],
+    "30": [
+      0,
+      "Inhaled silica and similar dusts cause pulmonary fibrosis and loss of compliance (pneumoconiosis)."
+    ],
+    "31": [
+      1,
+      "Edema fluid makes the lungs stiffer and interferes with expansion and oxygen transfer, producing severe hypoxia."
+    ],
+    "32": [
+      null,
+      "Left-sided heart failure, volume overload, and inhaled toxins can cause pulmonary edema. Hyperproteinemia would raise oncotic pressure and does not cause edema; no combo option is listed.",
+      "A, B, and C"
+    ],
+    "33": [
+      2,
+      "A large pulmonary embolus can obstruct outflow, drop systemic pressure, and cause acute right-sided heart failure."
+    ],
+    "34": [
+      2,
+      "Air distal to a complete airway obstruction is absorbed, and those alveoli collapse (absorption atelectasis)."
+    ],
+    "35": [
+      null,
+      "Flail chest is several ribs fractured at two sites; paradoxical motion can impair venous return and cardiac output. A describes an open chest wound, and tracheal/mediastinal shift toward the unaffected side is more typical of tension pneumothorax.",
+      "B and D"
+    ],
+    "36": [
+      2,
+      "A simple closed pneumothorax typically causes uneven chest movement; tracheal deviation away from the lesion suggests tension pneumothorax."
+    ],
+    "37": [
+      0,
+      "A large open (“sucking”) pneumothorax lets the mediastinum flutter and impairs venous return."
+    ],
+    "38": [
+      5,
+      "ARDS is alveolar-capillary injury with protein-rich fluid in the interstitium and alveoli; surfactant loss raises (does not lower) surface tension."
+    ],
+    "39": [
+      1,
+      "Croup classically presents with a hoarse voice and a barking cough."
+    ],
+    "40": [
+      2,
+      "After a flulike prodrome, SARS typically progresses to interstitial congestion, dyspnea, and a dry cough."
+    ],
+    "41": [
+      0,
+      "A persistent, often nonproductive cough in a smoker is an important early warning; hemoptysis and weight loss tend to appear later."
+    ],
+    "42": [
+      3,
+      "A short-acting β2-agonist inhaler is used for immediate relief of an acute asthma attack."
+    ],
+    "43": [
+      2,
+      "Primary atypical (walking) pneumonia is classically caused by Mycoplasma pneumoniae."
+    ],
+    "44": [
+      0,
+      "Severe hypoxia drives anaerobic metabolism and lactic (metabolic) acidosis."
+    ],
+    "45": [
+      2,
+      "A cytokine storm is a distinctive, severe feature of COVID-19, especially in older adults."
+    ],
+    "46": [
+      1,
+      "Virchow’s triad is the combination of factors that promote thrombus formation (stasis, vessel injury, and hypercoagulability)."
+    ],
+    "47": [
+      3,
+      "Prolonged lack of weight-bearing leads to both bone demineralization and decreased skeletal muscle mass."
+    ],
+    "48": [
+      0,
+      "Reduced gastrointestinal motility from immobility commonly leads to constipation."
+    ],
+    "49": [
+      3,
+      "Immobility predisposes to urinary stasis, renal calculi, and infection."
+    ],
+    "50": [
+      0,
+      "Recumbency shifts blood into the thorax and changes hormone release (including natriuretic peptide), increasing fluid loss and contributing to dehydration."
+    ]
+  },
+  "midterm-practice": {
+    "0": [
+      2,
+      "The femur is a long bone."
+    ],
+    "1": [
+      2,
+      "Osteoclasts resorb bone; osteoblasts form bone."
+    ],
+    "2": [
+      2,
+      "Synovial fluid lubricates the joint and reduces friction."
+    ],
+    "3": [
+      1,
+      "A greenstick fracture is an incomplete break with one side of the bone bent, common in children."
+    ],
+    "4": [
+      1,
+      "Duchenne muscular dystrophy is the most common type in children."
+    ],
+    "5": [
+      1,
+      "In osteoporosis, bone resorption exceeds bone formation, so mass and density fall."
+    ],
+    "6": [
+      1,
+      "Gout is caused by uric acid crystal deposits in joints."
+    ],
+    "7": [
+      2,
+      "Osteoarthritis most often affects weight-bearing joints such as the knees and hips."
+    ],
+    "8": [
+      1,
+      "A ruptured cerebral aneurysm often presents with a sudden severe headache, nuchal rigidity, and photophobia."
+    ],
+    "9": [
+      2,
+      "A TIA causes brief, reversible deficits such as transient weakness in a hand or leg; consciousness is usually preserved."
+    ],
+    "10": [
+      1,
+      "Hemorrhagic strokes generally have the poorest prognosis of the CVA types listed."
+    ],
+    "11": [
+      0,
+      "After the primary injury, secondary brain damage commonly comes from hematoma, infection, ischemia, or swelling."
+    ],
+    "12": [
+      2,
+      "Collateral circulation is more likely when a CVA develops gradually from atherosclerosis than from a sudden embolus or rupture."
+    ],
+    "13": [
+      1,
+      "Secondary (metastatic) brain tumors most often come from lung or breast cancer."
+    ],
+    "14": [
+      1,
+      "A vegetative state is loss of awareness and higher function with continued brainstem function."
+    ],
+    "15": [
+      1,
+      "Pain from inadequate blood flow to the heart is ischemic (anginal) pain."
+    ],
+    "16": [
+      0,
+      "Pain from damaged peripheral nerves is neuropathic pain."
+    ],
+    "17": [
+      2,
+      "Migraines are associated with abnormal cerebral blood flow and neurovascular/metabolic changes."
+    ],
+    "18": [
+      1,
+      "Tension headaches are commonly related to muscle tension from emotional stress."
+    ],
+    "19": [
+      1,
+      "Myelinated A-delta fibers transmit sharp, acute pain; unmyelinated C fibers carry dull, chronic pain."
+    ],
+    "20": [
+      1,
+      "Documentable physiologic signs of acute pain include an elevated heart rate and blood pressure."
+    ],
+    "21": [
+      2,
+      "Endorphins are endogenous opioids that block or reduce pain transmission."
+    ],
+    "22": [
+      2,
+      "A withdrawal reflex produces involuntary movement away from a painful stimulus."
+    ],
+    "23": [
+      2,
+      "The reticular activating system helps determine awareness of incoming sensory (including pain) impulses."
+    ],
+    "24": [
+      0,
+      "Somatic pain arises from skin, bone, or muscle; visceral pain arises from organs."
+    ],
+    "25": [
+      2,
+      "Rust-colored sputum is a classic clue to pneumococcal (Streptococcus pneumoniae) pneumonia."
+    ],
+    "26": [
+      3,
+      "An epidural hematoma is between the dura mater and the skull."
+    ],
+    "27": [
+      0,
+      "“Gross level” refers to organs or organ systems, as opposed to the cellular/microscopic level."
+    ],
+    "28": [
+      1,
+      "Anthrax is caused by Bacillus anthracis, a gram-positive bacillus that can infect skin or the GI tract in humans and cattle."
+    ],
+    "29": [
+      3,
+      "Inflammation is a nonspecific defense; antigen–antibody responses, humoral immunity, and T cells are specific."
+    ],
+    "30": [
+      3,
+      "The supine position reduces the effect of gravity on many body functions (an important issue in immobility)."
+    ],
+    "31": [
+      2,
+      "Acute necrotizing fasciitis is typically caused by group A beta-hemolytic streptococcus."
+    ],
+    "32": [
+      2,
+      "Cortisol, the main glucocorticoid stress hormone, is made by the adrenal cortex (aldosterone is also cortical but is not the primary “stress hormone”)."
+    ],
+    "33": [
+      0,
+      "Sensory (afferent) fibers carry impulses toward the CNS; motor (efferent) fibers carry them away."
+    ],
+    "34": [
+      2,
+      "Bacteriostatic agents inhibit microbial growth without necessarily killing the organisms."
+    ],
+    "35": [
+      2,
+      "Vital capacity is the maximum volume of air that can be moved in and out of the lungs."
+    ],
+    "36": [
+      2,
+      "Depression is a common psychosocial complication of prolonged immobility."
+    ],
+    "37": [
+      1,
+      "Pneumocystis pneumonia (a fungal infection) is a classic, often life-threatening opportunistic infection in AIDS."
+    ],
+    "38": [
+      1,
+      "An incompatible blood transfusion is a type II (cytotoxic) hypersensitivity reaction."
+    ],
+    "39": [
+      1,
+      "Manifestations of a disease are its signs and symptoms."
+    ],
+    "40": [
+      2,
+      "Active tuberculosis is confirmed by identifying acid-fast bacilli (or equivalent microbiologic evidence) in sputum; a skin test only shows exposure."
+    ],
+    "41": [
+      2,
+      "Flail chest occurs when several ribs are fractured in two places, creating a free-floating segment."
+    ],
+    "42": [
+      2,
+      "Loss of vision is not a typical feature of advanced Parkinson disease; swallowing difficulty, urinary problems, and orthostatic hypotension can occur."
+    ],
+    "43": [
+      2,
+      "Hypocalcemia increases neuromuscular irritability and can cause tetany, including in the face and hands."
+    ],
+    "44": [
+      2,
+      "Fractures of the pelvis or long bones (such as the femur) can release fat emboli, especially with movement after injury."
+    ],
+    "45": [
+      2,
+      "Gate-control theory describes synapses in the spinal cord and brain that can permit or block pain signals."
+    ],
+    "46": [
+      0,
+      "The wording points to how a simpler, cleaner wound or fracture heals: by first (primary) intention. A compound wound with more tissue damage is closer to second intention."
+    ],
+    "47": [
+      2,
+      "Elephantiasis from lymphatic obstruction by parasites is a form of lymphedema."
+    ],
+    "48": [
+      1,
+      "Early multiple sclerosis often causes patchy numbness, leg weakness, and visual problems."
+    ]
+  },
+  "cardiac-practice": {
+    "0": [
+      0,
+      "Septic shock is commonly triggered by gram-negative bacteria and their endotoxin."
+    ],
+    "1": [
+      2,
+      "Excess pericardial fluid (tamponade) limits filling and therefore reduces venous return and cardiac output."
+    ],
+    "2": [
+      1,
+      "Edema around varicose veins can impair arterial perfusion of the skin, so ulcers form and heal slowly."
+    ],
+    "3": [
+      1,
+      "Periprocedural antibiotics are given to prevent infective endocarditis in patients with certain valve or congenital lesions."
+    ],
+    "4": [
+      1,
+      "In rheumatic fever, myocarditis is the lesion most likely to cause arrhythmias."
+    ],
+    "5": [
+      3,
+      "A VSD usually shunts blood from the higher-pressure left ventricle to the right ventricle (left-to-right)."
+    ],
+    "6": [
+      0,
+      "ACE inhibitors reduce angiotensin II and therefore reduce aldosterone (and the effects of renin–angiotensin signaling)."
+    ],
+    "7": [
+      4,
+      "Tachycardia, cardiomegaly, vasoconstriction, and renin–aldosterone activation all eventually increase the work of the failing heart."
+    ],
+    "8": [
+      7,
+      "A large right-ventricular infarct or advanced COPD/pulmonary hypertension overloads the right side first; mitral stenosis and essential hypertension strain the left side first."
+    ],
+    "9": [
+      3,
+      "A very rapid rate shortens diastole, so ventricular filling and stroke volume fall."
+    ],
+    "10": [
+      2,
+      "An occlusive thrombus in situ is more likely to cause extensive, permanent infarction than a transient embolus or an arrhythmia alone."
+    ],
+    "11": [
+      1,
+      "Second-degree AV block produces intermittent dropped ventricular beats."
+    ],
+    "12": [
+      0,
+      "Early (distributive) septic shock often presents with fever and warm, flushed skin, unlike cool, pale hypovolemic shock."
+    ],
+    "13": [
+      5,
+      "MI is confirmed by characteristic ECG changes plus elevated cardiac biomarkers; pain pattern and nonspecific inflammation are less definitive."
+    ],
+    "14": [
+      3,
+      "Nitroglycerin is a vasodilator that reduces workload; it does not strengthen contraction."
+    ],
+    "15": [
+      2,
+      "Ventricular fibrillation produces no effective cardiac output and is the most immediately lethal arrhythmia listed."
+    ],
+    "16": [
+      1,
+      "A pacemaker is used for symptomatic or high-grade heart block; defibrillation (not a pacing indication here) treats ventricular fibrillation."
+    ],
+    "17": [
+      0,
+      "Orthostatic hypotension is a common adverse effect of many antihypertensive drugs."
+    ],
+    "18": [
+      2,
+      "Left-sided failure presents early with dyspnea on exertion or lying down; right-sided failure presents with peripheral edema such as ankle swelling."
+    ],
+    "19": [
+      1,
+      "Burn shock is driven by pain and massive plasma loss into injured tissues, not primarily by hemorrhage."
+    ],
+    "20": [
+      1,
+      "Anaerobic metabolism and poor renal perfusion in shock produce metabolic acidosis."
+    ],
+    "21": [
+      0,
+      "Prolonged shock can injure pulmonary capillaries (shock lung/ARDS) and increase their permeability."
+    ],
+    "22": [
+      3,
+      "Neurogenic shock is loss of vasomotor tone, so vascular capacity rises and venous return falls."
+    ],
+    "23": [
+      1,
+      "Anaphylaxis causes rapid hypoxia from bronchoconstriction and airway edema as well as vasodilation."
+    ],
+    "24": [
+      0,
+      "Compensated shock includes tachycardia and oliguria (sympathetic and renin–aldosterone effects)."
+    ],
+    "25": [
+      5,
+      "Early signs include pale moist skin and anxiety or restlessness. Loss of consciousness is late; a rapid pulse occurs early, but “strong” is only briefly true, and no option lists 1, 3, and 4 together."
+    ],
+    "26": [
+      3,
+      "Cardiogenic shock after MI occurs when a large portion of the myocardium is damaged and pump function collapses."
+    ],
+    "27": [
+      1,
+      "Echocardiography shows chamber and valve motion (and estimated flows); it is not the test of the conduction system itself."
+    ],
+    "28": [
+      2,
+      "Intermittent claudication is ischemic leg-muscle pain, typically brought on by exercise and relieved by rest."
+    ],
+    "29": [
+      5,
+      "Iliac or femoral atherosclerosis can cause claudication and, when severe, ischemic or gangrenous ulcers; pulses are weakened, not strong."
+    ],
+    "30": [
+      0,
+      "The key target organs of uncontrolled hypertension include the kidneys, brain, and retina."
+    ],
+    "31": [
+      7,
+      "Pericarditis can follow infection, immune reactions, injury, or malignancy — all of the listed causes."
+    ],
+    "32": [
+      2,
+      "Pericardial effusion limits diastolic filling, so stroke volume and cardiac output fall."
+    ],
+    "33": [
+      0,
+      "Infective vegetations are fragile and can break off as septic emboli."
+    ],
+    "34": [
+      3,
+      "The initial cardiac injury in rheumatic fever is a pancarditis from an abnormal immune response, not direct streptococcal infection of the heart."
+    ],
+    "35": [
+      1,
+      "Cyanosis appears when a large amount of unoxygenated hemoglobin reaches the systemic circulation."
+    ],
+    "36": [
+      1,
+      "Pulmonary stenosis raises right-ventricular pressure, so blood shunts right-to-left through the VSD into the overriding aorta."
+    ],
+    "37": [
+      0,
+      "In a typical VSD, blood flows from the higher-pressure left ventricle into the right ventricle."
+    ],
+    "38": [
+      3,
+      "Aortic stenosis produces a characteristic systolic murmur; cardiac output tends to fall, not rise."
+    ],
+    "39": [
+      1,
+      "Beta blockers decrease sympathetic stimulation of the heart (and can reduce renin release)."
+    ],
+    "40": [
+      1,
+      "In infants, feeding difficulty (and poor weight gain or sweating with feeds) is often the first clue to heart failure."
+    ],
+    "41": [
+      1,
+      "Digoxin slows conduction/heart rate and increases the force of contraction."
+    ],
+    "42": [
+      2,
+      "Left-ventricular failure raises hydrostatic pressure in the pulmonary capillaries, causing pulmonary congestion or edema."
+    ],
+    "43": [
+      1,
+      "Decreased cardiac output activates renin–angiotensin–aldosterone, which retains salt and water and is a major CHF compensation."
+    ],
+    "44": [
+      1,
+      "Right-sided failure causes systemic backup: leg edema and hepatomegaly. Frothy blood-streaked sputum is a left-sided (pulmonary edema) sign."
+    ]
+  },
+  "chapter-17-practice": {
+    "0": [
+      0,
+      "The greater omentum can wall off a localized abdominal inflammatory process."
+    ],
+    "1": [
+      1,
+      "Kidneys and most of the pancreas are retroperitoneal, but the stomach is intraperitoneal, so the combined statement is false."
+    ],
+    "2": [
+      1,
+      "Same item as the previous two: the stomach is not retroperitoneal, so the statement is false."
+    ],
+    "3": [
+      1,
+      "Same item as the previous two: the stomach is not retroperitoneal, so the statement is false."
+    ],
+    "4": [
+      0,
+      "Parietal cells secrete hydrochloric acid and intrinsic factor."
+    ],
+    "5": [
+      1,
+      "Secretin stimulates a bicarbonate-rich pancreatic secretion that buffers acidic chyme in the duodenum."
+    ],
+    "6": [
+      1,
+      "In the liver, oxygenated hepatic-artery blood mixes with nutrient-rich portal venous blood to supply hepatocytes."
+    ],
+    "7": [
+      1,
+      "Parasympathetic (vagus) stimulation increases peristalsis and digestive secretions; sympathetic stimulation inhibits them."
+    ],
+    "8": [
+      0,
+      "Pancreatic exocrine juice is rich in bicarbonate; digestive enzymes are secreted in inactive form, and insulin is endocrine."
+    ],
+    "9": [
+      1,
+      "The enterogastric reflex lets intestinal filling slow gastric emptying and gastric activity."
+    ],
+    "10": [
+      2,
+      "Gluconeogenesis is formation of glucose from noncarbohydrate precursors such as protein and fat."
+    ],
+    "11": [
+      0,
+      "Early vomiting loses gastric acid and tends to cause metabolic alkalosis."
+    ],
+    "12": [
+      2,
+      "Prolonged severe vomiting causes hypovolemia and lactic acid production, which can shift the picture to metabolic acidosis."
+    ],
+    "13": [
+      2,
+      "The defecation reflex is coordinated through the sacral spinal cord (and requires relaxation of the external sphincter to void)."
+    ],
+    "14": [
+      2,
+      "Esophageal atresia is a blind-ending esophagus, so fluid and food cannot enter the stomach."
+    ],
+    "15": [
+      1,
+      "Cleft palate occurs when the palatine processes fail to fuse in the first trimester."
+    ],
+    "16": [
+      3,
+      "Oral candidiasis is an opportunistic fungal (yeast) infection; the white plaques can usually be scraped off."
+    ],
+    "17": [
+      2,
+      "Herpes simplex persists in a latent form in sensory nerve ganglia and can reactivate."
+    ],
+    "18": [
+      1,
+      "Periodontitis is bacterial destruction involving the teeth and supporting alveolar bone, deeper than simple gingivitis."
+    ],
+    "19": [
+      1,
+      "Viral infection of the parotid gland is mumps."
+    ],
+    "20": [
+      3,
+      "Intussusception is telescoping of one bowel segment into another; volvulus is twisting."
+    ],
+    "21": [
+      0,
+      "A tumor at the head of the pancreas can obstruct bile or pancreatic flow early, so it may be found sooner."
+    ],
+    "22": [
+      1,
+      "Most gastric cancers are adenocarcinomas of the mucous glands and are often found late."
+    ],
+    "23": [
+      0,
+      "GERD is periodic reflux of gastric contents into the esophagus."
+    ],
+    "24": [
+      2,
+      "Inflammatory bowel disease has a strong genetic and immune-mediated component; a single dietary or toxic cause is not established."
+    ],
+    "25": [
+      3,
+      "The two major causes of acute pancreatitis are gallstones and alcohol abuse."
+    ],
+    "26": [
+      1,
+      "The initial fatty-liver stage of alcoholic liver disease can be reversed with abstinence; cirrhosis cannot."
+    ],
+    "27": [
+      2,
+      "In cirrhosis both conjugated and unconjugated bilirubin typically rise because uptake, conjugation, and excretion are impaired."
+    ],
+    "28": [
+      2,
+      "Hepatitis B is often asymptomatic, which makes it hard to identify and prevent spread; a vaccine is available."
+    ],
+    "29": [
+      5,
+      "Jaundice commonly occurs with hepatocellular carcinoma. Hepatitis usually has a preicteric prodrome and is not always jaundiced, so “first manifestation” and “always jaundiced” are not reliable."
+    ],
+    "30": [
+      0,
+      "Post-hepatic (obstructive) jaundice causes pale stools, dark urine, and pruritus from accumulated bile salts."
+    ],
+    "31": [
+      2,
+      "Esophageal varices reflect portal hypertension from chronic liver disease, not ordinary icteric viral hepatitis."
+    ],
+    "32": [
+      2,
+      "Cholangitis is inflammation, usually infection, of the bile ducts."
+    ],
+    "33": [
+      0,
+      "Late dumping, about 2–3 hours after a meal, causes hypoglycemia from a rapid insulin response to a carbohydrate load."
+    ],
+    "34": [
+      3,
+      "Smoked or nitrate-preserved foods and genetic factors predispose to gastric cancer; NSAIDs/ASA are ulcer risk factors, not typical gastric-carcinoma risks."
+    ],
+    "35": [
+      2,
+      "Hematemesis in peptic ulcer disease usually means a vessel has been eroded; perforation presents as an acute abdomen."
+    ],
+    "36": [
+      2,
+      "Peptic ulcers occur most often in the proximal duodenum."
+    ],
+    "37": [
+      2,
+      "Pigment (bile-pigment) stones are associated with hemolysis and alcoholic cirrhosis; cholesterol stones track more with obesity and estrogen."
+    ],
+    "38": [
+      2,
+      "In PID, infection can travel through the open fallopian tubes directly into the peritoneal cavity."
+    ],
+    "39": [
+      0,
+      "Bile leaking from a perforated gallbladder causes chemical peritonitis, which is often followed by bacterial peritoneal infection."
+    ],
+    "40": [
+      0,
+      "Obstruction causes ongoing vomiting and a third-space fluid shift into the bowel, producing hypovolemic shock."
+    ],
+    "41": [
+      3,
+      "Hirschsprung disease is congenital absence of parasympathetic ganglion cells in a segment of colon, so motility fails."
+    ],
+    "42": [
+      2,
+      "Paralytic ileus produces decreased or absent bowel sounds and severe, relatively steady pain, not hyperactive sounds or colicky waves."
+    ],
+    "43": [
+      2,
+      "Colon cancer usually metastasizes first to the liver via portal venous drainage."
+    ],
+    "44": [
+      1,
+      "Before frank rupture, bacteria can seep through a necrotic appendiceal wall and cause localized peritonitis, which the omentum may then help contain."
+    ],
+    "45": [
+      3,
+      "Localized RLQ tenderness comes from inflammation of the adjacent parietal peritoneum once the process reaches the surface."
+    ],
+    "46": [
+      3,
+      "The exact cause of IBD is unknown (idiopathic); genetic and immune factors are implicated but are not a single proven cause."
+    ],
+    "47": [
+      2,
+      "Iron-deficiency anemia in ulcerative colitis is mainly from chronic blood loss in the stool."
+    ],
+    "48": [
+      3,
+      "In Crohn disease, recurrent inflammation, necrosis, and fibrosis can create a fistula between loops of bowel or to other organs."
+    ],
+    "49": [
+      1,
+      "Frequent liquid stools with mucus and frank blood are typical of ulcerative colitis; Crohn stools are often less frankly bloody."
+    ],
+    "50": [
+      3,
+      "Crohn disease causes skip lesions: inflamed segments, often in the ileum, alternating with fibrotic or normal bowel."
+    ],
+    "51": [
+      2,
+      "Steatorrhea is bulky, fatty, foul-smelling stool from fat malabsorption."
+    ],
+    "52": [
+      0,
+      "Activated pancreatic enzymes inflame the peritoneum and increase vascular permeability, so fluid is lost and shock can develop."
+    ],
+    "53": [
+      3,
+      "Acute pancreatitis is autodigestion of pancreatic and surrounding tissue by prematurely activated pancreatic enzymes."
+    ],
+    "54": [
+      2,
+      "Primary hepatocellular carcinoma is strongly associated with chronic liver injury and long-term exposure to hepatotoxins (and with chronic hepatitis/cirrhosis, which is not listed cleanly here)."
+    ],
+    "55": [
+      0,
+      "Ascites in cirrhosis comes from portal hypertension, low plasma albumin (low oncotic pressure), and secondary hyperaldosteronism."
+    ],
+    "56": [
+      3,
+      "Bleeding tendency in cirrhosis is largely from impaired hepatic synthesis of clotting factors, including those that require vitamin K."
+    ],
+    "57": [
+      0,
+      "Esophageal varices form because portal hypertension raises hydrostatic pressure in portosystemic collateral veins."
+    ],
+    "58": [
+      2,
+      "The third (end) stage of alcoholic liver disease is cirrhosis: a small, firm, nodular liver with portal hypertension."
+    ],
+    "59": [
+      2,
+      "Hepatic encephalopathy is driven by elevated serum ammonia; GI bleeding adds a large protein load and can precipitate it."
+    ]
+  },
+  "chapter-18-practice": {
+    "0": [
+      3,
+      "The liver, not the kidney, produces albumin; the kidney does regulate fluid, excrete wastes, and activate vitamin D."
+    ],
+    "1": [
+      0,
+      "Urine flows from the collecting duct to the renal pelvis, then the ureter, then the bladder (and finally the urethra)."
+    ],
+    "2": [
+      2,
+      "A higher hydrostatic pressure in the glomerular capillaries increases GFR; afferent constriction or a higher plasma oncotic pressure would lower it."
+    ],
+    "3": [
+      0,
+      "Water is reabsorbed from the filtrate by osmosis, following solute reabsorption."
+    ],
+    "4": [
+      3,
+      "ADH (vasopressin) directly controls water reabsorption in the collecting ducts."
+    ],
+    "5": [
+      1,
+      "Juxtaglomerular cells secrete renin when afferent arteriolar blood flow or pressure falls (or when NaCl delivery to the macula densa is low)."
+    ],
+    "6": [
+      2,
+      "Sodium in the filtrate is cotransported with glucose and amino acids in the proximal tubule; cells and plasma proteins should not be in normal filtrate."
+    ],
+    "7": [
+      0,
+      "Enuresis is involuntary urination after the age when bladder control is expected."
+    ],
+    "8": [
+      0,
+      "Most pyelonephritis is an ascending infection, most often E. coli from the lower tract."
+    ],
+    "9": [
+      3,
+      "Urinary casts and flank pain point to kidney involvement (pyelonephritis); dysuria, urgency, and pyuria also occur in cystitis."
+    ],
+    "10": [
+      2,
+      "Acute post-streptococcal glomerulonephritis is an immune-complex (type III) deposition in glomerular tissue."
+    ],
+    "11": [
+      0,
+      "Dark “cola” urine comes from red cells and protein leaking through damaged glomeruli into the filtrate."
+    ],
+    "12": [
+      1,
+      "Renal ischemia and congestion stimulate renin release, which raises blood pressure."
+    ],
+    "13": [
+      0,
+      "Diseased tubules cannot adequately secrete hydrogen ions or regenerate bicarbonate, so metabolic acidosis develops."
+    ],
+    "14": [
+      3,
+      "A falling bicarbonate level is the first typical arterial-blood-gas change of the metabolic acidosis of glomerulonephritis; pH may still be compensated."
+    ],
+    "15": [
+      1,
+      "Chronic infection or inflammation gradually produces necrosis, fibrosis, and eventually uremia and renal failure."
+    ],
+    "16": [
+      4,
+      "Hypertension, uremia (elevated urea), anemia, and acidosis can all contribute to headache, anorexia, and lethargy."
+    ],
+    "17": [
+      0,
+      "Nephrotic syndrome features heavy proteinuria, hypoalbuminemia, edema, hyperlipidemia, and lipiduria."
+    ],
+    "18": [
+      1,
+      "Hypercalcemia, hyperuricemia, and low fluid intake promote stones; hyperlipidemia is not a usual cause of urolithiasis."
+    ],
+    "19": [
+      0,
+      "Hydronephrosis compresses renal tissue, leading to ischemia and necrosis if unrelieved."
+    ],
+    "20": [
+      2,
+      "Bladder cancer is associated with cigarette smoking and occupational chemical exposures (aromatic amines, etc.)."
+    ],
+    "21": [
+      1,
+      "The usual earliest sign of renal cell (adeno)carcinoma is microscopic hematuria; gross hematuria or pain often comes later."
+    ],
+    "22": [
+      2,
+      "Nephrosclerosis leads to ischemia, secondary hypertension, and chronic (not typically acute) renal failure."
+    ],
+    "23": [
+      1,
+      "Adult polycystic kidney disease causes gradual cystic destruction of both kidneys and chronic renal failure."
+    ],
+    "24": [
+      3,
+      "Wilms tumor (nephroblastoma) is associated with genetic defects (for example WT1-related syndromes)."
+    ],
+    "25": [
+      0,
+      "Severe renal failure causes dangerous electrolyte shifts (especially hyperkalemia) that can trigger arrhythmias and heart failure."
+    ],
+    "26": [
+      3,
+      "The early oliguric phase of acute renal failure shows a very low GFR and a rising serum urea (azotemia)."
+    ],
+    "27": [
+      3,
+      "Acute tubular necrosis and acute renal failure can follow prolonged shock, nephrotoxins, or massive crush injury/burns (myoglobinuria)."
+    ],
+    "28": [
+      2,
+      "Diabetes mellitus is a major cause of chronic renal failure; a unilateral stone or a single episode of shock is less typical."
+    ],
+    "29": [
+      3,
+      "In end-stage renal disease, deficient activated vitamin D and phosphate retention lower serum calcium."
+    ],
+    "30": [
+      1,
+      "The female urethra is short and close to perineal flora, which is why cystitis is more common in females."
+    ],
+    "31": [
+      2,
+      "Nephrosclerosis is a vascular/ischemic process and does not obstruct urine outflow, so it does not cause hydronephrosis."
+    ],
+    "32": [
+      3,
+      "Vesicoureteral reflux lets bladder urine (and bacteria) go back to the kidney and is a common contributor to cystitis/UTI in children."
+    ],
+    "33": [
+      3,
+      "Bilateral acute glomerulonephritis can rapidly depress GFR and cause acute renal failure; the other listed conditions are more often chronic or unilateral."
+    ],
+    "34": [
+      1,
+      "Encephalopathy, osteodystrophy, azotemia, and acidosis are uremic features. Hypertension is common in renal failure but is not itself a uremic (waste-product) sign."
+    ],
+    "35": [
+      3,
+      "Unilateral renal agenesis is often unnoticed because the remaining kidney can provide adequate function."
+    ],
+    "36": [
+      1,
+      "Wilms tumor is typically a large encapsulated malignant mass in one kidney of a young child."
+    ],
+    "37": [
+      2,
+      "Stretch (increased pressure) in the bladder wall initiates the micturition reflex."
+    ],
+    "38": [
+      1,
+      "Post-streptococcal glomerular inflammation is a type III immune-complex hypersensitivity, not direct bacterial invasion of the kidney."
+    ],
+    "39": [
+      0,
+      "A drop in blood pressure reduces GFR and stimulates renin secretion (and can progress to ischemic tubular injury if severe)."
+    ],
+    "40": [
+      6,
+      "ADH and atrial natriuretic hormone directly adjust water and sodium handling. Angiotensin acts mainly by stimulating aldosterone (more indirect), and bicarbonate level is not a primary controller."
+    ],
+    "41": [
+      1,
+      "Long-standing essential hypertension damages afferent arterioles, causing renal ischemia and eventually chronic renal failure."
+    ],
+    "42": [
+      1,
+      "Azotemia is excess urea and other nitrogenous wastes in the blood."
+    ],
+    "43": [
+      0,
+      "Urethritis is commonly classified as gonococcal or nongonococcal."
+    ]
+  },
+  "additional-final-practice": {
+    "0": [
+      2,
+      "Glomerulonephritis is immune-mediated inflammation and damage to the glomeruli."
+    ],
+    "1": [
+      1,
+      "Heavy proteinuria is the hallmark of nephrotic syndrome."
+    ],
+    "2": [
+      2,
+      "Urolithiasis is the presence of urinary calculi (kidney or urinary-tract stones)."
+    ],
+    "3": [
+      1,
+      "Escherichia coli from the gut is the most common cause of urinary tract infection."
+    ],
+    "4": [
+      0,
+      "The nephron is the functional unit of the kidney."
+    ],
+    "5": [
+      1,
+      "ADH increases water reabsorption in the collecting ducts; aldosterone mainly increases sodium reabsorption."
+    ],
+    "6": [
+      2,
+      "Vitamin B12 binds intrinsic factor and is absorbed in the ileum."
+    ],
+    "7": [
+      0,
+      "Gastritis is inflammation of the stomach lining."
+    ],
+    "8": [
+      2,
+      "Cholecystokinin, released when fats and protein enter the duodenum, inhibits gastric emptying and stimulates bile/pancreatic release."
+    ],
+    "9": [
+      1,
+      "The small intestine is the primary site of nutrient absorption."
+    ],
+    "11": [
+      1,
+      "The stomach’s primary job is mechanical and chemical digestion of food, not nutrient absorption or bile production."
+    ],
+    "12": [
+      2,
+      "Leg edema is a sign of right-sided (systemic) backup, not of left-sided failure, which causes pulmonary congestion, dyspnea, and orthopnea."
+    ],
+    "13": [
+      1,
+      "Angina pectoris is transient myocardial ischemia (oxygen supply that does not meet demand), not complete coronary occlusion."
+    ],
+    "14": [
+      2,
+      "Sympathetic stimulation increases heart rate; parasympathetic stimulation slows it."
+    ],
+    "15": [
+      1,
+      "The SA node is the normal pacemaker of the heart."
+    ],
+    "16": [
+      2,
+      "The mitral (bicuspid) valve separates the left atrium from the left ventricle."
+    ],
+    "17": [
+      1,
+      "The myocardium is the contractile muscle layer of the heart."
+    ],
+    "19": [
+      0,
+      "Multiple myeloma is a malignancy of plasma cells that accumulate in the bone marrow."
+    ],
+    "20": [
+      1,
+      "Secondary lymphedema (after surgery, radiation, infection, or obstruction) is much more common than primary (congenital) lymphedema."
+    ],
+    "21": [
+      1,
+      "A primary job of the lymphatic system is to return interstitial fluid to the blood."
+    ],
+    "22": [
+      0,
+      "Reed-Sternberg cells are the histologic hallmark of Hodgkin lymphoma."
+    ],
+    "23": [
+      1,
+      "Lymph nodes filter lymph and help destroy foreign material; the spleen mainly filters blood."
+    ],
+    "24": [
+      3,
+      "Hypertension is not a typical feature of anemia; fatigue, pallor, and tachycardia are."
+    ],
+    "25": [
+      3,
+      "Hemoglobin is the oxygen-binding protein in red blood cells."
+    ],
+    "26": [
+      1,
+      "Pulmonary circulation carries blood through the lungs for gas exchange."
+    ],
+    "27": [
+      2,
+      "Platelets (thrombocytes) are essential for hemostasis and blood clotting."
+    ],
+    "28": [
+      1,
+      "Pernicious anemia is a vitamin B12 deficiency caused by lack of intrinsic factor."
+    ],
+    "29": [
+      1,
+      "Erythropoietin, mainly from the kidney, stimulates red-cell production."
+    ],
+    "30": [
+      2,
+      "FSH stimulates spermatogenesis in the seminiferous tubules; LH mainly stimulates testosterone production."
+    ],
+    "31": [
+      1,
+      "Cryptorchidism is failure of one or both testes to descend into the scrotum."
+    ],
+    "32": [
+      1,
+      "Prostate cancer is the most common cancer in older men (aside from skin cancers)."
+    ],
+    "33": [
+      2,
+      "The ovaries produce estrogen and progesterone."
+    ],
+    "34": [
+      3,
+      "Hypertension is not a feature of PID; pain, fever, and vaginal discharge are."
+    ],
+    "35": [
+      0,
+      "Endometriosis is growth of endometrial tissue outside the uterine cavity."
+    ],
+    "36": [
+      1,
+      "A benign tumor remains localized and does not invade surrounding tissues the way a malignant tumor does."
+    ],
+    "37": [
+      1,
+      "Sarcomas arise from connective (mesenchymal) tissue; carcinomas arise from epithelium."
+    ],
+    "38": [
+      1,
+      "Metastasis is spread of cancer cells to distant sites."
+    ],
+    "39": [
+      1,
+      "The TNM system (tumor, nodes, metastasis) is the standard clinical staging system."
+    ],
+    "40": [
+      3,
+      "Unexplained weight loss, persistent cough, and unusual bleeding are all classic warning signs of cancer."
+    ],
+    "41": [
+      2,
+      "Apoptosis is programmed cell death."
+    ]
+  }
+}

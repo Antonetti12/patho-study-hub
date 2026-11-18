@@ -1,0 +1,890 @@
+{
+  "id": "chapter-13-practice",
+  "title": "Chapter 13 Practice Test",
+  "blurb": "Respiratory practice (chapter 13).",
+  "questions": [
+    {
+      "prompt": "What is the result of one relaxing their external intercostal muscles and their diaphragm?",
+      "options": [
+        "Air is forced out of the lungs.",
+        "Lung volume increases.",
+        "Intrapulmonic pressure decreases.",
+        "Intrapleural pressure decreases."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Air is forced out of the lungs.",
+      "suggestedRationale": "Relaxing the diaphragm and external intercostals decreases thoracic volume and forces air out (expiration)."
+    },
+    {
+      "prompt": "The respiratory mucosa is continuous through the",
+      "options": [
+        "upper and lower respiratory tracts.",
+        "nasal cavities and the sinuses.",
+        "nasopharynx and oropharynx.",
+        "middle ear cavity and auditory tube.",
+        "1 only",
+        "1, 2",
+        "2, 3",
+        "1, 3, 4",
+        "1, 2, 3, 4"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 8,
+      "suggestedLabel": "I. 1, 2, 3, 4",
+      "suggestedRationale": "Respiratory mucosa is continuous through the upper and lower tracts, sinuses, pharynx, and the auditory tube/middle ear."
+    },
+    {
+      "prompt": "The maximum volume of air a person can exhale after a maximum inspiration is termed the",
+      "options": [
+        "expiratory reserve volume.",
+        "inspiratory reserve volume.",
+        "total lung capacity.",
+        "vital capacity."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. vital capacity.",
+      "suggestedRationale": "Vital capacity is the maximum volume exhaled after a maximum inspiration."
+    },
+    {
+      "prompt": "Which of the following applies to the blood in the pulmonary artery?",
+      "options": [
+        "PCO2 is low.",
+        "PO2 is low.",
+        "Hydrostatic pressure is very high.",
+        "It is flowing into the left atrium."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. PO2 is low.",
+      "suggestedRationale": "Pulmonary-artery blood is venous blood going to the lungs, so PO2 is low; hydrostatic pressure there is not high."
+    },
+    {
+      "prompt": "Which of the following causes bronchodilation?",
+      "options": [
+        "Epinephrine",
+        "Histamine",
+        "Parasympathetic nervous system",
+        "Drugs that block b2-adrenergic receptors"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Epinephrine",
+      "suggestedRationale": "Epinephrine stimulates β2 receptors and dilates bronchi; histamine, parasympathetic input, and β2 blockers do the opposite."
+    },
+    {
+      "prompt": "The central chemoreceptors in the medulla are normally most sensitive to",
+      "options": [
+        "low oxygen level.",
+        "low concentration of hydrogen ions.",
+        "elevated oxygen level.",
+        "elevated carbon dioxide level."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. elevated carbon dioxide level.",
+      "suggestedRationale": "Central chemoreceptors respond primarily to elevated PaCO2 (via CSF pH/H+)."
+    },
+    {
+      "prompt": "Oxygen diffuses from the alveoli to the blood because",
+      "options": [
+        "PO2 is higher in the blood.",
+        "PO2 is lower in the blood.",
+        "CO2 is diffusing out of the blood.",
+        "more CO2 is diffusing out of cells into the blood."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. PO2 is lower in the blood.",
+      "suggestedRationale": "Oxygen diffuses down its pressure gradient because alveolar PO2 is higher than blood PO2."
+    },
+    {
+      "prompt": "Carbon dioxide is primarily transported in the blood",
+      "options": [
+        "as dissolved gas.",
+        "attached to the iron molecule in hemoglobin.",
+        "as bicarbonate ion.",
+        "as carbonic acid."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. as bicarbonate ion.",
+      "suggestedRationale": "Most carbon dioxide is carried as bicarbonate ion."
+    },
+    {
+      "prompt": "With respiratory alkalosis (compensated or decompensated) the level of this always decreased:",
+      "options": [
+        "Serum bicarbonate",
+        "PaCO2",
+        "Serum pH",
+        "Urine pH"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. PaCO2",
+      "suggestedRationale": "Respiratory alkalosis is caused by a low PaCO2, so PaCO2 is always decreased; bicarbonate falls only after renal compensation."
+    },
+    {
+      "prompt": "What does carbaminohemoglobin refer to?",
+      "options": [
+        "Replacement of oxygen by carbon monoxide on hemoglobin molecules",
+        "Full saturation of all heme molecules by oxygen",
+        "Carbon dioxide attached to an amino group on the hemoglobin molecule",
+        "Oxygen combined with iron in the hemoglobin molecule"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Carbon dioxide attached to an amino group on the hemoglobin molecule",
+      "suggestedRationale": "Carbaminohemoglobin is CO2 bound to amino groups on the globin chains, not to heme iron."
+    },
+    {
+      "prompt": "Light bubbly or crackling breathing sounds associated with serous secretions are called",
+      "options": [
+        "rhonchi.",
+        "stridor.",
+        "rales.",
+        "wheezing."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. rales.",
+      "suggestedRationale": "Light, bubbly crackles from serous secretions are rales (crackles)."
+    },
+    {
+      "prompt": "Layrngotracheobronchitis is a ____ and prevalent in ___",
+      "options": [
+        "Viral infection in infant under 12 months",
+        "Viral infection in child, 3 months to 3 years",
+        "Bacterial infection in infant under 6 months",
+        "Bacterial infection in child, 3 to 7 years"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Viral infection in child, 3 months to 3 years",
+      "suggestedRationale": "Laryngotracheobronchitis (croup) is typically viral and most common in children about 3 months to 3 years old."
+    },
+    {
+      "prompt": "Early signs and symptoms of infectious rhinitis are:",
+      "options": [
+        "Purulent nasal discharge and periorbital pain",
+        "Serous nasal discharge, congestion, and sneezing",
+        "Copious purulent sputum, particularly in the morning",
+        "Harsh barking cough and wheezing"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Serous nasal discharge, congestion, and sneezing",
+      "suggestedRationale": "Infectious rhinitis begins with watery discharge, congestion, and sneezing, not purulent drainage."
+    },
+    {
+      "prompt": "Why does the influenza virus cause recurrent infection in individuals?",
+      "options": [
+        "Elderly patients are predisposed to secondary infections.",
+        "The virus is transmitted by numerous routes.",
+        "The virus is very difficult to destroy.",
+        "Viral mutation reduces immunity from prior infections"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Viral mutation reduces immunity from prior infections",
+      "suggestedRationale": "Antigenic drift or shift means immunity from a prior influenza infection may not protect against a new strain."
+    },
+    {
+      "prompt": "What is the most common cause of viral pneumonia?",
+      "options": [
+        "Rhinovirus",
+        "Influenza virus",
+        "Haemophilus influenzae",
+        "Pneumococcus"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Influenza virus",
+      "suggestedRationale": "Influenza is the most common cause of viral pneumonia; H. influenzae and pneumococcus are bacteria."
+    },
+    {
+      "prompt": "How does severe hypoxia develop with pneumonia?",
+      "options": [
+        "Acidosis depresses respirations.",
+        "Oxygen diffusion is impaired by the congestion.",
+        "Inflammatory exudate absorbs oxygen from the alveolar air.",
+        "Infection reduces effective compensation by the he"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Oxygen diffusion is impaired by the congestion.",
+      "suggestedRationale": "Alveolar congestion and exudate impair oxygen diffusion and cause hypoxia."
+    },
+    {
+      "prompt": "A Classic sign of Rust color sputum especially in patient population with pneumonia refers to",
+      "options": [
+        "secondary hemorrhage in the lungs.",
+        "Streptococcus pneumoniae is the infecting agent.",
+        "H. influenza",
+        "persistent coughing has damaged the mucosa in the bronchi."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Streptococcus pneumoniae is the infecting agent.",
+      "suggestedRationale": "Rust-colored sputum is classically associated with Streptococcus pneumoniae (pneumococcal) pneumonia."
+    },
+    {
+      "prompt": "Which of the following are true of Tuberculosis",
+      "options": [
+        "Active secondary infection within tissue occurs when horst resistance is decreased",
+        "formation of caseation necrosis with a tuberlce is formed in the lungs",
+        "TB is an acid-fast bacillus which is very resistant to many disinfectants and is not limited to just lungs",
+        "TB occurs due to HIV and is an opportunistic infection"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": null,
+      "suggestedLabel": "A, B, and C",
+      "suggestedRationale": "A, B, and C are true of TB (reactivation when resistance falls, caseous tubercles, acid-fast bacillus not limited to the lungs). D overstates the role of HIV; TB is not only an opportunistic HIV infection."
+    },
+    {
+      "prompt": "True or False: Histoplasmosis is a fungal infection",
+      "options": [
+        "True",
+        "False"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. True",
+      "suggestedRationale": "Histoplasmosis is a fungal infection."
+    },
+    {
+      "prompt": "Cystic fibrosis is transmitted as a/an",
+      "options": [
+        "X-linked recessive gene and all your glands are involved",
+        "autosomal recessive gene and defected exocrine gland",
+        "autosomal dominant gene and defected myelin sheath",
+        "chromosomal defect."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. autosomal recessive gene and defected exocrine gland",
+      "suggestedRationale": "Cystic fibrosis is autosomal recessive and affects exocrine glands."
+    },
+    {
+      "prompt": "Growth and development delays of a child with cystic fibrosis is due to?",
+      "options": [
+        "deficit of gastric enzymes for protein digestion.",
+        "mucus plugs obstructing the flow of pancreatic enzymes.",
+        "lack of available treatment for steatorrhea.",
+        "abnormal salivary secretions."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. mucus plugs obstructing the flow of pancreatic enzymes.",
+      "suggestedRationale": "Thick mucus blocks pancreatic ducts, so digestive enzymes do not reach the intestine and growth is delayed."
+    },
+    {
+      "prompt": "Persistent thick mucus in the bronchioles of a child with cystic fibrosis may cause",
+      "options": [
+        "air trapping.",
+        "atelectasis.",
+        "repeated infections.",
+        "irreversible damage to lung tissue.",
+        "Black Meconium",
+        "1, 2",
+        "2, 4, 5",
+        "1, 3, 4",
+        "1, 2, 3, 4,5"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": null,
+      "suggestedLabel": "Air trapping, atelectasis, repeated infections, and irreversible lung damage (1–4)",
+      "suggestedRationale": "Thick bronchiolar mucus causes air trapping, atelectasis, repeated infections, and irreversible lung damage (1–4). “Black meconium” is not a bronchiole effect, and no listed combo is 1–4 alone."
+    },
+    {
+      "prompt": "Why does hypercalcemia occur with bronchogenic carcinoma?",
+      "options": [
+        "Invasion of the parathyroid gland by the tumor",
+        "Secretion of parathyroid or parathyroid like hormones by the tumor ( neoplastic Syndrome)",
+        "Destruction of the ribs",
+        "Failure of the kidney to excrete calcium ions"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Secretion of parathyroid or parathyroid like hormones by the tumor ( neoplastic Syndrome)",
+      "suggestedRationale": "Hypercalcemia can be a paraneoplastic effect of PTH-like hormone (PTHrP) secretion by some lung tumors."
+    },
+    {
+      "prompt": "Predisposition to aspiration post procedure could be due to?",
+      "options": [
+        "Reduced pressure of the abdominal organs on the diaphragm",
+        "Depression of the vomiting center by anesthetics and analgesics",
+        "Vomiting caused by drugs or anesthesia",
+        "Lack of food intake for the previous 24 hours"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Vomiting caused by drugs or anesthesia",
+      "suggestedRationale": "Post-procedure aspiration often follows vomiting from drugs or anesthesia while airway-protective reflexes are depressed."
+    },
+    {
+      "prompt": "During an acute asthma attack, how does respiratory obstruction occur?",
+      "options": [
+        "Option 11. Relaxation of bronchial smooth muscle",
+        "Edema of the mucosa",
+        "Increased secretion of thick, tenacious mucus",
+        "Contraction of elastic fibers",
+        "1, 2",
+        "1, 3",
+        "2, 3",
+        "2, 4"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 6,
+      "suggestedLabel": "G. 2, 3",
+      "suggestedRationale": "During an acute attack, obstruction comes from mucosal edema and thick mucus (and bronchoconstriction), not from muscle relaxation."
+    },
+    {
+      "prompt": "Barrell chest is a sign of emphysema which is caused due to?",
+      "options": [
+        "Air trapping and hyperinflation with increase in residual lung volume",
+        "Persistent coughing to remove mucus",
+        "Recurrent damage to lung tissues",
+        "Dilated bronchi and increased mucous secretions"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Air trapping and hyperinflation with increase in residual lung volume",
+      "suggestedRationale": "Barrel chest in emphysema reflects air trapping, hyperinflation, and an increased residual volume."
+    },
+    {
+      "prompt": "Which statement or statements apply to emphysema?",
+      "options": [
+        "The surface area available for gas exchange is greatly reduced.",
+        "A genetic defect may lead to breakdown of elastic fibers.",
+        "The ventilation/perfusion ratio remains constant.",
+        "Expiration is impaired."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": null,
+      "suggestedLabel": "A, B, and D",
+      "suggestedRationale": "In emphysema the gas-exchange surface is reduced, elastic-fiber breakdown may be genetic (α1-antitrypsin), and expiration is impaired. V/Q does not stay constant, and no combo option is listed."
+    },
+    {
+      "prompt": "What is the cause of chronic bronchitis?",
+      "options": [
+        "Chronic irritation, inflammation, and recurrent infection of the larger airways",
+        "A genetic defect causing excessive production of mucus",
+        "Hypersensitivity to parasympathetic stimulation in the bronchi",
+        "Deficit of enzymes, preventing tissue degeneration"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Chronic irritation, inflammation, and recurrent infection of the larger airways",
+      "suggestedRationale": "Chronic bronchitis is chronic irritation, inflammation, and recurrent infection of the larger airways, usually from smoking."
+    },
+    {
+      "prompt": "Why does cor pulmonale develop with chronic pulmonary disease?",
+      "options": [
+        "he right ventricle pumps more blood than the left ventricle.",
+        "Pulmonary fibrosis and vasoconstriction increase vascular resistance.",
+        "Demands on the left ventricle are excessive.",
+        "Blood viscosity is increased, adding to cardiac workload."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Pulmonary fibrosis and vasoconstriction increase vascular resistance.",
+      "suggestedRationale": "Pulmonary fibrosis and hypoxic vasoconstriction raise pulmonary vascular resistance and strain the right ventricle (cor pulmonale)."
+    },
+    {
+      "prompt": "Restrictive lung disorders can be divided into two groups based on its?",
+      "options": [
+        "patient history of obesity and exposure to other COPD.",
+        "smoking history and congenital defects.",
+        "previous lung disease and cardiovascular disorders.",
+        "anatomical abnormality and lung disease damage, impairing expansion"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. anatomical abnormality and lung disease damage, impairing expansion",
+      "suggestedRationale": "Restrictive disorders are grouped by impaired expansion from chest-wall or anatomic problems, or from lung-tissue damage."
+    },
+    {
+      "prompt": "What is caused by frequent inhalation of irritating particles such as silica?",
+      "options": [
+        "Fibrosis and loss of compliance",
+        "Frequent bronchospasm",
+        "Increased number of mucus-producing glands",
+        "Distorted shape of the thorax"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Fibrosis and loss of compliance",
+      "suggestedRationale": "Inhaled silica and similar dusts cause pulmonary fibrosis and loss of compliance (pneumoconiosis)."
+    },
+    {
+      "prompt": "Severe Hypoxia is caused by Pulmonary Edema in patients due to?",
+      "options": [
+        "decreased diffusion of carbon dioxide from the alveoli.",
+        "interference with expansion of the lungs.",
+        "constant cough and hemoptysis.",
+        "decreased recoil of lungs and ineffective expiration."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. interference with expansion of the lungs.",
+      "suggestedRationale": "Edema fluid makes the lungs stiffer and interferes with expansion and oxygen transfer, producing severe hypoxia."
+    },
+    {
+      "prompt": "Which of the following is or are a cause of pulmonary edema?",
+      "options": [
+        "Left-sided congestive heart failure",
+        "Excessive blood volume (overload)",
+        "Inhalation of toxic gases",
+        "Hyperproteinemia and increasing osmotic pressure of the blood"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": null,
+      "suggestedLabel": "A, B, and C",
+      "suggestedRationale": "Left-sided heart failure, volume overload, and inhaled toxins can cause pulmonary edema. Hyperproteinemia would raise oncotic pressure and does not cause edema; no combo option is listed."
+    },
+    {
+      "prompt": "What is a large-sized pulmonary embolus likely to cause?",
+      "options": [
+        "Hypertension and left-sided heart failure",
+        "Atelectasis and respiratory failure",
+        "Hypotension and right-sided heart failure",
+        "Pleural effusion and atelectasis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Hypotension and right-sided heart failure",
+      "suggestedRationale": "A large pulmonary embolus can obstruct outflow, drop systemic pressure, and cause acute right-sided heart failure."
+    },
+    {
+      "prompt": "How does total obstruction of the airway lead to atelectasis?",
+      "options": [
+        "Decreased surfactant production impairs lung expansion.",
+        "The involved lung is compressed.",
+        "Air is absorbed from the alveoli distal to the obstruction.",
+        "Air continues to be inspired but is trapped distal to the obstruction."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Air is absorbed from the alveoli distal to the obstruction.",
+      "suggestedRationale": "Air distal to a complete airway obstruction is absorbed, and those alveoli collapse (absorption atelectasis)."
+    },
+    {
+      "prompt": "What is true of Flail Chest? select all that apply",
+      "options": [
+        "An open puncture wound involves the pleural membranes.",
+        "Several ribs are fractured at two sites.",
+        "The mediastinum shifts toward the unaffected side",
+        "Venous return is impaired and cardiac output is reduced"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": null,
+      "suggestedLabel": "B and D",
+      "suggestedRationale": "Flail chest is several ribs fractured at two sites; paradoxical motion can impair venous return and cardiac output. A describes an open chest wound, and tracheal/mediastinal shift toward the unaffected side is more typical of tension pneumothorax."
+    },
+    {
+      "prompt": "Which of the following is a manifestation of a simple closed pneumothorax?",
+      "options": [
+        "Decreased respiratory rate",
+        "Tracheal deviation toward the unaffected lung",
+        "Asymmetrical chest movements",
+        "Increased breath sounds on the affected side"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Asymmetrical chest movements",
+      "suggestedRationale": "A simple closed pneumothorax typically causes uneven chest movement; tracheal deviation away from the lesion suggests tension pneumothorax."
+    },
+    {
+      "prompt": "Which of the following is an effect of a large open pneumothorax (sucking wound)?",
+      "options": [
+        "Mediastinal flutter, impairing venous return",
+        "Increased venous return",
+        "Progressive atelectasis of both lungs",
+        "Overexpansion of the unaffected lung"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Mediastinal flutter, impairing venous return",
+      "suggestedRationale": "A large open (“sucking”) pneumothorax lets the mediastinum flutter and impairs venous return."
+    },
+    {
+      "prompt": "What is true of Adult Respiratory Distress Syndrome",
+      "options": [
+        "Damage leading to increased permeability of the alveolar capillary membranes",
+        "Decreased surface tension in the alveoli",
+        "Excessive fluid and protein interstitially and in the alveoli",
+        "Multiple diffuse hemorrhages in the lungs",
+        "1, 2",
+        "1, 3",
+        "2, 3",
+        "3, 4"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 5,
+      "suggestedLabel": "F. 1, 3",
+      "suggestedRationale": "ARDS is alveolar-capillary injury with protein-rich fluid in the interstitium and alveoli; surfactant loss raises (does not lower) surface tension."
+    },
+    {
+      "prompt": "Laryngotracheobronchitis manifestation sign is typically:",
+      "options": [
+        "drooling and difficulty swallowing.",
+        "hoarse voice and barking cough.",
+        "sore and scratchy throat with fever.",
+        "wheezing and dyspnea."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. hoarse voice and barking cough.",
+      "suggestedRationale": "Croup classically presents with a hoarse voice and a barking cough."
+    },
+    {
+      "prompt": "SARS presents with a flulike syndrome followed, after a few days, by",
+      "options": [
+        "increased exudates in the bronchial tree and pleural cavity.",
+        "productive cough and lobar consolidation.",
+        "interstitial lung congestion, dyspnea, and dry cough.",
+        "hemoptysis and necrosis of mucous membrane."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. interstitial lung congestion, dyspnea, and dry cough.",
+      "suggestedRationale": "After a flulike prodrome, SARS typically progresses to interstitial congestion, dyspnea, and a dry cough."
+    },
+    {
+      "prompt": "Significant early sign of bronchogenic carcinoma in a smoker is",
+      "options": [
+        "Frequent nonproductive cough",
+        "Fever, dyspnea, generalized aching",
+        "Production of large volumes of purulent sputum",
+        "Hemoptysis and weight loss"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Frequent nonproductive cough",
+      "suggestedRationale": "A persistent, often nonproductive cough in a smoker is an important early warning; hemoptysis and weight loss tend to appear later."
+    },
+    {
+      "prompt": "Which of the following drugs in an inhaler would likely be carried by individuals to provide immediate control of acute asthma attacks?",
+      "options": [
+        "A glucocorticoid",
+        "Epinephrine",
+        "Cromolyn",
+        "A b2-adrenergic agent"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. A b2-adrenergic agent",
+      "suggestedRationale": "A short-acting β2-agonist inhaler is used for immediate relief of an acute asthma attack."
+    },
+    {
+      "prompt": "Primary atypical pneumonia (PAP) is caused by",
+      "options": [
+        "Klebsiella oxytoca.",
+        "Candida albicans.",
+        "Mycoplasma pneumoniae.",
+        "Streptococcus pneumoniae"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Mycoplasma pneumoniae.",
+      "suggestedRationale": "Primary atypical (walking) pneumonia is classically caused by Mycoplasma pneumoniae."
+    },
+    {
+      "prompt": "Which factor usually causes metabolic acidosis to develop in association with hypoxia?",
+      "options": [
+        "Anaerobic metabolism",
+        "Failure to excrete CO2",
+        "Liver dysfunction",
+        "Increased blood volume"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Anaerobic metabolism",
+      "suggestedRationale": "Severe hypoxia drives anaerobic metabolism and lactic (metabolic) acidosis."
+    },
+    {
+      "prompt": "Cytokine storm particularly in patients 60 and older is a unique pathophysiological characteristic of",
+      "options": [
+        "histoplasmosis.",
+        "aspergillosis.",
+        "Covid-19.",
+        "pneumocystis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Covid-19.",
+      "suggestedRationale": "A cytokine storm is a distinctive, severe feature of COVID-19, especially in older adults."
+    },
+    {
+      "prompt": "Virchow’s triad refers to",
+      "options": [
+        "an anatomical structure in the kidneys.",
+        "a combination of factors affecting potential thrombus formation.",
+        "factors that predispose an individual toward urinary tract infections.",
+        "psychological factors leading to stress associated with immobility"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. a combination of factors affecting potential thrombus formation.",
+      "suggestedRationale": "Virchow’s triad is the combination of factors that promote thrombus formation (stasis, vessel injury, and hypercoagulability)."
+    },
+    {
+      "prompt": "Lack of weight-bearing and skeletal muscle activity for a prolonged period leads to",
+      "options": [
+        "bone demineralization.",
+        "lengthening of tendons and ligaments.",
+        "decreased skeletal muscle mass.",
+        "bone demineralization and decreased skeletal muscle mass."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. bone demineralization and decreased skeletal muscle mass.",
+      "suggestedRationale": "Prolonged lack of weight-bearing leads to both bone demineralization and decreased skeletal muscle mass."
+    },
+    {
+      "prompt": "The major problem associated with immobility and the gastrointestinal tract is",
+      "options": [
+        "constipation.",
+        "diarrhea.",
+        "nausea.",
+        "increased rate of peristalsis."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. constipation.",
+      "suggestedRationale": "Reduced gastrointestinal motility from immobility commonly leads to constipation."
+    },
+    {
+      "prompt": "Prolonged immobility may predispose to ___________ in the kidneys.",
+      "options": [
+        "urinary stasis",
+        "renal calculi",
+        "infection",
+        "all of these"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. all of these",
+      "suggestedRationale": "Immobility predisposes to urinary stasis, renal calculi, and infection."
+    },
+    {
+      "prompt": "Immobility may lead to dehydration primarily as a result of",
+      "options": [
+        "changes in hormonal secretions due to increased blood in the thorax.",
+        "destruction of the kidneys as a result of ischemia and necrosis.",
+        "blockage of the ureters, causing retention of urine.",
+        "toxins being produced by infectious microorganisms."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. changes in hormonal secretions due to increased blood in the thorax.",
+      "suggestedRationale": "Recumbency shifts blood into the thorax and changes hormone release (including natriuretic peptide), increasing fluid loss and contributing to dehydration."
+    }
+  ]
+}

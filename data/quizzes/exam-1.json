@@ -1,0 +1,855 @@
+{
+  "id": "exam-1",
+  "title": "Exam 1 (do this last)",
+  "blurb": "Exam 1 practice. Work the week 1 and week 2 tests first.",
+  "questions": [
+    {
+      "prompt": "In the stress response, the release of ADH (antidiuretic hormone) results in",
+      "options": [
+        "Increase in blood volume",
+        "lower blood pressure",
+        "increased metabolic water through kidneys",
+        "increase respiratory rate"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Increase in blood volume",
+      "suggestedRationale": "ADH retains water, which increases circulating blood volume."
+    },
+    {
+      "prompt": "Which Factors would decrease host resistance?",
+      "options": [
+        "Absence of disease",
+        "adequate nutrition",
+        "Non intact skin",
+        "Healthy immune system"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Non intact skin",
+      "suggestedRationale": "Broken skin is a portal of entry and lowers host resistance."
+    },
+    {
+      "prompt": "Which area of the body is considered sterile",
+      "options": [
+        "Brain",
+        "Perineum",
+        "Skin",
+        "Nasal cavity"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Brain",
+      "suggestedRationale": "Brain tissue is normally sterile; skin, perineum, and the nasal cavity have flora."
+    },
+    {
+      "prompt": "When a person is exposed to an antigen for a second time, their immune system will respond in which way?",
+      "options": [
+        "experience a tissue rejection",
+        "have a more rapid response",
+        "development of autoantibodies",
+        "respond with prophylaxis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. have a more rapid response",
+      "suggestedRationale": "Re-exposure produces a faster, stronger secondary immune response."
+    },
+    {
+      "prompt": "Which infection of the dermis and subcutaneous tissue is often caused by staphylococcus aureus secondary to injury or ulcer?",
+      "options": [
+        "Furuncle",
+        "Boils",
+        "Cellulitis",
+        "Impeteigo"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Cellulitis",
+      "suggestedRationale": "Cellulitis is infection of the dermis and subcutaneous tissue, often by S. aureus after a break in the skin."
+    },
+    {
+      "prompt": "Which condition is likely to lead to metabolic alkalosis?",
+      "options": [
+        "Diahrrhea",
+        "Early stages or initial stages of vomitting",
+        "Asprin overdose",
+        "Diabetic Ketoacidosis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Early stages or initial stages of vomitting",
+      "suggestedRationale": "Early vomiting loses gastric acid and can cause metabolic alkalosis; the other conditions cause acidosis."
+    },
+    {
+      "prompt": "Which type of skin cancer grows quickly and metastasizes to lymph and other organs?",
+      "options": [
+        "Basal Cell Carcinoma",
+        "Malignant Melanoma",
+        "Squamous Cell Carcinoma",
+        "Kaposi Sarcoma"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Malignant Melanoma",
+      "suggestedRationale": "Malignant melanoma grows quickly and metastasizes to lymph nodes and distant organs."
+    },
+    {
+      "prompt": "Macrophages are a type of cell involved in",
+      "options": [
+        "Atypical Immune Cells",
+        "Non Specific immunity",
+        "Specific immunity",
+        "Type II Hypersensitivity"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Non Specific immunity",
+      "suggestedRationale": "Macrophages are a key part of nonspecific (innate) immunity, though they also present antigen later."
+    },
+    {
+      "prompt": "Which stress hormone is produced in the adrenal cortex?",
+      "options": [
+        "ACTH",
+        "Epinephrine and Norepinephrine",
+        "Cortisol",
+        "ADH"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Cortisol",
+      "suggestedRationale": "Cortisol is made in the adrenal cortex; epinephrine comes from the medulla, and ACTH/ADH are pituitary."
+    },
+    {
+      "prompt": "Pemphigus is caused by?",
+      "options": [
+        "Viral Infection",
+        "Staphylococcus Aureus Bacteria",
+        "Autoimmune",
+        "Human papiloma Virus"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Autoimmune",
+      "suggestedRationale": "Pemphigus is an autoimmune blistering disease."
+    },
+    {
+      "prompt": "What would be an example of Secondary Prevention?",
+      "options": [
+        "Wearing a seatbelt in car for safety",
+        "Maintaining a healthy diet to control and manage Diabetes Type 1",
+        "Getting covid vaccine",
+        "Getting a scan or checked for a form of cancer due to family history"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Getting a scan or checked for a form of cancer due to family history",
+      "suggestedRationale": "Screening (a cancer scan because of family history) is secondary prevention; seatbelts and vaccines are primary, and managing known diabetes is tertiary."
+    },
+    {
+      "prompt": "Our body has different types of defense mechanism, Inflammation helps in the healing process, where does it fall?",
+      "options": [
+        "Passive Immunity",
+        "Natural Active immunity",
+        "Non-Specific Immunity",
+        "Immunoglobulins that help attack specific antigens or microbe."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Non-Specific Immunity",
+      "suggestedRationale": "Inflammation is a nonspecific (innate) defense."
+    },
+    {
+      "prompt": "Our body has Lymphocytes, and there are two types, which type of cell can produce antibodies?",
+      "options": [
+        "Phagocytes",
+        "Monocytes",
+        "T Lynphocytes",
+        "B Lymphocytes"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. B Lymphocytes",
+      "suggestedRationale": "B lymphocytes differentiate into plasma cells that produce antibodies."
+    },
+    {
+      "prompt": "What is pathophysiology?",
+      "options": [
+        "Study of diseases at the community level",
+        "Study of normal bodily functions",
+        "Study of functional or physiological changes in the body due to disease",
+        "Study of psychological disorders"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Study of functional or physiological changes in the body due to disease",
+      "suggestedRationale": "Pathophysiology studies the functional changes in the body caused by disease."
+    },
+    {
+      "prompt": "What does \"idiopathic\" mean in relation to disease causes?",
+      "options": [
+        "Caused by medical intervention",
+        "Cause is unknown",
+        "Caused by external trauma",
+        "Result of genetic predisposition"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Cause is unknown",
+      "suggestedRationale": "Idiopathic means the cause is unknown."
+    },
+    {
+      "prompt": "What type of necrosis occurs when cell proteins are altered, leading to coagulation?",
+      "options": [
+        "Liquefaction necrosis",
+        "Caseous necrosis",
+        "Coagulative necrosis",
+        "Fat necrosis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Coagulative necrosis",
+      "suggestedRationale": "Coagulative necrosis is denaturation of cell proteins, typical of ischemic infarcts."
+    },
+    {
+      "prompt": "What type of acid-base imbalance is caused by excessive bicarbonate loss?",
+      "options": [
+        "Respiratory acidosis",
+        "Metabolic acidosis",
+        "Respiratory alkalosis",
+        "Metabolic alkalosis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Metabolic acidosis",
+      "suggestedRationale": "Loss of bicarbonate produces metabolic acidosis."
+    },
+    {
+      "prompt": "Which condition is characterized by increased cardiac contractions and kidney stones?",
+      "options": [
+        "Hypocalcemia",
+        "Hypercalcemia",
+        "Hypokalemia",
+        "Hypermagnesemia"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Hypercalcemia",
+      "suggestedRationale": "Hypercalcemia strengthens cardiac contractions and predisposes to kidney stones."
+    },
+    {
+      "prompt": "Which chemical is released by injured cells to activate pain receptors?",
+      "options": [
+        "Histamine",
+        "Bradykinin",
+        "Prostaglandins",
+        "Cytokines"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Bradykinin",
+      "suggestedRationale": "Bradykinin from injured tissue activates pain receptors (prostaglandins mainly sensitize them)."
+    },
+    {
+      "prompt": "What is a primary cause of redness and warmth during inflammation?",
+      "options": [
+        "Increased metabolic activity",
+        "Increased blood flow to the damaged area",
+        "Leakage of protein into interstitial spaces",
+        "Local infection"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Increased blood flow to the damaged area",
+      "suggestedRationale": "Redness and warmth come from increased blood flow (hyperemia) to the injured area."
+    },
+    {
+      "prompt": "Which systemic effect is commonly associated with extensive inflammation?",
+      "options": [
+        "Nausea",
+        "Dehydration",
+        "Fever (pyrexia)",
+        "Hypotension"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Fever (pyrexia)",
+      "suggestedRationale": "Fever (pyrexia) is the classic systemic feature of extensive inflammation."
+    },
+    {
+      "prompt": "What is a potential complication of chronic inflammation?",
+      "options": [
+        "Formation of a granuloma or scar tissue",
+        "Excessive exudate production",
+        "Localized infection",
+        "Decreased lymphocyte activity"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Formation of a granuloma or scar tissue",
+      "suggestedRationale": "Chronic inflammation may end in granuloma or scar formation."
+    },
+    {
+      "prompt": "Which type of burn involves the destruction of all skin layers and often underlying tissues?",
+      "options": [
+        "First-degree burn",
+        "Second-degree burn",
+        "Full-thickness burn ( Third or fourth Degree)",
+        "Superficial partial-thickness burn"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Full-thickness burn ( Third or fourth Degree)",
+      "suggestedRationale": "A full-thickness (third- or fourth-degree) burn destroys all skin layers and may involve deeper tissue."
+    },
+    {
+      "prompt": "What characterizes scar tissue?",
+      "options": [
+        "High elasticity",
+        "Functional tissue replacement",
+        "Loss of function",
+        "Rapid cell regeneration"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Loss of function",
+      "suggestedRationale": "Scar tissue is nonelastic and does not restore original function."
+    },
+    {
+      "prompt": "What type of microorganism requires living tissue to survive and replicate?",
+      "options": [
+        "Bacteria",
+        "Viruses",
+        "Fungi",
+        "Protozoa"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Viruses",
+      "suggestedRationale": "Viruses are obligate intracellular parasites and need living host cells to replicate."
+    },
+    {
+      "prompt": "Which bacteria shape is described as spherical?",
+      "options": [
+        "Bacilli",
+        "Spirochetes",
+        "Cocci",
+        "Vibrio"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Cocci",
+      "suggestedRationale": "Cocci are spherical bacteria."
+    },
+    {
+      "prompt": "What is a characteristic of endotoxins?",
+      "options": [
+        "Produced by gram-positive bacteria",
+        "Secreted during bacterial reproduction",
+        "Released on the death of gram-negative bacteria",
+        "Cause localized infections only"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Released on the death of gram-negative bacteria",
+      "suggestedRationale": "Endotoxins are LPS released when gram-negative bacteria die."
+    },
+    {
+      "prompt": "What is the most common method of transmission for rickettsiae infections?",
+      "options": [
+        "Airborne droplets",
+        "Contaminated water",
+        "Insect vectors",
+        "Direct contact"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Insect vectors",
+      "suggestedRationale": "Rickettsiae are typically spread by insect (arthropod) vectors."
+    },
+    {
+      "prompt": "What is the first stage of an infectious disease?",
+      "options": [
+        "Prodromal period",
+        "Incubation period",
+        "Acute period",
+        "Recovery period"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Incubation period",
+      "suggestedRationale": "The incubation period is the first stage, from exposure until symptoms begin."
+    },
+    {
+      "prompt": "What type of antimicrobial drug inhibits the reproduction of bacteria?",
+      "options": [
+        "Bactericidal",
+        "Antiviral",
+        "Antifungal",
+        "Bacteriostatic"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Bacteriostatic",
+      "suggestedRationale": "Bacteriostatic drugs inhibit bacterial reproduction; bactericidal drugs kill bacteria."
+    },
+    {
+      "prompt": "Which of the following is a key characteristic of prions?",
+      "options": [
+        "Can be treated with antibiotics",
+        "Contain DNA or RNA",
+        "Cause degenerative nervous system diseases",
+        "Are classified as protozoa"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Cause degenerative nervous system diseases",
+      "suggestedRationale": "Prions cause degenerative neurologic diseases (for example, Creutzfeldt-Jakob) and have no nucleic acid."
+    },
+    {
+      "prompt": "What type of immunity involves the production of antibodies?",
+      "options": [
+        "Innate immunity",
+        "Cell-mediated immunity",
+        "Humoral immunity",
+        "Passive immunity"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Humoral immunity",
+      "suggestedRationale": "Antibody production is humoral immunity."
+    },
+    {
+      "prompt": "What is the role of macrophages in the immune system?",
+      "options": [
+        "Produce antibodies",
+        "Initiate the immune response by presenting antigens",
+        "Release histamine during allergic reactions",
+        "Destroy pathogens through phagocytosis only"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Initiate the immune response by presenting antigens",
+      "suggestedRationale": "Macrophages initiate the adaptive response by processing and presenting antigen."
+    },
+    {
+      "prompt": "Which immunoglobulin is involved in allergic responses?",
+      "options": [
+        "IgA",
+        "IgG",
+        "IgE",
+        "IgM"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. IgE",
+      "suggestedRationale": "IgE mediates allergic (type I) responses."
+    },
+    {
+      "prompt": "What is the first antibody to increase during an immune response?",
+      "options": [
+        "IgA",
+        "IgG",
+        "IgE",
+        "IgM"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. IgM",
+      "suggestedRationale": "IgM is the first antibody to rise in a primary immune response."
+    },
+    {
+      "prompt": "What is an example of a Type I hypersensitivity reaction?",
+      "options": [
+        "Rheumatoid arthritis",
+        "Allergic rhinitis",
+        "Graft rejection",
+        "Tuberculin test reaction"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Allergic rhinitis",
+      "suggestedRationale": "Allergic rhinitis is a classic type I hypersensitivity."
+    },
+    {
+      "prompt": "Which cells are responsible for cell-mediated immunity?",
+      "options": [
+        "B lymphocytes",
+        "T lymphocytes",
+        "Macrophages",
+        "Natural killer cells"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. T lymphocytes",
+      "suggestedRationale": "T lymphocytes carry out cell-mediated immunity."
+    },
+    {
+      "prompt": "What is the primary cause of anaphylactic shock?",
+      "options": [
+        "Excessive immune complex deposition",
+        "Rapid release of histamine causing systemic effects",
+        "T cell-mediated destruction of antigens",
+        "Slow-acting allergic reaction"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Rapid release of histamine causing systemic effects",
+      "suggestedRationale": "Anaphylactic shock is caused by massive, rapid histamine release with systemic vasodilation."
+    },
+    {
+      "prompt": "Which organ is responsible for the maturation of T lymphocytes?",
+      "options": [
+        "Bone marrow",
+        "Spleen",
+        "Thymus",
+        "Lymph nodes"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Thymus",
+      "source": "form",
+      "matchedFrom": "practice2#20"
+    },
+    {
+      "prompt": "Which autoimmune disease is marked by the characteristic “butterfly rash”?",
+      "options": [
+        "Rheumatoid arthritis",
+        "Systemic lupus erythematosus",
+        "Hashimoto thyroiditis",
+        "Scleroderma"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Systemic lupus erythematosus",
+      "suggestedRationale": "The malar 'butterfly' rash is characteristic of systemic lupus erythematosus."
+    },
+    {
+      "prompt": "What type of hypersensitivity reaction causes contact dermatitis?",
+      "options": [
+        "Type I",
+        "Type II",
+        "Type III",
+        "Type IV"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Type IV",
+      "suggestedRationale": "Contact dermatitis is a type IV delayed hypersensitivity."
+    },
+    {
+      "prompt": "Which skin disorder is marked by silvery plaques and excessive keratinocyte proliferation?",
+      "options": [
+        "Eczema",
+        "Psoriasis",
+        "Pemphigus",
+        "Scleroderma"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Psoriasis",
+      "suggestedRationale": "Psoriasis produces silvery plaques from excessive keratinocyte proliferation."
+    },
+    {
+      "prompt": "What is the causative agent of impetigo?",
+      "options": [
+        "Mycobacterium leprae",
+        "Streptococcus pyogenes",
+        "Staphylococcus aureus",
+        "Candida albicans"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Staphylococcus aureus",
+      "suggestedRationale": "Impetigo is most often caused by Staphylococcus aureus; Streptococcus pyogenes can also cause it, so this item is slightly ambiguous."
+    },
+    {
+      "prompt": "What is the primary cause of warts (verrucae)?",
+      "options": [
+        "Candida infection",
+        "Herpes simplex virus",
+        "Human papillomavirus (HPV)",
+        "Streptococcus species"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Human papillomavirus (HPV)",
+      "suggestedRationale": "Warts (verrucae) are caused by human papillomavirus."
+    },
+    {
+      "prompt": "What is the most common early symptom of acute necrotizing fasciitis?",
+      "options": [
+        "Rapid tissue necrosis",
+        "Severe pain in the infected area",
+        "Fever and systemic shock",
+        "Lymphadenopathy"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Severe pain in the infected area",
+      "suggestedRationale": "Severe pain out of proportion to early skin findings is the usual first symptom of necrotizing fasciitis."
+    },
+    {
+      "prompt": "Which type of fungal infection affects the scalp?",
+      "options": [
+        "Tinea corporis",
+        "Tinea pedis",
+        "Tinea capitis",
+        "Tinea unguium"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Tinea capitis",
+      "suggestedRationale": "Tinea capitis is fungal infection of the scalp."
+    },
+    {
+      "prompt": "Which skin condition is characterized by the autoimmune destruction of cohesion between epidermal cells?",
+      "options": [
+        "Psoriasis",
+        "Pemphigus",
+        "Eczema",
+        "Scleroderma"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Pemphigus",
+      "suggestedRationale": "Pemphigus is autoimmune loss of cohesion between epidermal cells, causing blisters."
+    },
+    {
+      "prompt": "What is the primary symptom of scabies?",
+      "options": [
+        "Red, scaly plaques",
+        "Intense itching and tiny burrow marks on the skin",
+        "Fluid-filled blisters around the mouth",
+        "Thickened, cracked skin on the feet"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Intense itching and tiny burrow marks on the skin",
+      "suggestedRationale": "Scabies presents with intense pruritus and fine burrow tracks."
+    },
+    {
+      "prompt": "Which of the following is an early sign of malignant melanoma?",
+      "options": [
+        "Uniform color throughout the lesion",
+        "A sore that heals quickly",
+        "A lesion with irregular borders and color changes",
+        "A raised, smooth, pearly nodule"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. A lesion with irregular borders and color changes",
+      "suggestedRationale": "An early melanoma warning is a lesion with irregular borders and color variation (ABCDE)."
+    },
+    {
+      "prompt": "Which skin disorder is characterized by hard, shiny, tight, immovable areas of skin and may lead to organ failure in severe cases?",
+      "options": [
+        "Psoriasis",
+        "Scleroderma",
+        "Pemphigus",
+        "Tinea corporis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Scleroderma",
+      "suggestedRationale": "Scleroderma causes tight, shiny, bound-down skin and can progress to internal organ fibrosis."
+    }
+  ]
+}

@@ -1,0 +1,760 @@
+{
+  "id": "chapter-18-practice",
+  "title": "Chapter 18 Practice Test",
+  "blurb": "Chapter 18 practice questions.",
+  "questions": [
+    {
+      "prompt": "Which of the following is NOT a function of the kidney?",
+      "options": [
+        "Regulation of body fluid concentrations",
+        "Removal of nitrogenous and acidic wastes",
+        "Activation of vitamin D",
+        "Production of albumin"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Production of albumin",
+      "suggestedRationale": "The liver, not the kidney, produces albumin; the kidney does regulate fluid, excrete wastes, and activate vitamin D."
+    },
+    {
+      "prompt": "Which of the following describes the normal flow of urine?",
+      "options": [
+        "Collecting duct to the renal pelvis to the ureter to the bladder",
+        "Renal pelvis to the urethra to the bladder to the ureter",
+        "Ureter to the renal pelvis to the urethra to the bladder",
+        "Collecting duct to the ureter to the urethra"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Collecting duct to the renal pelvis to the ureter to the bladder",
+      "suggestedRationale": "Urine flows from the collecting duct to the renal pelvis, then the ureter, then the bladder (and finally the urethra)."
+    },
+    {
+      "prompt": "Which of the following increases glomerular filtration rate?",
+      "options": [
+        "Increased plasma osmotic pressure",
+        "Dilation of the efferent arteriole",
+        "Increased hydrostatic pressure in the glomerular capillaries",
+        "Constriction of the afferent arteriole"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Increased hydrostatic pressure in the glomerular capillaries",
+      "suggestedRationale": "A higher hydrostatic pressure in the glomerular capillaries increases GFR; afferent constriction or a higher plasma oncotic pressure would lower it."
+    },
+    {
+      "prompt": "By what process is water reabsorbed from the filtrate?",
+      "options": [
+        "Osmosis",
+        "Active transport",
+        "Cotransport",
+        "Capillary action"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Osmosis",
+      "suggestedRationale": "Water is reabsorbed from the filtrate by osmosis, following solute reabsorption."
+    },
+    {
+      "prompt": "Which substance directly controls the reabsorption of water from the collecting ducts?",
+      "options": [
+        "Renin",
+        "Aldosterone",
+        "Angiotensin",
+        "Antidiuretic hormone"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Antidiuretic hormone",
+      "suggestedRationale": "ADH (vasopressin) directly controls water reabsorption in the collecting ducts."
+    },
+    {
+      "prompt": "Under what circumstances do cells in the kidneys secrete renin?",
+      "options": [
+        "The urine pH decreases.",
+        "Blood flow in the afferent arteriole decreases.",
+        "Serum potassium levels are high.",
+        "Serum osmotic pressure increases"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Blood flow in the afferent arteriole decreases.",
+      "suggestedRationale": "Juxtaglomerular cells secrete renin when afferent arteriolar blood flow or pressure falls (or when NaCl delivery to the macula densa is low)."
+    },
+    {
+      "prompt": "Which of the following should be present in the filtrate in the proximal convoluted tubule and used in co-transport?",
+      "options": [
+        "Plasma proteins",
+        "Erythrocytes",
+        "Sodium ions",
+        "Leukocytes"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Sodium ions",
+      "suggestedRationale": "Sodium in the filtrate is cotransported with glucose and amino acids in the proximal tubule; cells and plasma proteins should not be in normal filtrate."
+    },
+    {
+      "prompt": "Involuntary urination by a child after age 4 or 5, when bladder control is expected, is referred to as",
+      "options": [
+        "enuresis.",
+        "stress incontinence.",
+        "micturition.",
+        "overflow incontinence."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. enuresis.",
+      "suggestedRationale": "Enuresis is involuntary urination after the age when bladder control is expected."
+    },
+    {
+      "prompt": "What is the cause of most cases of pyelonephritis?",
+      "options": [
+        "An ascending infection by E. coli",
+        "Abnormal immune response, causing inflammation",
+        "Dialysis or other invasive procedure",
+        "Severe pH imbalance of urine"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. An ascending infection by E. coli",
+      "suggestedRationale": "Most pyelonephritis is an ascending infection, most often E. coli from the lower tract."
+    },
+    {
+      "prompt": "Pyelonephritis may be distinguished from cystitis by the presence in pyelonephritis of",
+      "options": [
+        "microbes, leukocytes, and pus in the urine.",
+        "painful micturition.",
+        "urgency and frequency.",
+        "urinary casts and flank pain."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. urinary casts and flank pain.",
+      "suggestedRationale": "Urinary casts and flank pain point to kidney involvement (pyelonephritis); dysuria, urgency, and pyuria also occur in cystitis."
+    },
+    {
+      "prompt": "Which pathophysiological process applies to acute post-streptococcal glomerulonephritis?",
+      "options": [
+        "Streptococcal infection affects both the glomerular and tubule functions.",
+        "Ischemic damage occurs in the tubules, causing obstruction and decreased glomerular filtration rate (GFR).",
+        "Immune complexes deposit in glomerular tissue, causing inflammation.",
+        "Increased glomerular permeability for unknown reasons"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Immune complexes deposit in glomerular tissue, causing inflammation.",
+      "suggestedRationale": "Acute post-streptococcal glomerulonephritis is an immune-complex (type III) deposition in glomerular tissue."
+    },
+    {
+      "prompt": "What causes the dark urine associated with acute post-streptococcal glomerulonephritis?",
+      "options": [
+        "Blood and protein leaking through the capillary into the filtrate",
+        "Proteinuria and microscopic hematuria from the inflammation",
+        "Pyuria from inflammatory exudate",
+        "Bleeding from ulcerations in the kidney"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Blood and protein leaking through the capillary into the filtrate",
+      "suggestedRationale": "Dark “cola” urine comes from red cells and protein leaking through damaged glomeruli into the filtrate."
+    },
+    {
+      "prompt": "Renal disease frequently causes hypertension because",
+      "options": [
+        "albuminuria increases vascular volume.",
+        "congestion and ischemia stimulate release of renin.",
+        "antidiuretic hormone (ADH) secretion is decreased.",
+        "damaged tubules absorb large amounts of filtrate"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. congestion and ischemia stimulate release of renin.",
+      "suggestedRationale": "Renal ischemia and congestion stimulate renin release, which raises blood pressure."
+    },
+    {
+      "prompt": "Why does metabolic acidosis develop with bilateral kidney disease?",
+      "options": [
+        "Tubule exchanges are impaired.",
+        "GFR is increased.",
+        "Serum urea is increased.",
+        "More bicarbonate ion is produced."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Tubule exchanges are impaired.",
+      "suggestedRationale": "Diseased tubules cannot adequately secrete hydrogen ions or regenerate bicarbonate, so metabolic acidosis develops."
+    },
+    {
+      "prompt": "What is the first indicator in the arterial blood gases of acidosis caused by glomerulonephritis?",
+      "options": [
+        "Increased carbonic acid",
+        "Increased bicarbonate ion",
+        "A pH less than 7.35",
+        "Decreased bicarbonate ion"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Decreased bicarbonate ion",
+      "suggestedRationale": "A falling bicarbonate level is the first typical arterial-blood-gas change of the metabolic acidosis of glomerulonephritis; pH may still be compensated."
+    },
+    {
+      "prompt": "What would be the long-term effects of chronic infection or inflammation of the kidneys?",
+      "options": [
+        "Dehydration and hypovolemia",
+        "Gradual necrosis, fibrosis, and development of uremia, Kidney failure",
+        "Sudden anuria and azotemia",
+        "Severe back or flank pain"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Gradual necrosis, fibrosis, and development of uremia, Kidney failure",
+      "suggestedRationale": "Chronic infection or inflammation gradually produces necrosis, fibrosis, and eventually uremia and renal failure."
+    },
+    {
+      "prompt": "What factors contribute to headache, anorexia, and lethargy with kidney disease?",
+      "options": [
+        "Increased blood pressure",
+        "Elevated serum urea",
+        "Anemia",
+        "Acidosis",
+        "All of the above"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 4,
+      "suggestedLabel": "E. All of the above",
+      "suggestedRationale": "Hypertension, uremia (elevated urea), anemia, and acidosis can all contribute to headache, anorexia, and lethargy."
+    },
+    {
+      "prompt": "What are the significant signs of nephrotic syndrome?",
+      "options": [
+        "Hyperlipidemia and lipiduria",
+        "Pyuria and leucopenia",
+        "Hypertension and heart failure",
+        "Gross hematuria and pyuria"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Hyperlipidemia and lipiduria",
+      "suggestedRationale": "Nephrotic syndrome features heavy proteinuria, hypoalbuminemia, edema, hyperlipidemia, and lipiduria."
+    },
+    {
+      "prompt": "Common causes of urolithiasis include all of the following EXCEPT",
+      "options": [
+        "hypercalcemia.",
+        "hyperlipidemia.",
+        "inadequate fluid intake.",
+        "hyperuricemia."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. hyperlipidemia.",
+      "suggestedRationale": "Hypercalcemia, hyperuricemia, and low fluid intake promote stones; hyperlipidemia is not a usual cause of urolithiasis."
+    },
+    {
+      "prompt": "What does hydronephrosis lead to?",
+      "options": [
+        "Ischemia and necrosis in the compressed area",
+        "Multiple hemorrhages in the kidney",
+        "Severe colicky pain radiating into the groin",
+        "Increased GFR"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Ischemia and necrosis in the compressed area",
+      "suggestedRationale": "Hydronephrosis compresses renal tissue, leading to ischemia and necrosis if unrelieved."
+    },
+    {
+      "prompt": "Which of the following is a predisposing factor to bladder cancer?",
+      "options": [
+        "Prostatic cancer",
+        "Hormonal abnormalities",
+        "Exposure to chemicals and cigarette smoke",
+        "Presence of embryonic tissue"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Exposure to chemicals and cigarette smoke",
+      "suggestedRationale": "Bladder cancer is associated with cigarette smoking and occupational chemical exposures (aromatic amines, etc.)."
+    },
+    {
+      "prompt": "What is the common initial sign of adenocarcinoma of the kidney?",
+      "options": [
+        "Gross hematuria",
+        "Microscopic hematuria",
+        "Sharp flank pain",
+        "Oliguria"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Microscopic hematuria",
+      "suggestedRationale": "The usual earliest sign of renal cell (adeno)carcinoma is microscopic hematuria; gross hematuria or pain often comes later."
+    },
+    {
+      "prompt": "Which of the following does NOT usually result from nephrosclerosis?",
+      "options": [
+        "Secondary hypertension",
+        "Chronic renal failure",
+        "Acute renal failure",
+        "Increased renin and aldosterone secretions"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Acute renal failure",
+      "suggestedRationale": "Nephrosclerosis leads to ischemia, secondary hypertension, and chronic (not typically acute) renal failure."
+    },
+    {
+      "prompt": "Which of the following relates to polycystic kidney disease?",
+      "options": [
+        "It affects only one of the kidneys.",
+        "It results in gradual degeneration and chronic renal failure.",
+        "The kidneys are displaced and the ureters are twisted.",
+        "The prognosis is good because there is adequate reserve for normal life."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. It results in gradual degeneration and chronic renal failure.",
+      "suggestedRationale": "Adult polycystic kidney disease causes gradual cystic destruction of both kidneys and chronic renal failure."
+    },
+    {
+      "prompt": "Which of the following is a cause for Wilms’ tumor?",
+      "options": [
+        "Direct exposure to carcinogens",
+        "Hormonal imbalance",
+        "Repeated infections",
+        "A genetic defect"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. A genetic defect",
+      "suggestedRationale": "Wilms tumor (nephroblastoma) is associated with genetic defects (for example WT1-related syndromes)."
+    },
+    {
+      "prompt": "With severe kidney disease can cause electrolyte imbalance and cause?",
+      "options": [
+        "cardiac arrhythmias and can lead to HF",
+        "encephalopathy and Acute HF",
+        "hypervolemia and arrhythmias",
+        "skeletal muscle twitch or spasm."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. cardiac arrhythmias and can lead to HF",
+      "suggestedRationale": "Severe renal failure causes dangerous electrolyte shifts (especially hyperkalemia) that can trigger arrhythmias and heart failure."
+    },
+    {
+      "prompt": "Which of the following indicates the early stage of acute renal failure?",
+      "options": [
+        "Polyuria with urine of fixed and low specific gravity",
+        "Hypotension and increased urine output",
+        "Development of decompensated acidosis",
+        "Very low GFR and increased serum urea"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Very low GFR and increased serum urea",
+      "suggestedRationale": "The early oliguric phase of acute renal failure shows a very low GFR and a rising serum urea (azotemia)."
+    },
+    {
+      "prompt": "What is/are a cause(s) of acute tubule necrosis and acute renal failure?",
+      "options": [
+        "Prolonged circulatory shock",
+        "Sudden significant exposure to nephrotoxins",
+        "Crush injuries or burns",
+        "All of the above"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. All of the above",
+      "suggestedRationale": "Acute tubular necrosis and acute renal failure can follow prolonged shock, nephrotoxins, or massive crush injury/burns (myoglobinuria)."
+    },
+    {
+      "prompt": "Which of the following would likely cause chronic renal failure?",
+      "options": [
+        "Cystitis with pyelonephritis in the right kidney",
+        "Circulatory shock",
+        "Diabetes",
+        "Obstruction of a ureter by a renal calculus"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Diabetes",
+      "suggestedRationale": "Diabetes mellitus is a major cause of chronic renal failure; a unilateral stone or a single episode of shock is less typical."
+    },
+    {
+      "prompt": "What is the primary reason for hypocalcemia developing during end-stage renal failure or uremia?",
+      "options": [
+        "Decreased parathyroid hormone secretion",
+        "Insufficient calcium in the diet",
+        "Excessive excretion of calcium ions in the urine",
+        "A deficit of activated vitamin D and hyperphosphatemia"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. A deficit of activated vitamin D and hyperphosphatemia",
+      "suggestedRationale": "In end-stage renal disease, deficient activated vitamin D and phosphate retention lower serum calcium."
+    },
+    {
+      "prompt": "Cystitis is more common in females because",
+      "options": [
+        "the mucosa in the urinary tract is continuous.",
+        "the urethra is short, wide, and adjacent to areas with resident flora.",
+        "the pH of urine is more acidic in females.",
+        "females have a higher incidence of congenital anomalies"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. the urethra is short, wide, and adjacent to areas with resident flora.",
+      "suggestedRationale": "The female urethra is short and close to perineal flora, which is why cystitis is more common in females."
+    },
+    {
+      "prompt": "Which of the following is NOT likely to lead to hydronephrosis?",
+      "options": [
+        "Renal calculi",
+        "Pyelonephritis",
+        "Nephrosclerosis",
+        "Benign prostatic hypertrophy"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Nephrosclerosis",
+      "suggestedRationale": "Nephrosclerosis is a vascular/ischemic process and does not obstruct urine outflow, so it does not cause hydronephrosis."
+    },
+    {
+      "prompt": "Which of the following congenital defects is a common cause of cystitis in young children?",
+      "options": [
+        "Polycystic kidney",
+        "Horseshoe kidney",
+        "Hypoplasia of the kidney",
+        "Vesicoureteral reflux"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Vesicoureteral reflux",
+      "suggestedRationale": "Vesicoureteral reflux lets bladder urine (and bacteria) go back to the kidney and is a common contributor to cystitis/UTI in children."
+    },
+    {
+      "prompt": "Which of the following causes acute renal failure?",
+      "options": [
+        "Polycystic kidney disease",
+        "Pyelonephritis in the right kidney",
+        "Nephrosclerosis",
+        "Bilateral acute glomerulonephritis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Bilateral acute glomerulonephritis",
+      "suggestedRationale": "Bilateral acute glomerulonephritis can rapidly depress GFR and cause acute renal failure; the other listed conditions are more often chronic or unilateral."
+    },
+    {
+      "prompt": "Uremic signs of renal failure include all of the following EXCEPT",
+      "options": [
+        "encephalopathy.",
+        "high blood pressure.",
+        "osteodystrophy.",
+        "azotemia and acidosis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. high blood pressure.",
+      "suggestedRationale": "Encephalopathy, osteodystrophy, azotemia, and acidosis are uremic features. Hypertension is common in renal failure but is not itself a uremic (waste-product) sign."
+    },
+    {
+      "prompt": "Agenesis is often not diagnosed because",
+      "options": [
+        "the kidney is displaced from its normal position.",
+        "it is a genetic defect and asymptomatic until mid-life.",
+        "the two functioning kidneys are fused together.",
+        "it is usually asymptomatic as one kidney provides adequate function"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. it is usually asymptomatic as one kidney provides adequate function",
+      "suggestedRationale": "Unilateral renal agenesis is often unnoticed because the remaining kidney can provide adequate function."
+    },
+    {
+      "prompt": "Wilms’ tumor is",
+      "options": [
+        "a malignant tumor in the bladder.",
+        "an encapsulated mass in one kidney.",
+        "not considered to have a genetic origin.",
+        "manifested in adulthood."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. an encapsulated mass in one kidney.",
+      "suggestedRationale": "Wilms tumor is typically a large encapsulated malignant mass in one kidney of a young child."
+    },
+    {
+      "prompt": "The micturition reflex is initiated by",
+      "options": [
+        "sympathetic nerves in the sacral spinal cord.",
+        "relaxation of the internal sphincter of the bladder.",
+        "increased pressure distending the bladder.",
+        "contraction of the bladder."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. increased pressure distending the bladder.",
+      "suggestedRationale": "Stretch (increased pressure) in the bladder wall initiates the micturition reflex."
+    },
+    {
+      "prompt": "In acute post-streptococcal glomerulonephritis, the glomerular inflammation results from",
+      "options": [
+        "toxins produced by the bacteria.",
+        "a type III hypersensitivity reaction.",
+        "an ascending infection from the bladder.",
+        "spread of infection from the tubules"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. a type III hypersensitivity reaction.",
+      "suggestedRationale": "Post-streptococcal glomerular inflammation is a type III immune-complex hypersensitivity, not direct bacterial invasion of the kidney."
+    },
+    {
+      "prompt": "Circulatory shock can affect the kidneys because it causes a decreases in blood pressure which leads to",
+      "options": [
+        "decreased GFR and increased renin secretion.",
+        "increased ADH and decreased aldosterone secretion.",
+        "immediate tubule necrosis and obstruction.",
+        "sympathetic nervous system (SNS) stimulation and vasodilation of afferent and efferent arterioles."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. decreased GFR and increased renin secretion.",
+      "suggestedRationale": "A drop in blood pressure reduces GFR and stimulates renin secretion (and can progress to ischemic tubular injury if severe)."
+    },
+    {
+      "prompt": "The reabsorption of water and electrolytes by the kidneys is directly controlled by",
+      "options": [
+        "atrial natriuretic hormone.",
+        "antidiuretic hormone.",
+        "angiotensin.",
+        "the levels of bicarbonate ion.",
+        "2 only",
+        "3 only",
+        "1, 2",
+        "2,3,4"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 6,
+      "suggestedLabel": "G. 1, 2",
+      "suggestedRationale": "ADH and atrial natriuretic hormone directly adjust water and sodium handling. Angiotensin acts mainly by stimulating aldosterone (more indirect), and bicarbonate level is not a primary controller."
+    },
+    {
+      "prompt": "Uncontrolled essential hypertension may cause chronic renal failure because of",
+      "options": [
+        "predisposition to recurrent urinary tract infections.",
+        "damage to afferent arterioles and renal ischemia.",
+        "failure of tubules to respond to hormonal controls.",
+        "glomerular congestion causes damaged capillaries"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. damage to afferent arterioles and renal ischemia.",
+      "suggestedRationale": "Long-standing essential hypertension damages afferent arterioles, causing renal ischemia and eventually chronic renal failure."
+    },
+    {
+      "prompt": "Excess urea and other nitrogen wastes in the blood is referred to as",
+      "options": [
+        "dysuria.",
+        "azotemia.",
+        "bacteremia.",
+        "hematuria."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. azotemia.",
+      "suggestedRationale": "Azotemia is excess urea and other nitrogenous wastes in the blood."
+    },
+    {
+      "prompt": "Urethritis, infection/inflammation of the urethra, is classified into two categories:",
+      "options": [
+        "gonococcal and nongonococcal.",
+        "chronic and acute.",
+        "bacterial and viral.",
+        "chlamydial and nonchlamydial."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. gonococcal and nongonococcal.",
+      "suggestedRationale": "Urethritis is commonly classified as gonococcal or nongonococcal."
+    }
+  ]
+}

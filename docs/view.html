@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Document viewer · Pathophysiology Study Hub</title>
+  <meta name="description" content="Self-hosted Pathophysiology study hub: lecture decks, practice quizzes, videos, and exam review.">
+  <link rel="icon" href="../favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/styles.css">
+  <script>window.DOC_CATALOG = [{"slug": "concept-map", "title": "Concept Map", "hasDocx": true}, {"slug": "study-guide", "title": "Pathophysiology Study Guide", "hasDocx": false}, {"slug": "final-exam-review-questions", "title": "Final Exam Review Questions", "hasDocx": true}, {"slug": "final-exam-review-answer-key", "title": "Final Exam Review Answer Key", "hasDocx": true}, {"slug": "final-exam-practice-2-questions", "title": "Final Exam Practice 2 Questions", "hasDocx": true}, {"slug": "final-exam-practice-2-answer-key", "title": "Final Exam Practice 2 Answer Key", "hasDocx": true}];</script>
+</head>
+
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="../index.html">
+        <span class="brand-mark">PH</span>
+        <span class="brand-text">
+          <strong data-site-title>Pathophysiology Study Hub</strong>
+          <span class="byline" data-owner hidden></span>
+        </span>
+      </a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+      <nav class="nav" id="site-nav">
+        <a href="../index.html" data-nav="home">Home</a>
+        <a href="../powerpoints/index.html" data-nav="powerpoints">PowerPoints</a>
+        <a href="../practice/index.html" data-nav="practice">Practice Tests</a>
+        <a href="../docs/index.html" data-nav="docs">Study Docs</a>
+        <a href="../videos/index.html" data-nav="videos">Videos &amp; Links</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="viewer-shell" id="main">
+    <aside class="viewer-side">
+      <h1>Study docs</h1>
+      <p>Choose a document</p>
+      <div id="doc-list"></div>
+    </aside>
+    <div class="viewer-main">
+      <div class="viewer-toolbar">
+        <strong id="doc-title">Document PDF</strong>
+        <a class="btn secondary" id="dl-pdf" href="#">Download PDF</a>
+        <a class="btn ghost" id="dl-docx" href="#" hidden>Download DOCX</a>
+      </div>
+      <object id="doc-object" class="viewer-frame" type="application/pdf" data="about:blank">
+        <iframe id="doc-iframe" class="viewer-frame" title="Document PDF" src="about:blank"></iframe>
+      </object>
+    </div>
+  </div>
+  <script src="../js/config.js"></script>
+  <script src="../js/common.js"></script>
+  <script>
+    (function () {
+      var slug = new URLSearchParams(location.search).get("doc") || window.DOC_CATALOG[0].slug;
+      var list = document.getElementById("doc-list");
+      window.DOC_CATALOG.forEach(function (d) {
+        var a = document.createElement("a");
+        a.className = "side-link" + (d.slug === slug ? " is-active" : "");
+        a.href = "view.html?doc=" + encodeURIComponent(d.slug);
+        a.textContent = d.title;
+        list.appendChild(a);
+      });
+      var doc = window.DOC_CATALOG.find(function (d) { return d.slug === slug; });
+      if (!doc) { document.getElementById("doc-title").textContent = "Document not found"; return; }
+      var pdf = "../files/docs/" + doc.slug + ".pdf";
+      document.getElementById("doc-title").textContent = doc.title;
+      document.title = doc.title + " · Pathophysiology Study Hub";
+      document.getElementById("dl-pdf").href = pdf;
+      document.getElementById("dl-pdf").setAttribute("download", "");
+      document.getElementById("doc-object").setAttribute("data", pdf);
+      document.getElementById("doc-iframe").src = pdf;
+      var dx = document.getElementById("dl-docx");
+      if (doc.hasDocx) {
+        dx.hidden = false;
+        dx.href = "../files/docs/" + doc.slug + ".docx";
+        dx.setAttribute("download", "");
+      }
+    })();
+  </script>
+</body></html>

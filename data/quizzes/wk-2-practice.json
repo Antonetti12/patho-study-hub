@@ -1,0 +1,1578 @@
+{
+  "id": "wk-2-practice",
+  "title": "Week 2 Practice Test",
+  "blurb": "Practice questions from week 2.",
+  "questions": [
+    {
+      "prompt": "All are the following are examples of Non-Specific response Except",
+      "options": [
+        "phagocytosis, macrophages",
+        "sensitized T lymphocytes or B Lymphocytes",
+        "the inflammatory response.",
+        "Skin, Saliva, tears"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. sensitized T lymphocytes or B Lymphocytes",
+      "suggestedRationale": "Sensitized T and B lymphocytes are specific (adaptive) immunity; the others are nonspecific defenses."
+    },
+    {
+      "prompt": "The inflammatory response is a nonspecific response to",
+      "options": [
+        "phagocytosis of foreign material.",
+        "local vasodilation.",
+        "any tissue injury",
+        "formation of purulent exudates."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. any tissue injury",
+      "suggestedRationale": "Inflammation is a nonspecific response to any tissue injury."
+    },
+    {
+      "prompt": "Example of Chemical Mediators are:",
+      "options": [],
+      "kind": "short_answer",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form"
+    },
+    {
+      "prompt": "Edema associated with inflammation results from",
+      "options": [
+        "increased fluid and protein in the interstitial compartment.",
+        "increased phagocytes in the affected area.",
+        "decreased capillary permeability.",
+        "general vasoconstriction."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. increased fluid and protein in the interstitial compartment.",
+      "suggestedRationale": "Inflammatory edema comes from leaky capillaries that put fluid and protein into the interstitium."
+    },
+    {
+      "prompt": "What is the correct order of the following events in the inflammatory response immediately after tissue injury?",
+      "options": [
+        "Increased permeability of blood vessels",
+        "Dilation of blood vessels",
+        "Transient vasoconstriction",
+        "Migration of leukocytes to the area",
+        "Hyperemia",
+        "5, 3, 2, 1, 4",
+        "1, 2, 4, 5, 3",
+        "2, 3, 5, 4, 1",
+        "3, 2, 5, 1, 4"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 8,
+      "suggestedLabel": "I. 3, 2, 5, 1, 4",
+      "suggestedRationale": "After injury: brief vasoconstriction, then dilation and hyperemia, increased permeability, and leukocyte migration."
+    },
+    {
+      "prompt": "Mechanisms to bring an elevated body temperature down to the normal level include",
+      "options": [
+        "general cutaneous vasodilation.",
+        "generalized shivering.",
+        "increased heart rate.",
+        "increased metabolic rate."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. general cutaneous vasodilation.",
+      "suggestedRationale": "Cutaneous vasodilation sheds heat; shivering and higher metabolic rate would raise temperature."
+    },
+    {
+      "prompt": "Which of the following spices does NOT show anti-inflammatory action?",
+      "options": [
+        "Tylenol",
+        "Turmeric",
+        "Ginger root",
+        "Basil"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Tylenol",
+      "suggestedRationale": "Acetaminophen (Tylenol) is not a spice and has little anti-inflammatory effect, unlike turmeric, ginger, or basil."
+    },
+    {
+      "prompt": "Cytokines are chemical mediators released by",
+      "options": [
+        "Platelets",
+        "macrophages",
+        "B lymphocytes.",
+        "mast cells. 1"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. macrophages",
+      "suggestedRationale": "Cytokines are produced especially by macrophages (and T cells); that is the best match among the options."
+    },
+    {
+      "prompt": "A substance normally not found in the blood, but appears with acute inflammation and necrosis within 24 to 48 hours is",
+      "options": [
+        "fibrinogen.",
+        "histamine.",
+        "prothrombin.",
+        "C-reactive protein."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. C-reactive protein.",
+      "suggestedRationale": "C-reactive protein appears in serum within 24–48 hours of acute inflammation or necrosis."
+    },
+    {
+      "prompt": "Hypermetabolism is common with major burns because of",
+      "options": [
+        "increased heat loss from the burn wound.",
+        "demand for tissue repair.",
+        "recurrent stress response.",
+        "all of these."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. all of these.",
+      "suggestedRationale": "Major burns raise metabolic demand through heat loss, tissue repair, and an ongoing stress response."
+    },
+    {
+      "prompt": "Emergency care for burn involves which of the following",
+      "options": [
+        "Drop and lie completely still on your back.",
+        "Call a neighbor for help if the burn appears to be extensive.",
+        "Apply lotion and cover burn tightly with a sheet or towel.",
+        "Cover the burn area with clean, cool, or tepid water and remove nonsticking clothing"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Cover the burn area with clean, cool, or tepid water and remove nonsticking clothing",
+      "suggestedRationale": "Cool the burn with clean tepid water and remove clothing that is not stuck to the wound."
+    },
+    {
+      "prompt": "Severity of Burn is related to:",
+      "options": [
+        "Burn depends on the temperature, duration, and extent of the burn.",
+        "The age of the person, children are prone to severe burns more than adults or elderely",
+        "Burns are dependent on the location of the body.",
+        "With a major burn, excessive bleeding usually causes shock."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Burn depends on the temperature, duration, and extent of the burn.",
+      "suggestedRationale": "Burn severity depends mainly on temperature, duration, and extent of the burn (the option even flags this as correct)."
+    },
+    {
+      "prompt": "Identify the proper sequence in the healing process.",
+      "options": [
+        "A blood clot forms; granulation tissue grows into the gap; new blood vessels develop; phagocytosis of foreign material and cell debris occurs; and collagen fibers form a tight, strong scar.",
+        "A blood clot forms; phagocytes remove foreign material and cell debris; granulation tissue grows into the gap; new blood vessels form; and collagen fibers promote formation of a tight, strong scar.",
+        "Collagen fibers form in the damaged area; a blood clot forms; granulation tissue grows into the gap; angiogenesis takes place; and foreign material and cell debris are removed by phagocytes.",
+        "Foreign material and cell debris are removed by phagocytes; a blood clot forms; granulation tissue grows into the gap; new blood vessels form; and collagen fibers grow and cross-link."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. A blood clot forms; phagocytes remove foreign material and cell debris; granulation tissue grows into the gap; new blood vessels form; and collagen fibers promote formation of a tight, strong scar.",
+      "suggestedRationale": "Healing sequence: clot, phagocytic cleanup, granulation tissue and new vessels, then collagen scar."
+    },
+    {
+      "prompt": "Why is an application of cold recommended as part of the RICE first aid measures immediately following an inflammatory response due to injury?",
+      "options": [
+        "It improves circulation in the area removing chemical mediators.",
+        "It causes local vasoconstriction to reduce local edema.",
+        "It draws more phagocytic cells to the area to remove debris.",
+        "It promotes immediate healing."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. It causes local vasoconstriction to reduce local edema.",
+      "suggestedRationale": "Cold causes local vasoconstriction, which limits swelling after injury (RICE)."
+    },
+    {
+      "prompt": "Which of the following cellular elements found in the inflammatory response are responsible for phagocytosis?",
+      "options": [
+        "Macrophages",
+        "Basophils",
+        "B lymphocytes",
+        "T lymphocytes",
+        "Eosinophils"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Macrophages",
+      "suggestedRationale": "Macrophages are the main phagocytic cells listed; lymphocytes are not professional phagocytes."
+    },
+    {
+      "prompt": "Drugs that have anti-inflammatory, analgesic, and antipyretic activities include",
+      "options": [
+        "COX-2 inhibitors (NSAIDs).",
+        "glucocorticoids (e.g., prednisone).",
+        "ibuprofen (NSAID).",
+        "acetaminophen.",
+        "aspirin (ASA).",
+        "1, 2",
+        "2, 4",
+        "1, 3, 5",
+        "1, 4, 5"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 7,
+      "suggestedLabel": "H. 1, 3, 5",
+      "suggestedRationale": "NSAIDs including COX-2 inhibitors, ibuprofen, and aspirin are anti-inflammatory, analgesic, and antipyretic; acetaminophen is not anti-inflammatory, and steroids are not NSAID-type analgesics."
+    },
+    {
+      "prompt": "Causes of inflammation include",
+      "options": [
+        "direct physical damage such as cuts and sprains.",
+        "allergic reactions.",
+        "infection.",
+        "all of these."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. all of these.",
+      "suggestedRationale": "Physical injury, allergy, and infection can all trigger inflammation."
+    },
+    {
+      "prompt": "Nonspecific agents that protect uninfected cells against viruses are called",
+      "options": [
+        "neutrophils.",
+        "macrophages.",
+        "interferons.",
+        "pyrogens."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. interferons.",
+      "suggestedRationale": "Interferons protect nearby uninfected cells from viruses."
+    },
+    {
+      "prompt": "An abscess contains",
+      "options": [
+        "serous exudate.",
+        "purulent exudate.",
+        "fibrinous exudate.",
+        "hemorrhagic exudate."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. purulent exudate.",
+      "suggestedRationale": "An abscess is a pocket of purulent (pus) exudate."
+    },
+    {
+      "prompt": "What increases in blood to promote phagocytosis",
+      "options": [
+        "Neutrophills",
+        "B Cells",
+        "T Cells",
+        "nothing changes its part of natural defense mechanism"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Neutrophills",
+      "suggestedRationale": "Neutrophils rise in the blood and carry out acute phagocytosis."
+    },
+    {
+      "prompt": "Healing of large areas of skin loss (including dermis and epidermis) would be most successful through",
+      "options": [
+        "rapid mitosis and regeneration of skin layers.",
+        "resolution of damaged cells in the area.",
+        "covering the area with biosynthetic skin substitute.",
+        "graft of fibrous tissue to the area."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. covering the area with biosynthetic skin substitute.",
+      "suggestedRationale": "Full-thickness skin loss heals best when covered with a graft or biosynthetic substitute, not by simple regeneration."
+    },
+    {
+      "prompt": "How does Ice help with reducing edema to any injured site?",
+      "options": [
+        "Causes local vasoconstriction",
+        "promotes healing through increased circulation",
+        "speeds up the inflammatory process",
+        "ICE reduces pain to reduce swelling"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Causes local vasoconstriction",
+      "suggestedRationale": "Ice reduces edema by local vasoconstriction."
+    },
+    {
+      "prompt": "Prolonged administration of glucocorticoids such as prednisone may cause",
+      "options": [
+        "atrophy of lymphoid tissue.",
+        "increased resistance to infection.",
+        "thrombocytopenia.",
+        "decreased protein synthesis.",
+        "1, 2",
+        "1, 3",
+        "1, 4",
+        "2, 4"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 6,
+      "suggestedLabel": "G. 1, 4",
+      "suggestedRationale": "Long-term glucocorticoids atrophy lymphoid tissue and decrease protein synthesis (and actually lower, not raise, infection resistance)."
+    },
+    {
+      "prompt": "A serous exudate is best described as a",
+      "options": [
+        "thin, watery, colorless exudate.",
+        "thick, sticky, cloudy secretion.",
+        "thick, greenish material containing microbes.",
+        "brownish, clotted material."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. thin, watery, colorless exudate.",
+      "suggestedRationale": "Serous exudate is thin, watery, and relatively clear or colorless."
+    },
+    {
+      "prompt": "The advantages of applying a biosynthetic skin substitute to a large area of full-thickness burns include",
+      "options": [
+        "reduced risk of infection.",
+        "decreased loss of plasma protein and fluid.",
+        "developing stronger fibrous scar tissue.",
+        "more rapid healing.",
+        "regeneration of all glands, nerves, and hair follicles.",
+        "1, 3",
+        "4, 5",
+        "1, 2, 4",
+        "2, 3, 5"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 7,
+      "suggestedLabel": "H. 1, 2, 4",
+      "suggestedRationale": "Skin substitutes reduce infection and protein/fluid loss and speed coverage; full-thickness burns do not regenerate glands, nerves, or hair."
+    },
+    {
+      "prompt": "The presence of the bacterial capsule",
+      "options": [
+        "aids in the release of endotoxins.",
+        "protects the microbe from phagocytosis.",
+        "increases the release of toxins and enzymes.",
+        "prevents replication of the bacterium."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. protects the microbe from phagocytosis.",
+      "suggestedRationale": "A capsule helps bacteria evade phagocytosis."
+    },
+    {
+      "prompt": "Microbial mutation means that",
+      "options": [
+        "genetic information has changed.",
+        "pathogens become nonpathogens.",
+        "the microbe survives adverse conditions but can no longer replicate.",
+        "the immune response to that microbe is strengthened."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. genetic information has changed.",
+      "suggestedRationale": "Mutation means the organism’s genetic information has changed."
+    },
+    {
+      "prompt": "A bacterial endospore can",
+      "options": [
+        "also be classified as an acid-fast bacterium.",
+        "exist in latent form inside a host cell.",
+        "reproduce very rapidly.",
+        "survive high temperatures and a dry environment."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. survive high temperatures and a dry environment.",
+      "suggestedRationale": "Endospores can survive heat and drying."
+    },
+    {
+      "prompt": "The structure of a virus includes",
+      "options": [
+        "a cell wall and membrane.",
+        "metabolic enzymes for replication.",
+        "a protein coat and either DNA or RNA.",
+        "a slime capsule and cilia."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. a protein coat and either DNA or RNA.",
+      "suggestedRationale": "A virus has a protein capsid and a DNA or RNA genome, not a true cell wall or its own metabolic enzymes."
+    },
+    {
+      "prompt": "A retrovirus such as HIV contains",
+      "options": [
+        "RNA and enzymes for its conversion.",
+        "a double strand of DNA.",
+        "many enzymes to limit budding of new virions.",
+        "numerous mitochondria."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. RNA and enzymes for its conversion.",
+      "suggestedRationale": "HIV is a retrovirus: RNA plus reverse transcriptase to convert it to DNA."
+    },
+    {
+      "prompt": "How do antiviral drugs act?",
+      "options": [
+        "They interfere with cell wall development.",
+        "They decrease cell membrane permeability.",
+        "They destroy new, immature viral particles.",
+        "They reduce the rate of viral replication."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. They reduce the rate of viral replication.",
+      "suggestedRationale": "Antiviral drugs slow viral replication; they do not typically destroy every virion or attack bacterial cell walls."
+    },
+    {
+      "prompt": "What is true for Fungi",
+      "options": [
+        "budding.",
+        "extension of hyphae.",
+        "binary fission.",
+        "production of spores.",
+        "1, 2",
+        "2, 4",
+        "1, 2, 4",
+        "2, 3, 4"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 6,
+      "suggestedLabel": "G. 1, 2, 4",
+      "suggestedRationale": "Fungi reproduce by budding, hyphal extension, and spores, not by binary fission."
+    },
+    {
+      "prompt": "Which of the following is NOT classified as a protozoan agent of disease?",
+      "options": [
+        "Plasmodium vivax",
+        "Trichomonas vaginalis",
+        "Tinea pedis",
+        "Entamoeba histolytica"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Tinea pedis",
+      "suggestedRationale": "Tinea pedis is a fungus (dermatophyte), not a protozoan."
+    },
+    {
+      "prompt": "Which of the following is a characteristic of rickettsia?",
+      "options": [
+        "It is a very small gram-negative intracellular microbe",
+        "It exists in three forms.",
+        "It causes sexually transmitted disease.",
+        "It reproduces by budding."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. It is a very small gram-negative intracellular microbe",
+      "suggestedRationale": "Rickettsiae are tiny gram-negative obligate intracellular bacteria."
+    },
+    {
+      "prompt": "Which of the following is normally considered sterile?",
+      "options": [
+        "Urine",
+        "Pharynx",
+        "Sputum",
+        "Urethra"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Urine",
+      "suggestedRationale": "Urine in the bladder is normally sterile; the pharynx, sputum, and urethra carry flora."
+    },
+    {
+      "prompt": "WHat is a nosocomial infection?",
+      "options": [
+        "transmission involves an insect or animal host.",
+        "acquired in a hospital or medical facility.",
+        "transmitted by a fomite.",
+        "spread by direct contact with secretions from an open lesion."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. acquired in a hospital or medical facility.",
+      "suggestedRationale": "A nosocomial infection is acquired in a hospital or other health-care facility."
+    },
+    {
+      "prompt": "Which of the following factors would NOT increase the virulence of a specific microbe?",
+      "options": [
+        "Secretion of endotoxin",
+        "Presence of a bacterial capsule",
+        "Production of interferons",
+        "Secretion of invasive enzymes"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Production of interferons",
+      "suggestedRationale": "Interferons are a host defense, not a microbial virulence factor."
+    },
+    {
+      "prompt": "That time in the course of an infection when the infected person may experience a headache or fatigue and senses he or she is “coming down with something” is referred to as which of the following?",
+      "options": [
+        "Subclinical period",
+        "Eclipse period",
+        "Prodromal period",
+        "Presymptomatic period"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Prodromal period",
+      "suggestedRationale": "The prodromal period is the early 'coming down with something' phase (headache, fatigue)."
+    },
+    {
+      "prompt": "The principle of Universal Precautions is based on",
+      "options": [
+        "using disinfectants at all times to eliminate cross-infections.",
+        "not touching any open or bleeding lesions.",
+        "sterilizing all instruments and equipment after each use.",
+        "assuming that all body fluids from all individuals are possible sources of infection."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. assuming that all body fluids from all individuals are possible sources of infection.",
+      "suggestedRationale": "Standard/universal precautions assume every person’s body fluids may be infectious."
+    },
+    {
+      "prompt": "What does “bacteremia” refer to?",
+      "options": [
+        "Numerous pathogens circulating and reproducing in the blood",
+        "Uncontrolled sepsis throughout the body",
+        "Multiple infections, primary and secondary, established in the body",
+        "Microbes present in the blood"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Microbes present in the blood",
+      "suggestedRationale": "Bacteremia means bacteria are present in the blood; option A describes septicemia (replicating pathogens in the bloodstream)."
+    },
+    {
+      "prompt": "Which of the following is a local sign of infection?",
+      "options": [
+        "Fever and leukocytosis",
+        "Headache and anorexia",
+        "Pain, erythema, and swelling",
+        "Nausea, weight loss, and fatigue"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Pain, erythema, and swelling",
+      "suggestedRationale": "Pain, redness, and swelling are local signs; fever and leukocytosis are systemic."
+    },
+    {
+      "prompt": "What are culture and sensitivity tests used for?",
+      "options": [
+        "To determine the type of microbe present in an exudate",
+        "To provide a specific medium that supports maximum microbial growth",
+        "To identify the causative microbe and the effective antimicrobial agent for it",
+        "To provide living host cells for microbes requiring such for replication"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. To identify the causative microbe and the effective antimicrobial agent for it",
+      "suggestedRationale": "Culture and sensitivity identify the organism and which drug will work."
+    },
+    {
+      "prompt": "A broad-spectrum bactericidal agent would be expected to",
+      "options": [
+        "destroy many gram-positive and gram-negative bacteria.",
+        "destroy all pathogenic microbes in contact with the agent.",
+        "reduce the replication of many bacteria.",
+        "inhibit the growth of most spores and acid-fast bacteria."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. destroy many gram-positive and gram-negative bacteria.",
+      "suggestedRationale": "A broad-spectrum bactericidal drug kills many gram-positive and gram-negative bacteria."
+    },
+    {
+      "prompt": "What does “bacteremia” refer to?",
+      "options": [
+        "Numerous pathogens circulating and reproducing in the blood",
+        "Uncontrolled sepsis throughout the body",
+        "Multiple infections, primary and secondary, established in the body",
+        "Microbes present in the blood"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Microbes present in the blood",
+      "suggestedRationale": "Same distinction as earlier: bacteremia is presence of microbes in blood, not uncontrolled sepsis."
+    },
+    {
+      "prompt": "Which of the following is a local sign of infection?",
+      "options": [
+        "Fever and leukocytosis",
+        "Headache and anorexia",
+        "Pain, erythema, and swelling",
+        "Nausea, weight loss, and fatigue"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Pain, erythema, and swelling",
+      "suggestedRationale": "Local infection signs are pain, erythema, and swelling."
+    },
+    {
+      "prompt": "Secondary infection may occur with administration of antibacterial drugs because the",
+      "options": [
+        "patient is allergic to the drug.",
+        "balance of species in the resident flora is upset.",
+        "mucosa of the stomach is irritated.",
+        "infecting microbes spread to adjacent areas."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. balance of species in the resident flora is upset.",
+      "suggestedRationale": "Antibacterials can wipe out normal flora and allow a secondary (often opportunistic) infection."
+    },
+    {
+      "prompt": "All of the following are mechanisms of antiviral drug action EXCEPT",
+      "options": [
+        "interference with attachment to host cell.",
+        "block assembly of viral particles.",
+        "interference with mitosis.",
+        "shedding of protein coat."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. interference with mitosis.",
+      "suggestedRationale": "Viruses do not undergo mitosis, so blocking mitosis is not an antiviral mechanism."
+    },
+    {
+      "prompt": "Secondary bacterial infections occur frequently during influenza epidemics primarily because",
+      "options": [
+        "antiviral drugs lower host resistance.",
+        "the virus causes extensive tissue inflammation and necrosis.",
+        "respiratory droplets transmit infections.",
+        "the viral infection is usually self-limiting."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. the virus causes extensive tissue inflammation and necrosis.",
+      "suggestedRationale": "Influenza necroses respiratory mucosa, opening the way for secondary bacterial infection."
+    },
+    {
+      "prompt": "What does leukocytosis frequently indicate?",
+      "options": [
+        "mmunosuppression",
+        "Presence of a specific bacterial infection",
+        "Presence of bacterial infection",
+        "An allergic or autoimmune reaction"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Presence of bacterial infection",
+      "suggestedRationale": "Leukocytosis commonly indicates a bacterial infection."
+    },
+    {
+      "prompt": "When an infection or inflammation is suspected, what does leucopenia often indicate?",
+      "options": [
+        "Bacterial infection",
+        "Viral infection",
+        "Allergic reaction",
+        "Septicemia"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Viral infection",
+      "suggestedRationale": "Viral infections more often cause leukopenia than bacterial infections do."
+    },
+    {
+      "prompt": "The widespread necrosis of respiratory mucosa caused by an influenza infection often gives rise to",
+      "options": [
+        "severe anemia.",
+        "secondary infections.",
+        "asthma.",
+        "emphysema."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. secondary infections.",
+      "suggestedRationale": "Necrotic respiratory mucosa after influenza commonly leads to secondary infection."
+    },
+    {
+      "prompt": "Prions cannot be cultured in a PETRI plate of media because",
+      "options": [
+        "they take so long to grow.",
+        "they require extensive amounts of specialized nutrients.",
+        "they are proteinaceous particles, not living organisms.",
+        "they are viruses that don’t grow on conventional media."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. they are proteinaceous particles, not living organisms.",
+      "suggestedRationale": "Prions are infectious proteins, not organisms that grow on culture media."
+    },
+    {
+      "prompt": "Which of the following does NOT directly determine the virulence of a microbe?",
+      "options": [
+        "Capacity for opportunism",
+        "Production of toxins",
+        "Ability to mutate",
+        "Invasive qualities"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Capacity for opportunism",
+      "suggestedRationale": "Opportunism depends mainly on host defenses; toxins, invasiveness, and mutation more directly define virulence."
+    },
+    {
+      "prompt": "Which of the following is the primary difference between an antiseptic and a disinfectant?",
+      "options": [
+        "Antiseptic is used on living tissue, whereas disinfectant is designed for nonliving surfaces",
+        "Antiseptic is much stronger than the potency of a disinfectant.",
+        "Antiseptic often causes allergic skin reactions, whereas disinfectant is always hypoallergenic.",
+        "Antiseptic is effective against endospores; disinfectants are not effective against endospores."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Antiseptic is used on living tissue, whereas disinfectant is designed for nonliving surfaces",
+      "suggestedRationale": "Antiseptics are for living tissue; disinfectants are for inanimate surfaces."
+    },
+    {
+      "prompt": "What are Neutrophils?",
+      "options": [
+        "are phagocytic cells",
+        "produce histamine.",
+        "produce antibodies.",
+        "are elevated during an allergic response."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. are phagocytic cells",
+      "suggestedRationale": "Neutrophils are phagocytes."
+    },
+    {
+      "prompt": "Humoral immunity is mediated by",
+      "options": [
+        "natural killer cells.",
+        "T lymphocytes (T cells).",
+        "B lymphocytes (B cells).",
+        "neutrophils."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. B lymphocytes (B cells).",
+      "suggestedRationale": "Humoral immunity is mediated by B lymphocytes and their antibodies."
+    },
+    {
+      "prompt": "A secondary immune response differs from the primary immune response in that",
+      "options": [
+        "it is more rapid than the primary response and results in higher antibody levels",
+        "it is slower than the primary response and doesn’t change the antibody levels.",
+        "it occurs at the same time as the primary response but results in a decrease in antibodies.",
+        "it only occurs in hyperallergic reactions and results in a decrease of antibodies."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. it is more rapid than the primary response and results in higher antibody levels",
+      "suggestedRationale": "A secondary (anamnestic) response is faster and produces higher antibody titers."
+    },
+    {
+      "prompt": "Which type of immunity is provided by a vaccination?",
+      "options": [
+        "Active natural",
+        "Active artificial",
+        "Passive natural",
+        "Passive artificial"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Active artificial",
+      "suggestedRationale": "Vaccination is active artificial immunity."
+    },
+    {
+      "prompt": "Which cells are required to process and present antigens from foreign material as the initial step in the immune response?",
+      "options": [
+        "T-helper cells",
+        "Macrophages",
+        "Eosinophils",
+        "Monocytes"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Macrophages",
+      "suggestedRationale": "Macrophages process and present antigen as the usual first step in the adaptive response."
+    },
+    {
+      "prompt": "When an allergen binds with IgE antibodies on mast cells, resulting in release of chemical mediators, this reaction is called",
+      "options": [
+        "cytotoxic hypersensitivity.",
+        "immune complex hypersensitivity.",
+        "type I hypersensitivity.",
+        "type IV hypersensitivity."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. type I hypersensitivity.",
+      "suggestedRationale": "IgE on mast cells plus allergen is type I hypersensitivity."
+    },
+    {
+      "prompt": "The role of memory cells is to",
+      "options": [
+        "change into an antibody-secreting cell following activation.",
+        "immediately secrete antibodies following the first exposure to antigen.",
+        "recognize the antigen and stimulate the immune response",
+        "bind complement to the antibod"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. recognize the antigen and stimulate the immune response",
+      "suggestedRationale": "Memory cells recognize re-exposure and quickly restart a strong immune response."
+    },
+    {
+      "prompt": "Which statement applies to contact dermatitis?",
+      "options": [
+        "It occurs when IgE antibodies on the skin react with the causative substance.",
+        "It may result from ingested foods.",
+        "Urticaria (hives) gradually spread over the body.",
+        "A type IV reaction occurs in affected areas"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. A type IV reaction occurs in affected areas",
+      "suggestedRationale": "Contact dermatitis is a type IV (delayed, cell-mediated) reaction in the exposed skin."
+    },
+    {
+      "prompt": "Which of the following causes anaphylaxis?",
+      "options": [
+        "A severe, systemic allergic reaction",
+        "Type III hypersensitivity",
+        "Cell-mediated hypersensitivity",
+        "Immune complex deposits in many tissue"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. A severe, systemic allergic reaction",
+      "suggestedRationale": "Anaphylaxis is a severe systemic type I allergic reaction."
+    },
+    {
+      "prompt": "Following a positive HIV antibodies blood test and ELISA test, what is the test commonly used for confirmation?",
+      "options": [
+        "Agglutination",
+        "Double immunodiffusion test",
+        "Western blot test",
+        "Sedimentation rate test"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Western blot test",
+      "suggestedRationale": "Western blot is the classic confirmatory test after a positive HIV ELISA."
+    },
+    {
+      "prompt": "Systemic lupus erythematosus is caused by",
+      "options": [
+        "a chronic allergic condition.",
+        "development of an immune-deficient state.",
+        "a deficiency of T lymphocytes.",
+        "immune complex deposits of antinuclear antibodies."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. immune complex deposits of antinuclear antibodies.",
+      "suggestedRationale": "SLE involves immune-complex deposits of antinuclear antibodies."
+    },
+    {
+      "prompt": "Which of the following are the target cells for HIV?",
+      "options": [
+        "Helper T lymphocytes (CD4 lymphocytes)",
+        "B lymphocytes",
+        "Natural killer cells",
+        "Macrophages"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Helper T lymphocytes (CD4 lymphocytes)",
+      "suggestedRationale": "HIV primarily infects CD4 helper T lymphocytes."
+    },
+    {
+      "prompt": "A diagnosis of HIV positive means that",
+      "options": [
+        "the number of T lymphocytes in the circulating blood is decreased.",
+        "significant opportunistic infection is present in the body.",
+        "the individual has AIDS.",
+        "the virus and its antibodies are present in the blood."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. the virus and its antibodies are present in the blood.",
+      "suggestedRationale": "HIV-positive means virus and antibodies are in the blood; it is not the same as a diagnosis of AIDS."
+    },
+    {
+      "prompt": "Serious infections frequently occurring in patients with AIDS include",
+      "options": [
+        "tuberculosis.",
+        "Pneumocystis carinii pneumonia.",
+        "influenza.",
+        "tetanus.",
+        "1, 2",
+        "1, 4",
+        "2, 3",
+        "3, 4"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 4,
+      "suggestedLabel": "E. 1, 2",
+      "suggestedRationale": "TB and Pneumocystis pneumonia are the classic serious opportunistic infections in AIDS."
+    },
+    {
+      "prompt": "Host-versus-graft disease refers to",
+      "options": [
+        "hyperacute rejection of tissue.",
+        "T cells in grafted tissue attacking host cells.",
+        "infection resulting from immunosuppression therapy.",
+        "transplant rejection by the recipient’s immune system"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. transplant rejection by the recipient’s immune system",
+      "suggestedRationale": "Host-versus-graft disease is rejection of the transplant by the recipient’s immune system (the reverse of GVHD)."
+    },
+    {
+      "prompt": "Which of the following characteristics apply to HIV?",
+      "options": [
+        "It contains two strands of DNA.",
+        "It tends to mutate frequently to form new strains.",
+        "The incubation period is extremely short.",
+        "It is inactivated by heat and many disinfectants.",
+        "1, 2",
+        "1, 3",
+        "2, 4",
+        "3, 4"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 6,
+      "suggestedLabel": "G. 2, 4",
+      "suggestedRationale": "HIV is an RNA virus that mutates often and is inactivated by heat and many disinfectants; the latent period is long, not extremely short."
+    },
+    {
+      "prompt": "Which of the following is an effect of cytokines? They",
+      "options": [
+        "activate and stimulate proliferation of B and T lymphocytes.",
+        "destroy antigens quickly.",
+        "increase the rate of mitosis in tumors.",
+        "cause immediate pain."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. activate and stimulate proliferation of B and T lymphocytes.",
+      "suggestedRationale": "Cytokines activate and expand B and T lymphocytes."
+    },
+    {
+      "prompt": "Which of the following statements is TRUE regarding a patient who is HIV positive?",
+      "options": [
+        "No medication is required until the CD4 cell count drops below normal range.",
+        "Antibodies are present, destroying the virus and preventing transmission to others.",
+        "Antibodies in the blood indicate presence of virus and possible transmission to others.",
+        "Enzymes have not yet converted RNA to DNA for replication."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Antibodies in the blood indicate presence of virus and possible transmission to others.",
+      "suggestedRationale": "HIV antibodies mean the virus is present and the person can transmit it; they do not clear the infection."
+    },
+    {
+      "prompt": "The most common cause of death in patients who have AIDS is",
+      "options": [
+        "HIV encephalopathy.",
+        "tuberculosis.",
+        "Pneumocystis carinii pneumonia",
+        "Candida infection."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Pneumocystis carinii pneumonia",
+      "suggestedRationale": "Standard patho texts list Pneumocystis pneumonia as the most common cause of death in AIDS."
+    },
+    {
+      "prompt": "The most common clinical condition associated with a cytokine storm is",
+      "options": [
+        "acute respiratory stress syndrome",
+        "ischemic attack.",
+        "arrythmia.",
+        "blood clotting."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. acute respiratory stress syndrome",
+      "suggestedRationale": "A cytokine storm is classically associated with acute respiratory distress syndrome."
+    },
+    {
+      "prompt": "Which of the following areas lacks blood vessels and nerves?",
+      "options": [
+        "Epidermis",
+        "Dermis",
+        "Subcutaneous tissue",
+        "Fatty tissue"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Epidermis",
+      "suggestedRationale": "The epidermis has no blood vessels or nerves."
+    },
+    {
+      "prompt": "Which of the following is a common effect of a type I hypersensitivity response to ingested substances?",
+      "options": [
+        "Contact dermatitis",
+        "Urticaria",
+        "Discoid lupus erythematosus",
+        "Psoriasis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Urticaria",
+      "suggestedRationale": "Type I reactions to ingested allergens commonly produce urticaria (hives)."
+    },
+    {
+      "prompt": "What change occurs in the skin with psoriasis?",
+      "options": [
+        "Recurrent hypersensitivity reactions",
+        "Autoimmune response",
+        "Increased mitosis and shedding of epithelium",
+        "Basal cell degeneration"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Increased mitosis and shedding of epithelium",
+      "suggestedRationale": "Psoriasis shows rapid keratinocyte turnover and shedding of silvery scale."
+    },
+    {
+      "prompt": "Why do secondary infections frequently develop in pruritic lesions?",
+      "options": [
+        "Loss of protective sebum",
+        "Entry of resident flora while scratching the lesion",
+        "Blockage of sebaceous glands",
+        "Increased sweat production"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Entry of resident flora while scratching the lesion",
+      "suggestedRationale": "Scratching pruritic lesions lets resident flora enter and cause secondary infection."
+    },
+    {
+      "prompt": "Which of the following skin lesions are usually caused by Staphylococcus aureus?",
+      "options": [
+        "Furuncles",
+        "Verrucae",
+        "Scabies",
+        "Tinea"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Furuncles",
+      "suggestedRationale": "Furuncles (boils) are usually caused by Staphylococcus aureus."
+    },
+    {
+      "prompt": "What is the common signal that a recurrence of herpes simplex infection is developing?",
+      "options": [
+        "Severe pain around the mouth",
+        "Malaise and fatigue",
+        "Fever and severe headaches",
+        "Mild tingling along the nerve or on the lips"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Mild tingling along the nerve or on the lips",
+      "suggestedRationale": "Recurrent herpes simplex is often heralded by mild tingling along the nerve or on the lips."
+    },
+    {
+      "prompt": "How are antiviral drugs effective in treating a viral infection?",
+      "options": [
+        "They destroy the virus if administered for at least 2 weeks.",
+        "They limit the acute stage and viral shedding.",
+        "They prevent any systemic effects of viruses.",
+        "They prevent any secondary bacterial infection."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. They limit the acute stage and viral shedding.",
+      "suggestedRationale": "Antivirals shorten the acute phase and reduce viral shedding; they do not eradicate the virus."
+    },
+    {
+      "prompt": "Which of the following statements regarding acute necrotizing fasciitis is TRUE?",
+      "options": [
+        "Infection is localized in a small area of the epidermis.",
+        "It is usually caused by S. aureus.",
+        "Spontaneous recovery usually occurs in 48 hours.",
+        "Infection rapidly causes extensive tissue necrosis and toxic shock"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Infection rapidly causes extensive tissue necrosis and toxic shock",
+      "suggestedRationale": "Necrotizing fasciitis spreads rapidly with extensive necrosis and can cause toxic shock."
+    },
+    {
+      "prompt": "Which type of microbe causes Tinea infections?",
+      "options": [
+        "Fungus",
+        "Virus",
+        "Gram-negative bacterium",
+        "Mite"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Fungus",
+      "suggestedRationale": "Tinea infections are caused by dermatophyte fungi."
+    },
+    {
+      "prompt": "How can pediculosis be diagnosed?",
+      "options": [
+        "Pruritus in hairy areas of the body",
+        "Loss of blood due to lice bites",
+        "Finding lice in clothing",
+        "The presence of nits at the base of hair shafts"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. The presence of nits at the base of hair shafts",
+      "suggestedRationale": "Pediculosis is confirmed by finding nits attached at the base of hair shafts."
+    },
+    {
+      "prompt": "All of the following statements apply to malignant melanoma EXCEPT:",
+      "options": [
+        "The malignant cell is a melanocyte.",
+        "They present as non-pruritic purplish macules.",
+        "The neoplasm grows rapidly and metastasizes early.",
+        "The lesion is usually dark or multicolored with an irregular border."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. They present as non-pruritic purplish macules.",
+      "suggestedRationale": "Melanoma is not a non-pruritic purplish macule (that description fits Kaposi sarcoma better)."
+    },
+    {
+      "prompt": "Which of the following factors has contributed to the increased incidence of Kaposi’s sarcoma?",
+      "options": [
+        "Excessive sun exposure",
+        "Increased number of nevi",
+        "Increase in immunosuppressed individuals",
+        "Presence of more seborrheic keratoses"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Increase in immunosuppressed individuals",
+      "suggestedRationale": "Kaposi sarcoma incidence rose with the number of immunosuppressed patients (especially AIDS)."
+    },
+    {
+      "prompt": "The cause of contact dermatitis can often be identified by",
+      "options": [
+        "using a culture and sensitivity test on the exudate.",
+        "checking the frequency of the exacerbations.",
+        "noting the location and size of the lesion.",
+        "the type of pain associated with the lesion"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. noting the location and size of the lesion.",
+      "suggestedRationale": "The distribution and shape of the rash often identify the contact allergen."
+    },
+    {
+      "prompt": "The pathological change associated with scleroderma is",
+      "options": [
+        "abnormal activation of T lymphocytes and an increase of cytokines.",
+        "an autoimmune reaction damaging the epidermis.",
+        "collagen deposits in the small blood vessels of the skin and sometimes the viscera.",
+        "Type I hypersensitivity and increased serum IgE level"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. collagen deposits in the small blood vessels of the skin and sometimes the viscera.",
+      "suggestedRationale": "Scleroderma deposits collagen in small vessels of the skin and sometimes internal organs."
+    },
+    {
+      "prompt": "Choose the best description of the typical lesion of impetigo.",
+      "options": [
+        "Large, red, painful nodule filled with purulent exudates",
+        "Small vesicles that rupture to produce a crusty brown pruritic mass",
+        "Red, swollen, painful areas often with projecting red streaks",
+        "Firm, raised papules that may have a rough surface and may be painful"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Small vesicles that rupture to produce a crusty brown pruritic mass",
+      "suggestedRationale": "Impetigo starts as small vesicles that rupture into honey-colored crusts."
+    },
+    {
+      "prompt": "Dupuytren’s contracture is a deformity that involves",
+      "options": [
+        "knots of tissue in the palm of the hand resulting in bent fingers.",
+        "tissue atrophy of the long leg muscles.",
+        "involuntary contraction of the muscles of the spine.",
+        "scar tissue that causes excessive joint pain."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. knots of tissue in the palm of the hand resulting in bent fingers.",
+      "suggestedRationale": "Dupuytren contracture is palmar fascia thickening that pulls the fingers into flexion."
+    },
+    {
+      "prompt": "One factor that is responsible for increasing the mortality rate among patients suffering with necrotizing fasciitis is",
+      "options": [
+        "a delay in initial diagnosis.",
+        "lack of proper antibiotics.",
+        "the appearance of additional opportunistic infections.",
+        "secondary fungal infections."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. a delay in initial diagnosis.",
+      "suggestedRationale": "Delayed diagnosis is a major reason necrotizing fasciitis has a high mortality."
+    }
+  ]
+}

@@ -1,0 +1,793 @@
+{
+  "id": "cardiac-practice",
+  "title": "Cardiac Practice Test",
+  "blurb": "Cardiac practice questions (week 7).",
+  "questions": [
+    {
+      "prompt": "Septic shock is frequently caused by infections involving",
+      "options": [
+        "gram-negative endotoxin-producing bacteria.",
+        "spore-forming saprophytic fungi.",
+        "free-swimming, motile parasitic protozoa.",
+        "parasitic nematodes."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. gram-negative endotoxin-producing bacteria.",
+      "suggestedRationale": "Septic shock is commonly triggered by gram-negative bacteria and their endotoxin."
+    },
+    {
+      "prompt": "Excessive fluid in the pericardial space causes",
+      "options": [
+        "increased cardiac output.",
+        "myocardial infarction.",
+        "reduced venous return.",
+        "friction rub."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. reduced venous return.",
+      "suggestedRationale": "Excess pericardial fluid (tamponade) limits filling and therefore reduces venous return and cardiac output."
+    },
+    {
+      "prompt": "Varicose ulcers may develop and be slow to heal because",
+      "options": [
+        "leg muscles are painful, restricting movement.",
+        "edema reduces arterial blood supply to the area.",
+        "emboli form in damaged veins, leading to local ischemia.",
+        "valves in veins restrict blood flow."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. edema reduces arterial blood supply to the area.",
+      "suggestedRationale": "Edema around varicose veins can impair arterial perfusion of the skin, so ulcers form and heal slowly."
+    },
+    {
+      "prompt": "Prophylactic antibacterial drugs such as amoxicillin are given to patients with certain congenital heart defects or damaged heart valves immediately before invasive procedures to prevent",
+      "options": [
+        "formation of septic thrombi.",
+        "infectious endocarditis.",
+        "abscess formation.",
+        "myocarditis."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. infectious endocarditis.",
+      "suggestedRationale": "Periprocedural antibiotics are given to prevent infective endocarditis in patients with certain valve or congenital lesions."
+    },
+    {
+      "prompt": "In a child with acute rheumatic fever, arrhythmias may develop due to the presence of",
+      "options": [
+        "endocarditis.",
+        "myocarditis.",
+        "pericarditis.",
+        "congestive heart failure."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. myocarditis.",
+      "suggestedRationale": "In rheumatic fever, myocarditis is the lesion most likely to cause arrhythmias."
+    },
+    {
+      "prompt": "In a child with ventricular septal defect, altered blood flow",
+      "options": [
+        "leads to increased stroke volume from the left ventricle.",
+        "results in unoxygenated blood in the systemic circulation.",
+        "is called a right-to-left shunt.",
+        "is called a left-to-right shunt"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. is called a left-to-right shunt",
+      "suggestedRationale": "A VSD usually shunts blood from the higher-pressure left ventricle to the right ventricle (left-to-right)."
+    },
+    {
+      "prompt": "In patients with congestive heart failure, ACE inhibitor drugs are useful because they",
+      "options": [
+        "reduce renin and aldosterone secretion.",
+        "slow the heart rate.",
+        "strengthen myocardial contraction.",
+        "block arrhythmias."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. reduce renin and aldosterone secretion.",
+      "suggestedRationale": "ACE inhibitors reduce angiotensin II and therefore reduce aldosterone (and the effects of renin–angiotensin signaling)."
+    },
+    {
+      "prompt": "Which of the following compensations that develop in patients with congestive heart failure eventually increase the workload of the heart?",
+      "options": [
+        "Faster heart rate and cardiomegaly",
+        "Peripheral vasoconstriction",
+        "Increased secretion of renin",
+        "Faster heart rate and cardiomegaly, peripheral vasoconstriction",
+        "Faster heart rate and cardiomegaly, peripheral vasoconstriction, increased secretion of renin"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 4,
+      "suggestedLabel": "E. Faster heart rate and cardiomegaly, peripheral vasoconstriction, increased secretion of renin",
+      "suggestedRationale": "Tachycardia, cardiomegaly, vasoconstriction, and renin–aldosterone activation all eventually increase the work of the failing heart."
+    },
+    {
+      "prompt": "The right side of the heart would fail first in the case of",
+      "options": [
+        "severe mitral valve stenosis.",
+        "uncontrolled essential hypertension.",
+        "large infarction in the right ventricle.",
+        "advanced chronic obstructive pulmonary disease (COPD).",
+        "1, 2",
+        "2, 3",
+        "1, 4",
+        "3, 4"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 7,
+      "suggestedLabel": "H. 3, 4",
+      "suggestedRationale": "A large right-ventricular infarct or advanced COPD/pulmonary hypertension overloads the right side first; mitral stenosis and essential hypertension strain the left side first."
+    },
+    {
+      "prompt": "A very rapid heart rate reduces cardiac output because",
+      "options": [
+        "venous return is increased.",
+        "ventricular fibrillation develops immediately.",
+        "conduction through the AV node is impaired.",
+        "ventricular filling is reduced."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. ventricular filling is reduced.",
+      "suggestedRationale": "A very rapid rate shortens diastole, so ventricular filling and stroke volume fall."
+    },
+    {
+      "prompt": "More extensive permanent damage is likely when a myocardial infarction is caused by",
+      "options": [
+        "a hemorrhage.",
+        "an embolus.",
+        "a thrombus.",
+        "an arrhythmia"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. a thrombus.",
+      "suggestedRationale": "An occlusive thrombus in situ is more likely to cause extensive, permanent infarction than a transient embolus or an arrhythmia alone."
+    },
+    {
+      "prompt": "Heart block, in which a conduction delay at the AV node results in intermittent missed ventricular contractions, is called",
+      "options": [
+        "first-degree block.",
+        "second-degree block.",
+        "bundle-branch block.",
+        "total heart block."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. second-degree block.",
+      "suggestedRationale": "Second-degree AV block produces intermittent dropped ventricular beats."
+    },
+    {
+      "prompt": "Septic shock differs from hypovolemic shock in that it is frequently manifested by",
+      "options": [
+        "fever and flushed face.",
+        "elevated blood pressure.",
+        "increased urinary output.",
+        "slow bounding pulse."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. fever and flushed face.",
+      "suggestedRationale": "Early (distributive) septic shock often presents with fever and warm, flushed skin, unlike cool, pale hypovolemic shock."
+    },
+    {
+      "prompt": "Confirmation of the diagnosis of a myocardial infarction would include",
+      "options": [
+        "specific changes in the ECG.",
+        "marked leukocytosis and increased erythrocyte sedimentation rate (ESR).",
+        "elevation of cardiac isoenzymes in serum.",
+        "a pattern of pain.",
+        "1, 2",
+        "1, 3",
+        "2, 4",
+        "3, 4"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 5,
+      "suggestedLabel": "F. 1, 3",
+      "suggestedRationale": "MI is confirmed by characteristic ECG changes plus elevated cardiac biomarkers; pain pattern and nonspecific inflammation are less definitive."
+    },
+    {
+      "prompt": "Which of the following is NOT true of the drug nitroglycerin?",
+      "options": [
+        "It decreases myocardial workload by causing systemic vasodilation.",
+        "It may be administered sublingually, transdermally, or by oral spray.",
+        "Dizziness or syncope may follow a sublingual dose.",
+        "It strengthens the myocardial contraction"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. It strengthens the myocardial contraction",
+      "suggestedRationale": "Nitroglycerin is a vasodilator that reduces workload; it does not strengthen contraction."
+    },
+    {
+      "prompt": "Which of the following is considered to be the most dangerous arrhythmia?",
+      "options": [
+        "Tachycardia",
+        "Bradycardia",
+        "Ventricular fibrillation",
+        "Second-degree heart block"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Ventricular fibrillation",
+      "suggestedRationale": "Ventricular fibrillation produces no effective cardiac output and is the most immediately lethal arrhythmia listed."
+    },
+    {
+      "prompt": "A cardiac pacemaker would most likely be inserted in cases of",
+      "options": [
+        "angina pectoris.",
+        "heart block.",
+        "congestive heart failure.",
+        "ventricular fibrillation."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. heart block.",
+      "suggestedRationale": "A pacemaker is used for symptomatic or high-grade heart block; defibrillation (not a pacing indication here) treats ventricular fibrillation."
+    },
+    {
+      "prompt": "A common adverse effect of many antihypertensive medications is",
+      "options": [
+        "orthostatic hypotension.",
+        "bradycardia.",
+        "altered blood coagulation.",
+        "peripheral edema."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. orthostatic hypotension.",
+      "suggestedRationale": "Orthostatic hypotension is a common adverse effect of many antihypertensive drugs."
+    },
+    {
+      "prompt": "The classic early manifestation(s) of left-sided congestive heart failure is/are ____, whereas the early indicator(s) of right-sided failure is/are _______.",
+      "options": [
+        "palpitations and periodic chest pain; shortness of breath on exertion",
+        "swelling of the ankles and abdomen; chest pain",
+        "shortness of breath on exertion or lying down; swelling of the ankles",
+        "coughing up frothy sputum; hepatomegaly and splenomegaly"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. shortness of breath on exertion or lying down; swelling of the ankles",
+      "suggestedRationale": "Left-sided failure presents early with dyspnea on exertion or lying down; right-sided failure presents with peripheral edema such as ankle swelling."
+    },
+    {
+      "prompt": "Shock develops in patients with severe burns as a result of",
+      "options": [
+        "extensive hemorrhage.",
+        "pain and loss of plasma.",
+        "direct damage to the heart.",
+        "extensive hemolysis of erythrocytes."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. pain and loss of plasma.",
+      "suggestedRationale": "Burn shock is driven by pain and massive plasma loss into injured tissues, not primarily by hemorrhage."
+    },
+    {
+      "prompt": "With shock, anaerobic cell metabolism and decreased renal blood flow cause",
+      "options": [
+        "metabolic alkalosis.",
+        "metabolic acidosis.",
+        "decreased serum potassium.",
+        "increased serum bicarbonate."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. metabolic acidosis.",
+      "suggestedRationale": "Anaerobic metabolism and poor renal perfusion in shock produce metabolic acidosis."
+    },
+    {
+      "prompt": "A prolonged period of shock is likely to cause",
+      "options": [
+        "damage to, and increased permeability of, pulmonary capillaries.",
+        "increased permeability of the glomerular capillaries of the kidneys.",
+        "increased pH of blood and body fluids.",
+        "increased systemic vasoconstriction."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. damage to, and increased permeability of, pulmonary capillaries.",
+      "suggestedRationale": "Prolonged shock can injure pulmonary capillaries (shock lung/ARDS) and increase their permeability."
+    },
+    {
+      "prompt": "Neurogenic (vasogenic) shock results from systemic vasodilation due to",
+      "options": [
+        "increased peripheral resistance and less blood in the microcirculation.",
+        "increased permeability of all the blood vessels, leading to hypovolemia.",
+        "slower, less forceful cardiac contractions.",
+        "increased capacity of the vascular system and reduced venous return"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. increased capacity of the vascular system and reduced venous return",
+      "suggestedRationale": "Neurogenic shock is loss of vasomotor tone, so vascular capacity rises and venous return falls."
+    },
+    {
+      "prompt": "Why does anaphylactic shock cause severe hypoxia very quickly?",
+      "options": [
+        "Generalized vasoconstriction reduces venous return.",
+        "Bronchoconstriction and bronchial edema reduce airflow.",
+        "Heart rate and contractility are reduced.",
+        "Metabolic rate is greatly increased."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Bronchoconstriction and bronchial edema reduce airflow.",
+      "suggestedRationale": "Anaphylaxis causes rapid hypoxia from bronchoconstriction and airway edema as well as vasodilation."
+    },
+    {
+      "prompt": "A compensation for shock would include",
+      "options": [
+        "increased heart rate and oliguria.",
+        "lethargy and decreased responsiveness.",
+        "warm, dry, flushed skin.",
+        "weak, thready puls"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. increased heart rate and oliguria.",
+      "suggestedRationale": "Compensated shock includes tachycardia and oliguria (sympathetic and renin–aldosterone effects)."
+    },
+    {
+      "prompt": "What are the early signs of circulatory shock?",
+      "options": [
+        "Pale moist skin",
+        "Loss of consciousness",
+        "Anxiety and restlessness",
+        "Rapid strong pulse",
+        "1, 2",
+        "1, 3",
+        "1, 4",
+        "3, 4"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 5,
+      "suggestedLabel": "F. 1, 3",
+      "suggestedRationale": "Early signs include pale moist skin and anxiety or restlessness. Loss of consciousness is late; a rapid pulse occurs early, but “strong” is only briefly true, and no option lists 1, 3, and 4 together."
+    },
+    {
+      "prompt": "Shock follows a myocardial infarction when",
+      "options": [
+        "the stress response causes general vasodilation.",
+        "fluid is lost into ischemic tissues.",
+        "heart valves are damaged.",
+        "a large portion of the myocardium is damaged."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. a large portion of the myocardium is damaged.",
+      "suggestedRationale": "Cardiogenic shock after MI occurs when a large portion of the myocardium is damaged and pump function collapses."
+    },
+    {
+      "prompt": "An echocardiogram is used to demonstrate any abnormal",
+      "options": [
+        "activity in the conduction system.",
+        "movement of the heart valves.",
+        "change in central venous pressure.",
+        "blood flow in coronary arteries."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. movement of the heart valves.",
+      "suggestedRationale": "Echocardiography shows chamber and valve motion (and estimated flows); it is not the test of the conduction system itself."
+    },
+    {
+      "prompt": "The term intermittent claudication refers to",
+      "options": [
+        "sensory deficit in the legs due to damage to nerves.",
+        "chest pain related to ischemia.",
+        "ischemic muscle pain in the legs, particularly with exercise.",
+        "dry, cyanotic skin with superficial ulcers."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. ischemic muscle pain in the legs, particularly with exercise.",
+      "suggestedRationale": "Intermittent claudication is ischemic leg-muscle pain, typically brought on by exercise and relieved by rest."
+    },
+    {
+      "prompt": "Atherosclerosis in the iliac or femoral arteries is likely to cause which of the following?",
+      "options": [
+        "Gangrenous ulcers in the legs",
+        "Strong rapid pulses in the legs",
+        "Intermittent claudication",
+        "Red, swollen legs",
+        "1, 2",
+        "1, 3",
+        "2, 3",
+        "2, 4"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 5,
+      "suggestedLabel": "F. 1, 3",
+      "suggestedRationale": "Iliac or femoral atherosclerosis can cause claudication and, when severe, ischemic or gangrenous ulcers; pulses are weakened, not strong."
+    },
+    {
+      "prompt": "Uncontrolled hypertension is most likely to cause ischemia and loss of function in the",
+      "options": [
+        "kidneys, brain, and retinas of the eye.",
+        "peripheral arteries in the legs.",
+        "aorta and coronary arteries.",
+        "liver, spleen, and stomach."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. kidneys, brain, and retinas of the eye.",
+      "suggestedRationale": "The key target organs of uncontrolled hypertension include the kidneys, brain, and retina."
+    },
+    {
+      "prompt": "Pericarditis may be caused by",
+      "options": [
+        "infection.",
+        "abnormal immune responses.",
+        "injury.",
+        "malignant neoplasm.",
+        "1, 2",
+        "3, 4",
+        "1, 3, 4",
+        "1, 2, 3, 4"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 7,
+      "suggestedLabel": "H. 1, 2, 3, 4",
+      "suggestedRationale": "Pericarditis can follow infection, immune reactions, injury, or malignancy — all of the listed causes."
+    },
+    {
+      "prompt": "Pericarditis causes a reduction in cardiac output as a result of which of the following?",
+      "options": [
+        "Delays in the conduction system, interfering with cardiac rhythm",
+        "Weak myocardial contractions due to friction rub",
+        "Excess fluid in the pericardial cavity, which decreases ventricular filling",
+        "Incompetent valves, which allow regurgitation of blood"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Excess fluid in the pericardial cavity, which decreases ventricular filling",
+      "suggestedRationale": "Pericardial effusion limits diastolic filling, so stroke volume and cardiac output fall."
+    },
+    {
+      "prompt": "Septic emboli, a common complication of infective endocarditis, are a result of the fact that",
+      "options": [
+        "vegetations are loosely attached and fragile.",
+        "the valves are no longer competent.",
+        "cardiac output is reduced.",
+        "heart contractions are irregular."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. vegetations are loosely attached and fragile.",
+      "suggestedRationale": "Infective vegetations are fragile and can break off as septic emboli."
+    },
+    {
+      "prompt": "The initial effect on the heart in cases of rheumatic fever is",
+      "options": [
+        "infection in the heart by hemolytic streptococci.",
+        "highly virulent microbes causing vegetations on the heart valves.",
+        "septic emboli obstructing coronary arteries.",
+        "acute inflammation in all layers of the heart due to abnormal immune response."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. acute inflammation in all layers of the heart due to abnormal immune response.",
+      "suggestedRationale": "The initial cardiac injury in rheumatic fever is a pancarditis from an abnormal immune response, not direct streptococcal infection of the heart."
+    },
+    {
+      "prompt": "Cyanosis occurs in children with tetralogy of Fallot because",
+      "options": [
+        "more carbon dioxide is present in the circulating blood.",
+        "a large amount of hemoglobin in the general circulation is unoxygenated.",
+        "the pulmonary circulation is overloaded and congested.",
+        "the circulation is sluggish (slow) throughout the system."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. a large amount of hemoglobin in the general circulation is unoxygenated.",
+      "suggestedRationale": "Cyanosis appears when a large amount of unoxygenated hemoglobin reaches the systemic circulation."
+    },
+    {
+      "prompt": "Unoxygenated blood enters the systemic circulation in children with tetralogy of Fallot because",
+      "options": [
+        "the aorta and pulmonary artery have exchanged positions.",
+        "pulmonary stenosis changes the ventricular pressures.",
+        "the left ventricular wall has hypertrophied.",
+        "the septal defect allows exchange of blood between the atria."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. pulmonary stenosis changes the ventricular pressures.",
+      "suggestedRationale": "Pulmonary stenosis raises right-ventricular pressure, so blood shunts right-to-left through the VSD into the overriding aorta."
+    },
+    {
+      "prompt": "Which of the following describes the blood flow occurring with a ventricular septal defect?",
+      "options": [
+        "From the left ventricle to the right ventricle",
+        "From the right ventricle to the left ventricle",
+        "Increased cardiac output from the left ventricle",
+        "Mixed oxygenated and unoxygenated blood in the systemic circulation"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. From the left ventricle to the right ventricle",
+      "suggestedRationale": "In a typical VSD, blood flows from the higher-pressure left ventricle into the right ventricle."
+    },
+    {
+      "prompt": "A sign of aortic stenosis is",
+      "options": [
+        "increased cardiac output.",
+        "congestion in the liver, spleen, and legs.",
+        "flushed face and headache.",
+        "a heart murmur."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. a heart murmur.",
+      "suggestedRationale": "Aortic stenosis produces a characteristic systolic murmur; cardiac output tends to fall, not rise."
+    },
+    {
+      "prompt": "Effects that may be expected from a beta-adrenergic blocking drug include",
+      "options": [
+        "increasing systemic vasoconstriction.",
+        "decreased sympathetic stimulation of the heart.",
+        "blockage of an angiotensin receptor site.",
+        "increased release of renin."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. decreased sympathetic stimulation of the heart.",
+      "suggestedRationale": "Beta blockers decrease sympathetic stimulation of the heart (and can reduce renin release)."
+    },
+    {
+      "prompt": "In an infant, the initial indication of congestive heart failure is often",
+      "options": [
+        "distended neck veins.",
+        "feeding problems.",
+        "low-grade fever and lethargy.",
+        "frequent vomiting."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. feeding problems.",
+      "suggestedRationale": "In infants, feeding difficulty (and poor weight gain or sweating with feeds) is often the first clue to heart failure."
+    },
+    {
+      "prompt": "Which of the following drugs improves cardiac efficiency by slowing the heart rate and increasing the force of cardiac contractions?",
+      "options": [
+        "Furosemide",
+        "Digoxin",
+        "Epinephrine",
+        "Nifedipin"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Digoxin",
+      "suggestedRationale": "Digoxin slows conduction/heart rate and increases the force of contraction."
+    },
+    {
+      "prompt": "In which blood vessels will failure of the left ventricle cause increased hydrostatic pressure?",
+      "options": [
+        "Veins of the legs and feet",
+        "Jugular veins",
+        "Pulmonary capillaries",
+        "Blood vessels of the liver and spleen"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Pulmonary capillaries",
+      "suggestedRationale": "Left-ventricular failure raises hydrostatic pressure in the pulmonary capillaries, causing pulmonary congestion or edema."
+    },
+    {
+      "prompt": "Compensation mechanisms for decreased cardiac output in cases of congestive heart failure include",
+      "options": [
+        "slow cardiac contractions.",
+        "increased renin and aldosterone secretions.",
+        "decreased erythropoietin secretion.",
+        "fatigue and cold intolerance."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. increased renin and aldosterone secretions.",
+      "suggestedRationale": "Decreased cardiac output activates renin–angiotensin–aldosterone, which retains salt and water and is a major CHF compensation."
+    },
+    {
+      "prompt": "Significant signs of right-sided congestive heart failure include",
+      "options": [
+        "severe chest pain and tachycardia.",
+        "edematous feet and legs with hepatomegaly.",
+        "frequent cough with blood-streaked frothy sputum.",
+        "orthopnea, fatigue, increased blood pressure."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. edematous feet and legs with hepatomegaly.",
+      "suggestedRationale": "Right-sided failure causes systemic backup: leg edema and hepatomegaly. Frothy blood-streaked sputum is a left-sided (pulmonary edema) sign."
+    }
+  ]
+}

@@ -1,0 +1,1267 @@
+{
+  "id": "final-exam-practice-2",
+  "title": "Final Exam Practice 2",
+  "blurb": "The 90-question final practice packet, scored with its official answer key.",
+  "questions": [
+    {
+      "prompt": "Which part of the brain is responsible for maintaining homeostasis and controlling the autonomic nervous system?",
+      "options": [
+        "Thalamus",
+        "Hypothalamus",
+        "Cerebellum",
+        "Medulla oblongata"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Hypothalamus",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": "Damage to the left hemisphere of the brain primarily affects which function?",
+      "options": [
+        "Appreciation of music and art",
+        "Spatial orientation",
+        "Logical thinking and communication",
+        "Emotional expression"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Logical thinking and communication",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": "What is the function of cerebrospinal fluid (CSF)?",
+      "options": [
+        "Transporting oxygen to the brain",
+        "Cushioning the brain and spinal cord",
+        "Generating electrical impulses",
+        "Producing neurotransmitters"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Cushioning the brain and spinal cord",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": "The Glasgow Coma Scale is used to assess which of the following?",
+      "options": [
+        "Level of consciousness",
+        "Motor reflexes",
+        "Cranial nerve function",
+        "Cerebral blood flow"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 0,
+      "correctLabel": "Level of consciousness",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": "Which neurotransmitter is excitatory and involved in muscle activation?",
+      "options": [
+        "GABA",
+        "Dopamine",
+        "Acetylcholine",
+        "Serotonin"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Acetylcholine",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": "Increased intracranial pressure (ICP) can cause which of the following early symptoms?",
+      "options": [
+        "Hypertension and bradycardia",
+        "Confusion and headache",
+        "Hyperventilation",
+        "Increased urine output"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Confusion and headache",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": "What is a major function of the medulla oblongata?",
+      "options": [
+        "Controlling voluntary muscle movements",
+        "Regulating respiratory and cardiovascular functions",
+        "Interpreting sensory information",
+        "Producing hormones"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Regulating respiratory and cardiovascular functions",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": "Which condition is characterized by recurrent seizures due to abnormal neuronal activity?",
+      "options": [
+        "Meningitis",
+        "Epilepsy",
+        "Hydrocephalus",
+        "Parkinson’s disease"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Epilepsy",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": "A hemorrhagic stroke is caused by:",
+      "options": [
+        "A blockage in the cerebral arteries",
+        "A rupture of a blood vessel in the brain",
+        "A gradual loss of myelin sheath",
+        "A viral infection in the brain"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "A rupture of a blood vessel in the brain",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": "Which part of the brain coordinates movement, balance, and posture?",
+      "options": [
+        "Cerebrum",
+        "Thalamus",
+        "Cerebellum",
+        "Basal nuclei"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Cerebellum",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " What is the primary function of the immune system?",
+      "options": [
+        "Regulation of body temperature",
+        "Production of red blood cells",
+        "Defense against pathogens",
+        "Transport of nutrients"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Defense against pathogens",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which type of immunity involves the production of antibodies by B cells?",
+      "options": [
+        "Cell-mediated immunity",
+        "Passive immunity",
+        "Humoral immunity",
+        "Innate immunity"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Humoral immunity",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which immune cells are responsible for engulfing and digesting foreign particles?",
+      "options": [
+        "B lymphocytes",
+        "T lymphocytes",
+        "Macrophages",
+        "Plasma cells"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Macrophages",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " What is the function of T-helper cells (CD4+ T cells)?",
+      "options": [
+        "Produce antibodies",
+        "Kill infected cells directly",
+        "Activate other immune cells",
+        "Suppress the immune response"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Activate other immune cells",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which immunoglobulin is the most abundant in the blood and provides long-term immunity?",
+      "options": [
+        "IgA",
+        "IgE",
+        "IgG",
+        "IgM"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "IgG",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " A person receives antibodies from breast milk. What type of immunity is this?",
+      "options": [
+        "Active natural immunity",
+        "Passive natural immunity",
+        "Active artificial immunity",
+        "Passive artificial immunity"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Passive natural immunity",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which immune response occurs immediately after an initial exposure to a pathogen?",
+      "options": [
+        "Primary immune response",
+        "Secondary immune response",
+        "Hypersensitivity reaction",
+        "Autoimmune response"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 0,
+      "correctLabel": "Primary immune response",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " What is the cause of anaphylaxis?",
+      "options": [
+        "Excess red blood cell production",
+        "A severe IgE-mediated allergic reaction",
+        "A bacterial infection",
+        "Immune suppression"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "A severe IgE-mediated allergic reaction",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " What happens during autoimmune diseases?",
+      "options": [
+        "The immune system attacks foreign pathogens only",
+        "The immune system fails to recognize self-cells",
+        "The immune response is completely absent",
+        "Only B cells are activated"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "The immune system fails to recognize self-cells",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which organ is responsible for the maturation of T lymphocytes?",
+      "options": [
+        "Bone marrow",
+        "Thymus",
+        "Spleen",
+        "Lymph nodes"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Thymus",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " What is the primary function of water in the body?",
+      "options": [
+        "To provide energy for metabolism",
+        "To act as a medium for metabolic reactions",
+        "To produce electrolytes",
+        "To store nutrients"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "To act as a medium for metabolic reactions",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which of the following hormones promotes water reabsorption in the kidneys?",
+      "options": [
+        "Aldosterone",
+        "Antidiuretic hormone (ADH)",
+        "Insulin",
+        "Epinephrine"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Antidiuretic hormone (ADH)",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " What happens when capillary hydrostatic pressure increases?",
+      "options": [
+        "Fluid moves from the interstitial space into capillaries",
+        "Fluid is pulled into the capillary",
+        "Fluid is pushed out of the capillary into interstitial spaces",
+        "No change occurs in fluid movement"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Fluid is pushed out of the capillary into interstitial spaces",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which of the following is a major electrolyte imbalance that can cause cardiac dysrhythmias?",
+      "options": [
+        "Hypocalcemia",
+        "Hypokalemia",
+        "Hypernatremia",
+        "Hyperphosphatemia"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Hypokalemia",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which electrolyte is the primary cation in extracellular fluid (ECF)?",
+      "options": [
+        "Potassium",
+        "Calcium",
+        "Sodium",
+        "Magnesium"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Sodium",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " What are the early signs of dehydration?",
+      "options": [
+        "High blood pressure and bradycardia",
+        "Increased urine output and weight gain",
+        "Dry mucous membranes and decreased skin turgor",
+        "Increased sweating and slow heart rate"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Dry mucous membranes and decreased skin turgor",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " What is the normal range for serum sodium levels?",
+      "options": [
+        "5-4.5 mEq/L",
+        "5-5.0 mEq/L",
+        "135-145 mEq/L",
+        "5-10.5 mEq/L"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "135-145 mEq/L",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which of the following occurs in metabolic acidosis?",
+      "options": [
+        "pH rises above 7.45",
+        "Bicarbonate levels increase",
+        "Blood pH drops below 7.35",
+        "The body retains excess carbon dioxide"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Blood pH drops below 7.35",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which buffer system is the primary regulator of pH balance in the blood?",
+      "options": [
+        "Renal system",
+        "Bicarbonate-carbonic acid buffer system",
+        "Protein buffer system",
+        "Phosphate buffer system"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Bicarbonate-carbonic acid buffer system",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which condition is caused by an excess of sodium in the blood?",
+      "options": [
+        "Hyponatremia",
+        "Hypernatremia",
+        "Hypokalemia",
+        "Hypercalcemia"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Hypernatremia",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which of the following is the first line of defense against pathogens?",
+      "options": [
+        "Inflammation",
+        "Phagocytosis",
+        "Intact skin and mucous membranes",
+        "Antibody production"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Intact skin and mucous membranes",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " What is the main function of inflammation?",
+      "options": [
+        "To destroy and remove harmful agents",
+        "To increase body temperature",
+        "To prevent fluid loss",
+        "To decrease blood circulation"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 0,
+      "correctLabel": "To destroy and remove harmful agents",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which of the following is a systemic effect of inflammation?",
+      "options": [
+        "Local swelling",
+        "Redness and warmth",
+        "Fever and malaise",
+        "Pain at the injury site"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Fever and malaise",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which chemical mediator is primarily responsible for increasing capillary permeability during inflammation?",
+      "options": [
+        "Histamine",
+        "Epinephrine",
+        "Insulin",
+        "Serotonin"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 0,
+      "correctLabel": "Histamine",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which type of exudate is thick, yellow-green, and contains leukocytes and cell debris?",
+      "options": [
+        "Serous",
+        "Fibrinous",
+        "Purulent",
+        "Hemorrhagic"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Purulent",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which type of leukocyte is the first to arrive at the site of inflammation?",
+      "options": [
+        "Lymphocytes",
+        "Neutrophils",
+        "Eosinophils",
+        "Monocytes"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Neutrophils",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Chronic inflammation is characterized by which of the following?",
+      "options": [
+        "Immediate swelling and redness",
+        "Formation of scar tissue and fibrosis",
+        "Increased neutrophil activity",
+        "Short duration and rapid resolution"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Formation of scar tissue and fibrosis",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which type of healing occurs when damaged cells are replaced with cells that are identical to the original?",
+      "options": [
+        "Resolution",
+        "Regeneration",
+        "Replacement",
+        "Fibrosis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Regeneration",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which of the following complications may arise from severe burns?",
+      "options": [
+        "Increased red blood cell production",
+        "Hypovolemia and shock",
+        "Decreased risk of infection",
+        "Enhanced immune response"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Hypovolemia and shock",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " What is the primary function of glucocorticoids in inflammation?",
+      "options": [
+        "Increasing capillary permeability",
+        "Enhancing immune cell production",
+        "Reducing inflammation and immune response",
+        "Stimulating pain receptors"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Reducing inflammation and immune response",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": "Which of the following microorganisms are classified as prokaryotic cells?",
+      "options": [
+        "Viruses",
+        "Fungi",
+        "Bacteria",
+        "Protozoa"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Bacteria",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": "What is the primary characteristic of a virus?",
+      "options": [
+        "It has a rigid cell wall.",
+        "It reproduces by binary fission.",
+        "It requires a host cell to replicate.",
+        "It is capable of independent metabolism."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "It requires a host cell to replicate.",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": "Which of the following is an example of a fungal infection?",
+      "options": [
+        "Tuberculosis",
+        "Athlete’s foot",
+        "Malaria",
+        "Influenza"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Athlete’s foot",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": "Which bacterial structure helps bacteria attach to host tissues and transfer genetic material?",
+      "options": [
+        "Capsule",
+        "Pili",
+        "Flagella",
+        "Ribosome"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Pili",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": "Endotoxins are primarily produced by:",
+      "options": [
+        "Gram-positive bacteria",
+        "Gram-negative bacteria",
+        "Fungi",
+        "Viruses"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Gram-negative bacteria",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": "Which type of microorganism is considered an obligate intracellular parasite?",
+      "options": [
+        "Bacteria",
+        "Viruses",
+        "Protozoa",
+        "Fungi"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Viruses",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": "Which of the following is a major cause of hospital-acquired infections?",
+      "options": [
+        "Viruses",
+        "Normal flora overgrowth",
+        "Nosocomial pathogens",
+        "Vector-borne transmission"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Nosocomial pathogens",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": "What is the primary method of transmission for malaria?",
+      "options": [
+        "Airborne droplets",
+        "Direct contact",
+        "Mosquito bites",
+        "Contaminated food and water"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Mosquito bites",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": "Which of the following terms describes the presence of bacteria in the blood?",
+      "options": [
+        "Septicemia",
+        "Bacteremia",
+        "Toxemia",
+        "Viremia"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Bacteremia",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": "Which of the following is an example of a prion disease?",
+      "options": [
+        "Lyme disease",
+        "Creutzfeldt-Jakob disease",
+        "Hepatitis B",
+        "Tetanus"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Creutzfeldt-Jakob disease",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which of the following is a primary function of the skin?",
+      "options": [
+        "Production of red blood cells",
+        "Regulation of glucose metabolism",
+        "Protection against environmental hazards",
+        "Breakdown of carbohydrates"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Protection against environmental hazards",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which layer of the skin contains blood vessels, nerves, and connective tissue?",
+      "options": [
+        "Epidermis",
+        "Dermis",
+        "Subcutaneous tissue",
+        "Stratum corneum"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Dermis",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " What is the pigment responsible for skin color?",
+      "options": [
+        "Keratin",
+        "Collagen",
+        "Melanin",
+        "Elastin"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Melanin",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which of the following is a bacterial skin infection commonly caused by Staphylococcus aureus?",
+      "options": [
+        "Psoriasis",
+        "Impetigo",
+        "Urticaria",
+        "Vitiligo"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Impetigo",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which term describes an allergic reaction of the skin characterized by raised, red, itchy welts?",
+      "options": [
+        "Cellulitis",
+        "Urticaria",
+        "Eczema",
+        "Psoriasis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Urticaria",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " What is a common cause of contact dermatitis?",
+      "options": [
+        "Bacterial infection",
+        "Exposure to allergens or irritants",
+        "Autoimmune response",
+        "Viral infection"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Exposure to allergens or irritants",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which of the following is a chronic inflammatory skin disorder characterized by excessive keratinocyte proliferation?",
+      "options": [
+        "Psoriasis",
+        "Eczema",
+        "Tinea corporis",
+        "Scabies"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 0,
+      "correctLabel": "Psoriasis",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which of the following conditions is caused by a fungal infection?",
+      "options": [
+        "Scabies",
+        "Tinea pedis",
+        "Pemphigus",
+        "Scleroderma"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Tinea pedis",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which of the following is an autoimmune disorder that causes large, painful blisters on the skin?",
+      "options": [
+        "Impetigo",
+        "Pemphigus",
+        "Rosacea",
+        "Contact dermatitis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Pemphigus",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which of the following is a possible complication of severe burns?",
+      "options": [
+        "Decreased risk of infection",
+        "Hypovolemic shock",
+        "Increased collagen production",
+        "Reduced body temperature regulation"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Hypovolemic shock",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": "What is the primary function of red blood cells (erythrocytes)?",
+      "options": [
+        "Transport oxygen and carbon dioxide",
+        "Fight infections",
+        "Assist in blood clotting",
+        "Regulate body temperature"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 0,
+      "correctLabel": "Transport oxygen and carbon dioxide",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": "Which of the following is a major component of hemoglobin that binds to oxygen?",
+      "options": [
+        "Globin",
+        "Iron",
+        "Plasma",
+        "Albumin"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Iron",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": "Which type of anemia results from a deficiency of vitamin B12 due to a lack of intrinsic factor?",
+      "options": [
+        "Iron deficiency anemia",
+        "Aplastic anemia",
+        "Pernicious anemia",
+        "Hemolytic anemia"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Pernicious anemia",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": "Which condition is characterized by excessive red blood cell destruction?",
+      "options": [
+        "Polycythemia",
+        "Sickle cell anemia",
+        "Hemolytic anemia",
+        "Thrombocytopenia"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Hemolytic anemia",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": "Which of the following best describes leukopenia?",
+      "options": [
+        "An increase in white blood cells",
+        "A decrease in white blood cells",
+        "An increase in hemoglobin levels",
+        "A deficiency of platelets"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "A decrease in white blood cells",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": "Which blood disorder is characterized by abnormal hemoglobin, leading to misshapen red blood cells?",
+      "options": [
+        "Aplastic anemia",
+        "Sickle cell anemia",
+        "Thalassemia",
+        "Hemophilia"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Sickle cell anemia",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": "What is the primary function of platelets (thrombocytes)?",
+      "options": [
+        "Transport nutrients in the blood",
+        "Assist in blood clotting",
+        "Produce hemoglobin",
+        "Stimulate red blood cell production"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Assist in blood clotting",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": "Which of the following conditions is a genetic disorder that affects blood clotting?",
+      "options": [
+        "Hemophilia",
+        "Leukemia",
+        "Thrombocytopenia",
+        "Polycythemia"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 0,
+      "correctLabel": "Hemophilia",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": "What is the most common cause of iron deficiency anemia?",
+      "options": [
+        "Blood loss",
+        "Vitamin B12 deficiency",
+        "Excessive iron intake",
+        "Autoimmune disease"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 0,
+      "correctLabel": "Blood loss",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": "Which of the following is a cancer of white blood cells?",
+      "options": [
+        "Hemophilia",
+        "Thrombocytopenia",
+        "Leukemia",
+        "Polycythemia"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Leukemia",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " What is the primary function of the respiratory system?",
+      "options": [
+        "Transport nutrients throughout the body",
+        "Remove carbon dioxide and supply oxygen to the blood",
+        "Maintain blood pressure",
+        "Produce white blood cells"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Remove carbon dioxide and supply oxygen to the blood",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which of the following structures is responsible for gas exchange in the lungs?",
+      "options": [
+        "Trachea",
+        "Bronchi",
+        "Alveoli",
+        "Pleura"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Alveoli",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which part of the brain controls the basic rhythm of breathing?",
+      "options": [
+        "Cerebellum",
+        "Medulla oblongata",
+        "Hypothalamus",
+        "Thalamus"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Medulla oblongata",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which condition is characterized by chronic airway inflammation and bronchoconstriction?",
+      "options": [
+        "Pneumonia",
+        "Asthma",
+        "Tuberculosis",
+        "Pulmonary embolism"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Asthma",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which of the following is a common sign of hypoxia?",
+      "options": [
+        "Bradycardia",
+        "Cyanosis",
+        "Jaundice",
+        "Edema"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Cyanosis",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which of the following is the leading cause of chronic obstructive pulmonary disease (COPD)?",
+      "options": [
+        "Viral infection",
+        "Bacterial infection",
+        "Smoking",
+        "Genetic disorders"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Smoking",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which of the following conditions is caused by Mycobacterium tuberculosis?",
+      "options": [
+        "Pneumonia",
+        "Asthma",
+        "Tuberculosis",
+        "Cystic fibrosis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Tuberculosis",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which respiratory condition results from a blockage of a pulmonary artery by a blood clot?",
+      "options": [
+        "Pneumothorax",
+        "Pulmonary embolism",
+        "Emphysema",
+        "Bronchitis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Pulmonary embolism",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which term describes the presence of air in the pleural cavity, leading to lung collapse?",
+      "options": [
+        "Pneumonia",
+        "Hemothorax",
+        "Pneumothorax",
+        "Bronchiectasis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Pneumothorax",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which of the following is a life-threatening condition characterized by fluid accumulation in the alveoli?",
+      "options": [
+        "Asthma",
+        "Pulmonary edema",
+        "Tuberculosis",
+        "Bronchitis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Pulmonary edema",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " What is the primary function of the endocrine system?",
+      "options": [
+        "Transport oxygen in the blood",
+        "Regulate body functions through hormones",
+        "Remove waste from the body",
+        "Generate nerve impulses"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Regulate body functions through hormones",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which gland is often referred to as the \"master gland\" because it regulates many other endocrine glands?",
+      "options": [
+        "Thyroid gland",
+        "Pituitary gland",
+        "Adrenal gland",
+        "Pancreas"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Pituitary gland",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which hormone is responsible for lowering blood sugar levels?",
+      "options": [
+        "Glucagon",
+        "Cortisol",
+        "Insulin",
+        "Epinephrine"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Insulin",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which disorder is caused by an underactive thyroid gland (hypothyroidism)?",
+      "options": [
+        "Cushing’s syndrome",
+        "Graves' disease",
+        "Addison’s disease",
+        "Hashimoto’s thyroiditis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 3,
+      "correctLabel": "Hashimoto’s thyroiditis",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which hormone regulates calcium levels in the blood?",
+      "options": [
+        "Insulin",
+        "Parathyroid hormone (PTH)",
+        "Thyroxine (T4)",
+        "Cortisol"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Parathyroid hormone (PTH)",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which endocrine disorder is characterized by excessive production of cortisol?",
+      "options": [
+        "Addison’s disease",
+        "Cushing’s syndrome",
+        "Diabetes insipidus",
+        "Hypothyroidism"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Cushing’s syndrome",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which condition is associated with a lack of insulin production by the pancreas?",
+      "options": [
+        "Type 1 diabetes mellitus",
+        "Type 2 diabetes mellitus",
+        "Hyperthyroidism",
+        "Addison’s disease"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 0,
+      "correctLabel": "Type 1 diabetes mellitus",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which of the following is a symptom of hyperthyroidism?",
+      "options": [
+        "Weight gain and cold intolerance",
+        "Fatigue and low blood pressure",
+        "Increased heart rate and heat intolerance",
+        "Hypoglycemia and muscle cramps"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Increased heart rate and heat intolerance",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which hormone is secreted by the adrenal medulla in response to stress?",
+      "options": [
+        "Cortisol",
+        "Epinephrine",
+        "Insulin",
+        "Thyroxine"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Epinephrine",
+      "source": "practice2_doc"
+    },
+    {
+      "prompt": " Which disorder is caused by a deficiency of antidiuretic hormone (ADH), leading to excessive urination?",
+      "options": [
+        "Addison’s disease",
+        "Cushing’s syndrome",
+        "Diabetes insipidus",
+        "Myxedema"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Diabetes insipidus",
+      "source": "practice2_doc"
+    }
+  ]
+}

@@ -1,0 +1,1273 @@
+{
+  "id": "chapter-14-practice",
+  "title": "Chapter 14 Practice Test",
+  "blurb": "Neuro / in-class practice for chapter 14.",
+  "questions": [
+    {
+      "prompt": "Which of the following is a TRUE statement about transient ischemic attacks (TIAs)?",
+      "options": [
+        "They usually cause necrosis and permanent brain damage.",
+        "They may be caused by rupture of an aneurysm or a damaged artery.",
+        "They usually indicate systemic hypertension.",
+        "They can warn of potential cerebrovascular accidents"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. They can warn of potential cerebrovascular accidents",
+      "suggestedRationale": "TIAs are brief ischemic events that resolve but warn of a possible stroke."
+    },
+    {
+      "prompt": "One function of the somatic nervous system that is not performed by the autonomic nervous system is conduction of impulses:",
+      "options": [
+        "to involuntary muscles and glands.",
+        "to the central nervous system.",
+        "to skeletal muscles.",
+        "between the brain and spinal cord"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. to skeletal muscles.",
+      "suggestedRationale": "The somatic nervous system uniquely supplies skeletal muscle; the ANS supplies involuntary effectors."
+    },
+    {
+      "prompt": "The composition of cerebrospinal fluid is",
+      "options": [
+        "the same as blood.",
+        "distilled H2",
+        "a plasma-like liquid with glucose, salts, and proteins",
+        "a heavy mucous solution with dissolved salts, glucose, and urea"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. a plasma-like liquid with glucose, salts, and proteins",
+      "suggestedRationale": "CSF is a clear, plasma-like fluid containing glucose and salts, with very little protein."
+    },
+    {
+      "prompt": "Through what area does the cerebrospinal fluid circulate around the brain and spinal cord?",
+      "options": [
+        "Between the double layers of the dura mater",
+        "In the subdural space",
+        "In the subarachnoid space",
+        "Through the arachnoid villi"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. In the subarachnoid space",
+      "suggestedRationale": "CSF circulates in the subarachnoid space around the brain and cord."
+    },
+    {
+      "prompt": "Neurons that carry impulses away from the CNS are called",
+      "options": [
+        "a . afferent neurons.",
+        "sensory neurons.",
+        "efferent neurons.",
+        "association neurons."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. efferent neurons.",
+      "suggestedRationale": "Efferent (motor) neurons carry impulses away from the CNS."
+    },
+    {
+      "prompt": "Which of the following applies to the corticospinal tract?",
+      "options": [
+        "It is an ascending tract.",
+        "The nerve fibers conduct sensory impulses.",
+        "It is an extrapyramidal tract.",
+        "It is a pyramidal tract for efferent impulses."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. It is a pyramidal tract for efferent impulses.",
+      "suggestedRationale": "The corticospinal tract is a pyramidal motor (efferent) pathway."
+    },
+    {
+      "prompt": "What is a major function of the limbic system?",
+      "options": [
+        "Overall control of fluid balance",
+        "Required for logical thinking, reason, and decision making",
+        "Determines emotional responses",
+        "Responsible for artistic and musical talents"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Determines emotional responses",
+      "suggestedRationale": "The limbic system is the main driver of emotional responses."
+    },
+    {
+      "prompt": "What does a vegetative state refer to?",
+      "options": [
+        "Depression of the reticular activating system (RAS) and inability to initiate action",
+        "Loss of awareness and intellectual function but continued brainstem function",
+        "Continuing intellectual function but inability to communicate or move",
+        "Disorientation and confusion with decreased responsiveness"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Loss of awareness and intellectual function but continued brainstem function",
+      "suggestedRationale": "A vegetative state is loss of awareness and cognition with preserved brainstem function."
+    },
+    {
+      "prompt": "Which of the following conditions is NOT part of the criteria for a declaration of “brain death”?",
+      "options": [
+        "No activity on EEG",
+        "Absence of all reflexes",
+        "No spontaneous respirations",
+        "Presence of any head injury"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Presence of any head injury",
+      "suggestedRationale": "Brain death requires no EEG activity, no reflexes, and no spontaneous respirations—not merely the presence of a head injury."
+    },
+    {
+      "prompt": "What is the best definition of aphasia?",
+      "options": [
+        "The inability to comprehend or express language appropriately",
+        "Difficulty swallowing",
+        "Loss of the visual field contralateral to the area of damage",
+        "The inability to articulate words clearly"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. The inability to comprehend or express language appropriately",
+      "suggestedRationale": "Aphasia is impaired comprehension or expression of language; unclear articulation is dysarthria."
+    },
+    {
+      "prompt": "Neurons are specialized for the conduction of impulses, whereas neuroglia",
+      "options": [
+        "support nerve tissue.",
+        "serve as motor end plates.",
+        "synthesize acetylcholine and cholinesterase.",
+        "All of the above are correct"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. support nerve tissue.",
+      "suggestedRationale": "Neuroglia support and protect neurons rather than conduct impulses."
+    },
+    {
+      "prompt": "What is an early indicator of increased intracranial pressure?",
+      "options": [
+        "Papilledema",
+        "Bilateral fixed dilated pupils",
+        "Decreasing responsiveness",
+        "Rapid heart rate"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Decreasing responsiveness",
+      "suggestedRationale": "Decreasing responsiveness (level of consciousness) is an early sign of rising ICP; papilledema and fixed pupils come later."
+    },
+    {
+      "prompt": "What is the typical change in blood pressure in a patient who has increased intracranial pressure?",
+      "options": [
+        "Erratic diastolic pressure",
+        "Decreasing systolic pressure",
+        "Systolic and diastolic pressures decreasing proportionately",
+        "Increasing pulse pressure"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Increasing pulse pressure",
+      "suggestedRationale": "Cushing change is a widening pulse pressure (rising systolic, relatively low diastolic)."
+    },
+    {
+      "prompt": "The largest category of primary malignant brain tumors that arise from cells in the central nervous system (CNS) are called",
+      "options": [
+        "gliomas.",
+        "sarcomas.",
+        "lymphomas.",
+        "myelomas."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. gliomas.",
+      "suggestedRationale": "Gliomas are the largest group of primary malignant CNS tumors."
+    },
+    {
+      "prompt": "Which of the following causes papilledema?",
+      "options": [
+        "Increased pressure of cerebrospinal fluid (CSF) at the optic disc",
+        "Increased intraocular pressure",
+        "Pressure on the oculomotor nerve",
+        "Pressure on the optic chiasm"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Increased pressure of cerebrospinal fluid (CSF) at the optic disc",
+      "suggestedRationale": "Papilledema is swelling of the optic disc from transmitted high CSF pressure."
+    },
+    {
+      "prompt": "The reticular activating system:",
+      "options": [
+        "programs for fine repetitive motor movements.",
+        "maintains wakefulness.",
+        "maintains constant internal environments.",
+        "affects the positioning of the head to improve hearing"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. maintains wakefulness.",
+      "suggestedRationale": "The reticular activating system maintains wakefulness and alertness."
+    },
+    {
+      "prompt": "What is the effect of an enlarging brain abscess on cardiovascular activity?",
+      "options": [
+        "Increased heart rate and systemic vasodilation",
+        "Low blood pressure and irregular heart and respiratory rates",
+        "Systemic vasoconstriction and slower heart rate",
+        "Immediate depression of the cardiac control centers"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Systemic vasoconstriction and slower heart rate",
+      "suggestedRationale": "Rising ICP triggers the Cushing response: systemic vasoconstriction and a slower heart rate."
+    },
+    {
+      "prompt": "As intracranial pressure rises, the pupil of the eye, ipsilateral to the lesion, becomes dilated and unresponsive to light because of pressure on the",
+      "options": [
+        "optic nerve.",
+        "peripheral nervous system (PNS) fibers in cranial nerve III.",
+        "sympathetic nervous system (SNS) nerve to the eye.",
+        "occipital lobe."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. peripheral nervous system (PNS) fibers in cranial nerve III.",
+      "suggestedRationale": "Ipsilateral pupil dilation comes from compression of parasympathetic fibers in CN III."
+    },
+    {
+      "prompt": "The sympathetic division of the autonomic nervous system:",
+      "options": [
+        "mobilizes energy in times of need.",
+        "is innervated by cell bodies from T1 through L2.",
+        "is innervated by cell bodies located in the cranial nerve nuclei",
+        "Both A and B",
+        "Both A and C"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Both A and B",
+      "suggestedRationale": "Sympathetic outflow is thoracolumbar (T1–L2) and mobilizes energy for 'fight or flight.'"
+    },
+    {
+      "prompt": "The parasympathetic division of the autonomic nervous system:",
+      "options": [
+        ". conserves and stores energy.",
+        "has relatively short postganglionic neurons.",
+        "Both a and b are correct.",
+        "has paravertebral ganglia."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Both a and b are correct.",
+      "suggestedRationale": "Parasympathetic nerves conserve energy and have short postganglionic fibers; paravertebral ganglia are sympathetic."
+    },
+    {
+      "prompt": "Which of the following statements is TRUE about malignant brain tumors?",
+      "options": [
+        "Most brain tumors arise from malignant neurons.",
+        "Primary brain tumors rarely metastasize outside the CNS.",
+        "The blood-brain barrier prevents secondary brain tumors.",
+        "Brainstem tumors do not manifest signs until they are quite large."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Primary brain tumors rarely metastasize outside the CNS.",
+      "suggestedRationale": "Primary brain tumors rarely spread outside the CNS."
+    },
+    {
+      "prompt": "Why are focal or generalized seizures sometimes an early indication of a brain tumor?",
+      "options": [
+        "Surrounding inflammation stimulates neurons to discharge spontaneously.",
+        "Malignant tumors cause alkalosis, exciting the CNS.",
+        "Systemic effects of the brain tumor may cause seizures.",
+        "Metabolic effects of cancer change blood chemistry to trigger seizures."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Surrounding inflammation stimulates neurons to discharge spontaneously.",
+      "suggestedRationale": "Irritation and inflammation around a tumor can make nearby neurons fire and produce seizures."
+    },
+    {
+      "prompt": "What is the probable source of an embolus causing a cerebrovascular accident (CVA)?",
+      "options": [
+        "Right ventricle of the heart",
+        "Femoral vein",
+        "Common carotid artery",
+        "Pulmonary artery"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Common carotid artery",
+      "suggestedRationale": "An arterial embolus to the brain commonly originates in the carotid (or left heart)—not the venous system."
+    },
+    {
+      "prompt": "Collateral circulation is most likely to be present when a CVA results from",
+      "options": [
+        "rupture of a cerebral artery.",
+        "an embolus.",
+        "atherosclerosis.",
+        "vasospasm in the cerebral circulation"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. atherosclerosis.",
+      "suggestedRationale": "Slow atherosclerotic narrowing allows time for collateral circulation to develop."
+    },
+    {
+      "prompt": "All of the following apply to CVA EXCEPT",
+      "options": [
+        "the common cause is an atheroma with thrombus.",
+        "maximum necrosis and infarction develop within several hours of onset.",
+        "warning signs may appear with partial obstruction of the artery.",
+        "increasing neurological deficits usually develop during the first few days."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. maximum necrosis and infarction develop within several hours of onset.",
+      "suggestedRationale": "Infarction and deficits often evolve over 1–2 days, so 'maximum necrosis within several hours' is the exception."
+    },
+    {
+      "prompt": "Signs and symptoms of a stroke depend upon",
+      "options": [
+        "location of obstruction, size of artery, and area affected.",
+        "duration of the blockage, distance from the heart, and type of obstruction.",
+        "health of the victim, area affected, and collateral circulation.",
+        "size of the obstruction, condition of the heart, and duration of blockage."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. location of obstruction, size of artery, and area affected.",
+      "suggestedRationale": "Stroke signs depend on the artery involved, its size, and the brain territory it supplies."
+    },
+    {
+      "prompt": "An individual shows flexion in upper extremities and extension in lower extremities. This is:",
+      "options": [
+        "decorticate posturing.",
+        "decerebrate posturing.",
+        "excitation posturing.",
+        "caloric posturing"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. decorticate posturing.",
+      "suggestedRationale": "Decorticate posturing is flexion of the arms with extension of the legs."
+    },
+    {
+      "prompt": "Cerebral death:",
+      "options": [
+        "is death of the cerebellum.",
+        "permits normal internal homeostasis.",
+        "means that respiratory and cardiovascular",
+        "functions are no longer maintained.",
+        "is death of the brain stem."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. permits normal internal homeostasis.",
+      "suggestedRationale": "Cerebral (neocortical) death can leave the brainstem able to maintain basic internal homeostasis."
+    },
+    {
+      "prompt": "Precipitating causes of seizure include all of the following except:",
+      "options": [
+        "meningitis.",
+        "stroke.",
+        "hyperglycemia.",
+        "hyperthermia.",
+        "e. All of the above are correct"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. hyperglycemia.",
+      "suggestedRationale": "Hypoglycemia, not hyperglycemia, is the typical metabolic trigger for seizures; meningitis, stroke, and fever can precipitate them."
+    },
+    {
+      "prompt": "Postictal sleeping can be seen in what type of seizure",
+      "options": [
+        "partial",
+        "unilateral",
+        "absence",
+        "tonic-clonic",
+        "e. psychomotor"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. tonic-clonic",
+      "suggestedRationale": "A postictal sleep is typical after a tonic-clonic seizure."
+    },
+    {
+      "prompt": "Alzheimer disease:",
+      "options": [
+        "can be caused by increased cerebral levels of acetylcholine.",
+        "is most prevalent as a late-onset dementia.",
+        "manifests as nerve cell tangles.",
+        "manifests as neuron senile plaques.",
+        "e. All of the above are correc"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. is most prevalent as a late-onset dementia.",
+      "suggestedRationale": "Alzheimer disease is most often late-onset; plaques and tangles also occur, but acetylcholine is decreased, not increased, so 'all of the above' is wrong."
+    },
+    {
+      "prompt": "Which statement is not true regarding increasing intracranial pressures?",
+      "options": [
+        "Accumulating CO2 causes vasoconstriction.",
+        "The brain volume increases.",
+        "The blood volume in the vessels increases.",
+        "Brain tissue shifts from the compartment of greater pressure to one of lesser pressure.",
+        "e. Both b and c are correct."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Accumulating CO2 causes vasoconstriction.",
+      "suggestedRationale": "CO2 dilates, rather than constricts, cerebral vessels, so that statement is not true."
+    },
+    {
+      "prompt": "Intellectual function is impaired in the dementing process. Which intellectual function is not impaired?",
+      "options": [
+        "anterograde memory",
+        "retrograde memory",
+        "abstraction",
+        "language deficits",
+        "e. All of the above functions are impaired"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 4,
+      "suggestedLabel": "E. e. All of the above functions are impaired",
+      "suggestedRationale": "Dementia can impair new and old memory, abstraction, and language—so none of those functions is reliably spared."
+    },
+    {
+      "prompt": "In an automobile accident, an individual’s forehead struck the windshield. The coup/contrecoup injury would be in the",
+      "options": [
+        "frontal/parietal region.",
+        "frontal/occipital region.",
+        "parietal/occipital region.",
+        "occipital/frontal region"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. frontal/occipital region.",
+      "suggestedRationale": "A forehead (coup) impact produces a frontal injury and a contrecoup injury at the occipital pole."
+    },
+    {
+      "prompt": "An Injury of the cervical cord may be life threatening because of:",
+      "options": [
+        "increased intracranial pressure.",
+        "disrupted reflexes.",
+        "spinal shock.",
+        "loss of bladder and rectal control.",
+        "e. diaphragmatic impairment"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 4,
+      "suggestedLabel": "E. e. diaphragmatic impairment",
+      "suggestedRationale": "High cervical cord injury can paralyze the diaphragm (C3–C5) and stop breathing."
+    },
+    {
+      "prompt": "Autonomic dysreflexia is characterized by all of the following except:",
+      "options": [
+        "hypotension.",
+        "slower heart rate.",
+        "stimulation of sensory receptors below the level of the cord lesion.",
+        "precipitation because of a distended bladder or rectum"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. hypotension.",
+      "suggestedRationale": "Autonomic dysreflexia causes hypertension, not hypotension."
+    },
+    {
+      "prompt": "TIAs are:",
+      "options": [
+        "unilateral neurologic deficits that slowly resolve.",
+        "generalized neurologic deficits that occur a few seconds every hour.",
+        "focal neurologic deficits that develop suddenly, last more than an hour, and clear without evidence of infarction.",
+        "neurologic deficits that slowly evolve or develop"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. focal neurologic deficits that develop suddenly, last more than an hour, and clear without evidence of infarction.",
+      "suggestedRationale": "Best match: sudden focal deficits that clear without infarction (modern definitions usually limit TIA duration to under an hour, so the wording is slightly off)."
+    },
+    {
+      "prompt": "Manifestations of subarachnoid hemorrhage include which of the following? (More than one answer may be correct)",
+      "options": [
+        "a stiff neck",
+        "muscle flaccidity",
+        "Kernig sign",
+        "a delayed age of onset"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. a stiff neck",
+      "suggestedRationale": "Stiff neck is a classic SAH sign; Kernig sign can also occur, but the form offered no combined choice."
+    },
+    {
+      "prompt": "Which of the following statements about berry aneurysms in the brain is NOT true?",
+      "options": [
+        "They usually develop at points of bifurcation in the circle of Willis.",
+        "They are usually asymptomatic for many years.",
+        "CSF remains free of blood.",
+        "Following rupture, blood appears in the subarachnoid space."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. CSF remains free of blood.",
+      "suggestedRationale": "After rupture, blood enters the CSF, so it is not true that CSF 'remains free of blood.'"
+    },
+    {
+      "prompt": "What are significant signs of acute bacterial meningitis?",
+      "options": [
+        "Severe headache, nuchal rigidity, and photophobia",
+        "Fatigue and lethargy, fever, and anorexia",
+        "Focal signs, such as progressive paralysis in a limb",
+        "Ascending paralysis beginning in the legs"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Severe headache, nuchal rigidity, and photophobia",
+      "suggestedRationale": "Acute bacterial meningitis classically presents with severe headache, neck stiffness, and photophobia."
+    },
+    {
+      "prompt": "All of the following apply to tetanus infection EXCEPT",
+      "options": [
+        "it is caused by an anaerobic, spore-forming bacillus.",
+        "the exotoxin causes strong skeletal muscle spasms.",
+        "death usually results from respiratory failure.",
+        "signs of fever, vomiting, stiff neck, and paralysis."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. signs of fever, vomiting, stiff neck, and paralysis.",
+      "suggestedRationale": "Fever, vomiting, stiff neck, and paralysis describe meningitis, not tetanus."
+    },
+    {
+      "prompt": "In cases of Guillain-Barré syndrome, what does the pathophysiology include?",
+      "options": [
+        "Damage and loss of function in the motor neurons of the spinal cord and medulla",
+        "Encephalopathy, with disorientation, headache, and coma",
+        "Infection and inflammation of the motor cortex",
+        "Inflammation and demyelination of peripheral nerves, leading to ascending paralysis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Inflammation and demyelination of peripheral nerves, leading to ascending paralysis",
+      "suggestedRationale": "GBS is inflammatory demyelination of peripheral nerves with ascending paralysis."
+    },
+    {
+      "prompt": "Following a head injury, what is the most likely cause of secondary damage to the brain?",
+      "options": [
+        "Hematoma or infection",
+        "Laceration by foreign objects",
+        "Hypoxia or acidosis",
+        "Tearing of blood vessels as the brain rotates across the inside of the skull"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Hematoma or infection",
+      "suggestedRationale": "Secondary brain injury after trauma commonly comes from hematoma, infection, or ischemia/hypoxia; hematoma or infection is the listed pair."
+    },
+    {
+      "prompt": "Vertebral fractures are classified as",
+      "options": [
+        "simple, compression, wedge, dislocation.",
+        "compound, open, closed, shattered.",
+        "complex, torsion, open, multiple.",
+        "pressure, complex, simple, variable"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. simple, compression, wedge, dislocation.",
+      "suggestedRationale": "Vertebral fractures are grouped as simple, compression, wedge, or dislocation."
+    },
+    {
+      "prompt": "How does the heart rate change as intracranial pressure increases?",
+      "options": [
+        "Rate decreases",
+        "Rate increases",
+        "No change in rate",
+        "Irregular heart rate"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Rate decreases",
+      "suggestedRationale": "As ICP rises, heart rate typically falls (Cushing bradycardia)."
+    },
+    {
+      "prompt": "Which type of cerebrovascular accident (CVA) has the poorest prognosis?",
+      "options": [
+        "CVA caused by thrombus",
+        "Hemorrhagic CVA",
+        "Embolic CVA",
+        "No difference among types"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Hemorrhagic CVA",
+      "suggestedRationale": "Hemorrhagic strokes generally have the poorest prognosis of the CVA types."
+    },
+    {
+      "prompt": "What are the significant early signs of a ruptured cerebral aneurysm?",
+      "options": [
+        "Impaired speech and muscle weakness",
+        "Severe headache, nuchal rigidity, and photophobia",
+        "Abnormal sensations and tremors",
+        "Vomiting and visual abnormalities"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Severe headache, nuchal rigidity, and photophobia",
+      "suggestedRationale": "A ruptured aneurysm presents with sudden severe headache, nuchal rigidity, and photophobia."
+    },
+    {
+      "prompt": "With regard to meningitis, choose the correct combination of microbe and the age group commonly affected.",
+      "options": [
+        "E. coli: elderly",
+        "H. influenzae: neonate",
+        "N. meningitides: children and youth",
+        "S. pneumoniae: young children"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. N. meningitides: children and youth",
+      "suggestedRationale": "Neisseria meningitidis typically affects children and adolescents/young adults."
+    },
+    {
+      "prompt": "Which signs are indicative of post-polio syndrome?",
+      "options": [
+        "Progressive spastic paralysis",
+        "Ascending flaccid paralysis",
+        "Progressive fatigue and weakness",
+        "Increasing numbness and paresthesias"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Progressive fatigue and weakness",
+      "suggestedRationale": "Post-polio syndrome is later progressive fatigue and weakness, not a new acute paralysis."
+    },
+    {
+      "prompt": "Which of the following does NOT apply to Reye’s syndrome?",
+      "options": [
+        "There is no permanent damage in the body.",
+        "It is precipitated by a combination of viral infection and administration of acetylsalicylic acid (ASA).",
+        "Cerebral edema develops.",
+        "Liver damage is common."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. There is no permanent damage in the body.",
+      "suggestedRationale": "Reye syndrome can leave lasting brain and liver injury, so 'no permanent damage' does not apply."
+    },
+    {
+      "prompt": "The primary reason for seizures frequently occurring with head injuries is",
+      "options": [
+        "presence of blood irritates the neurons",
+        "otorrhea or rhinorrhea changes intracranial pressure.",
+        "inflammatory response causes general hypoxia.",
+        "CNS is depressed."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. presence of blood irritates the neurons",
+      "suggestedRationale": "Blood in contact with the cortex after head injury irritates neurons and can trigger seizures."
+    },
+    {
+      "prompt": "Common manifestations of rabies infection include",
+      "options": [
+        "headache, foaming at the mouth, and difficulty swallowing.",
+        "difficulty walking and coordinating movements.",
+        "decreased sensitivity to sound and touch.",
+        "vomiting, liver and kidney damage."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. headache, foaming at the mouth, and difficulty swallowing.",
+      "suggestedRationale": "Rabies causes hydrophobia, dysphagia, and foaming at the mouth, often with headache."
+    },
+    {
+      "prompt": "Tetanus infection is:",
+      "options": [
+        "It is caused by a virus.",
+        "Infection usually develops in deep puncture wounds.",
+        "It causes flaccid skeletal muscles, impairing mobility.",
+        "It affects peripheral nerves initially in the legs and feet."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Infection usually develops in deep puncture wounds.",
+      "suggestedRationale": "C. tetani typically infects deep, anaerobic puncture wounds."
+    },
+    {
+      "prompt": "Which of the following impairments results from infection by the polio virus?",
+      "options": [
+        "Pain and paresthesia in a cranial nerve or dermatome",
+        "Loss of motor and sensory function in the peripheral nerves",
+        "Inflammation and increased intracranial pressure",
+        "Loss of function of motor neurons of the spinal cord and medulla"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Loss of function of motor neurons of the spinal cord and medulla",
+      "suggestedRationale": "Poliovirus destroys anterior-horn and medullary motor neurons."
+    },
+    {
+      "prompt": "In cases of noncommunicating hydrocephalus, why does excess cerebrospinal fluid (CSF) accumulate?",
+      "options": [
+        "Absorption of CSF through the arachnoid villi is impaired.",
+        "Excessive amounts of CSF are produced in the ventricles.",
+        "An obstruction is present in the aqueduct of Sylvius or other channel.",
+        "Flow around the spinal cord is blocked."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. An obstruction is present in the aqueduct of Sylvius or other channel.",
+      "suggestedRationale": "Noncommunicating hydrocephalus is a blockage in the ventricular pathways (for example, the aqueduct)."
+    },
+    {
+      "prompt": "All of the following are typical signs of hydrocephalus in the neonate EXCEPT",
+      "options": [
+        "enlarged head with bulging fontanels.",
+        "vomiting, headache, and paralysis.",
+        "irritability and feeding difficulties.",
+        "eyes turned downward with sclerae showing above the pupils. (sunset sign)"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. vomiting, headache, and paralysis.",
+      "suggestedRationale": "Neonates show an enlarging head and sunset eyes; headache and paralysis are more typical in closed-skull older patients."
+    },
+    {
+      "prompt": "Myelomeningocele is",
+      "options": [
+        "asymptomatic failure of the posterior spinous processes of the vertebrae to fuse.",
+        "herniation of the meninges through a vertebral defect.",
+        "herniation of the meninges, CSF, and spinal cord or nerves through a vertebral defect.",
+        "herniation of brain tissue through a defect in the cranium"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. herniation of the meninges, CSF, and spinal cord or nerves through a vertebral defect.",
+      "suggestedRationale": "Myelomeningocele herniates meninges, CSF, and spinal cord or nerves through a vertebral defect."
+    },
+    {
+      "prompt": "Which of the following is characteristic of generalized seizures?",
+      "options": [
+        "The localization of the seizure activity",
+        "The uncontrolled discharge of neurons in both hemispheres",
+        "Seizures that persist for several hours",
+        "Loss of consciousness and all motor function"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. The uncontrolled discharge of neurons in both hemispheres",
+      "suggestedRationale": "A generalized seizure is bilateral, uncontrolled discharge of both hemispheres."
+    },
+    {
+      "prompt": "From the following, choose the two events (in correct sequence) that immediately follow the aura during a tonic-clonic event:",
+      "options": [
+        "Prodromal signs, then the clonic stage",
+        "Clonic stage, then the tonic stage",
+        "Loss of consciousness, then the tonic stage",
+        "Loss of consciousness and cessation of respiration"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Loss of consciousness, then the tonic stage",
+      "suggestedRationale": "After the aura comes loss of consciousness and then the tonic phase."
+    },
+    {
+      "prompt": "What does the clonic stage of a seizure consist of?",
+      "options": [
+        "A sudden strong skeletal muscle contraction and rigidity of trunk and limbs",
+        "A cry and contraction of abdominal and thoracic muscles",
+        "Alternating contractions and relaxation of skeletal muscles",
+        "Cessation of all skeletal muscle activity"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Alternating contractions and relaxation of skeletal muscles",
+      "suggestedRationale": "The clonic phase is rhythmic alternating contraction and relaxation of skeletal muscle."
+    },
+    {
+      "prompt": "How would a seizure consisting of bizarre or inappropriate activity be classified?",
+      "options": [
+        "Absence seizure",
+        "Psychomotor seizure",
+        "Focal seizure",
+        "Jacksonian seizure"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Psychomotor seizure",
+      "suggestedRationale": "Bizarre or inappropriate automatic behavior typifies a psychomotor (complex partial) seizure."
+    },
+    {
+      "prompt": "Which statement does NOT apply to the pathophysiology of multiple sclerosis?",
+      "options": [
+        "Demyelination of axons",
+        "It affects the brain, spinal cord, and cranial nerves",
+        "It affects motor, sensory, and autonomic fibers",
+        "Progressive random degeneration of peripheral nerves"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Progressive random degeneration of peripheral nerves",
+      "suggestedRationale": "MS is a CNS demyelinating disease; it does not randomly degenerate peripheral nerves."
+    },
+    {
+      "prompt": "Which of the following are common early signs of multiple sclerosis?",
+      "options": [
+        "Paralysis of the lower body, impaired cognitive function",
+        "Areas of numbness, weakness in the legs, visual problems",
+        "Sensory deficit in the legs and trunk, memory loss, urinary incontinence",
+        "Tremors, speech impairment, hearing loss"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Areas of numbness, weakness in the legs, visual problems",
+      "suggestedRationale": "Early MS often brings patchy numbness, leg weakness, and visual disturbance."
+    },
+    {
+      "prompt": "What is the pathophysiological change in Parkinson’s disease?",
+      "options": [
+        "Degeneration of motor fibers in the pyramidal tracts",
+        "Excess secretion of stimulatory neurotransmitters in the CNS",
+        "Degeneration of the basal nuclei with a deficit of dopamine",
+        "Deficit of acetylcholine and degeneration of the motor cortex in the frontal lobe"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Degeneration of the basal nuclei with a deficit of dopamine",
+      "suggestedRationale": "Parkinson disease is degeneration of basal nuclei (substantia nigra) with dopamine deficiency."
+    },
+    {
+      "prompt": "In which type of neuron is progressive degeneration occurring with amyotrophic lateral sclerosis (ALS)?",
+      "options": [
+        "Upper motor neurons",
+        "Upper and lower motor neurons",
+        "Motor and sensory neurons",
+        "Motor, sensory, and autonomic system neurons"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Upper and lower motor neurons",
+      "suggestedRationale": "ALS degenerates both upper and lower motor neurons, not sensory neurons."
+    },
+    {
+      "prompt": "Which statement applies to Huntington’s disease?",
+      "options": [
+        "It is inherited as an autosomal recessive trait.",
+        "It is manifested in individuals by age 20 years.",
+        "It presents with choreiform movements in the upper body and decreased ability to concentrate.",
+        "It causes decreased levels of all neurotransmitters in the CNS."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. It presents with choreiform movements in the upper body and decreased ability to concentrate.",
+      "suggestedRationale": "Huntington disease is autosomal dominant and causes chorea plus declining concentration, usually in mid-adult life."
+    },
+    {
+      "prompt": "Which of the following dietary supplements has reduced the incidence of spina bifida in recent years?",
+      "options": [
+        "Vitamin B6",
+        "Folic acid",
+        "Vitamins A and D",
+        "Zinc and magnesium"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Folic acid",
+      "suggestedRationale": "Folic acid supplementation has reduced the incidence of neural-tube defects such as spina bifida."
+    },
+    {
+      "prompt": "Which of the following is used to confirm the diagnosis of, and classify, seizures?",
+      "options": [
+        "Characteristics of the aura",
+        "Presence of precipitating factors",
+        "Electroencephalogram",
+        "Changes in the characteristics of cerebrospinal fluid"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Electroencephalogram",
+      "suggestedRationale": "EEG is used to confirm and classify seizure types."
+    },
+    {
+      "prompt": "Which of the following is a typical early sign of amyotrophic lateral sclerosis (ALS)?",
+      "options": [
+        "Impaired ventilation",
+        "Cognitive impairment",
+        "Poor control of eye movement",
+        "Weakness and muscle atrophy in upper limbs"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Weakness and muscle atrophy in upper limbs",
+      "suggestedRationale": "Early ALS often shows weakness and atrophy in the hands and arms; cognition and eye movements are typically spared at first."
+    },
+    {
+      "prompt": "Which of the following classes of drugs may provide temporary improvement in cases of myasthenia gravis?",
+      "options": [
+        "Skeletal muscle relaxants",
+        "Dopamine replacement drugs",
+        "Anticholinesterase agents",
+        "GABA replacement drugs"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Anticholinesterase agents",
+      "suggestedRationale": "Anticholinesterase drugs temporarily improve neuromuscular transmission in myasthenia gravis."
+    },
+    {
+      "prompt": "Communicating hydrocephalus causes increased intracranial pressure because of",
+      "options": [
+        "atresia at the foramen magnum.",
+        "failure of the subarachnoid to absorb CSF.",
+        "obstruction in the lumbar area of the spinal cord.",
+        "scar tissue from encephalitis blocking flow of CSF."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. failure of the subarachnoid to absorb CSF.",
+      "suggestedRationale": "Communicating hydrocephalus is impaired CSF absorption from the subarachnoid space."
+    },
+    {
+      "prompt": "Creutzfeldt-Jakob disease is caused by",
+      "options": [
+        "inheritance of an autosomal dominant trait.",
+        "infection in the brain by HIV.",
+        "an autoimmune reaction that damages nerve receptors.",
+        "infection in the brain by a prion."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. infection in the brain by a prion.",
+      "suggestedRationale": "Creutzfeldt-Jakob disease is a prion infection of the brain."
+    },
+    {
+      "prompt": "Amoebic meningoencephalitis is caused by the organism:",
+      "options": [
+        "Naeglaria fowleri",
+        "Staphylococcus epidermidis",
+        "Haemophilus influenzae",
+        "Escherichia coli"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Naeglaria fowleri",
+      "suggestedRationale": "Primary amoebic meningoencephalitis is caused by Naegleria fowleri."
+    },
+    {
+      "prompt": "Which statement is TRUE about amyotrophic lateral sclerosis (ALS)?",
+      "options": [
+        "Cognitive function remains normal.",
+        "ALS affects primarily young women.",
+        "Sensory neurons are damaged initially.",
+        "Cause of death is usually a cardiac arrhythmia."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Cognitive function remains normal.",
+      "suggestedRationale": "Cognition usually remains intact in ALS; death is typically from respiratory failure, not arrhythmia."
+    }
+  ]
+}

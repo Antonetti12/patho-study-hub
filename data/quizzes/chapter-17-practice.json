@@ -1,0 +1,1025 @@
+{
+  "id": "chapter-17-practice",
+  "title": "Chapter 17 Practice Test",
+  "blurb": "Digestive system practice.",
+  "questions": [
+    {
+      "prompt": "Pt is suffering from inflammation that developed on the intestinal wall and is complaining of pain and intolerance to food. Nurse caring for the paitent knows this problem is temporarily localized and inflammation is walled of with many lymph nodes due to?",
+      "options": [
+        "Greater Omentum is responsible for the walling off",
+        "The inflammation process with Bradykinin and Mastcell will enclose the site isolating the problem",
+        "the lesser omentum is responsible for the walling off",
+        "None of the above is true as inflammation is always systemic"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Greater Omentum is responsible for the walling off",
+      "suggestedRationale": "The greater omentum can wall off a localized abdominal inflammatory process."
+    },
+    {
+      "prompt": "True of False: The stomach, kidneys, and pancreas are considered retroperitoneal organs",
+      "options": [
+        "True",
+        "False"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. False",
+      "suggestedRationale": "Kidneys and most of the pancreas are retroperitoneal, but the stomach is intraperitoneal, so the combined statement is false."
+    },
+    {
+      "prompt": "True of False: The stomach, kidneys, and pancreas are considered retroperitoneal organs",
+      "options": [
+        "True",
+        "False"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. False",
+      "suggestedRationale": "Same item as the previous two: the stomach is not retroperitoneal, so the statement is false."
+    },
+    {
+      "prompt": "True of False: The stomach, kidneys, and pancreas are considered retroperitoneal organs",
+      "options": [
+        "True",
+        "False"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. False",
+      "suggestedRationale": "Same item as the previous two: the stomach is not retroperitoneal, so the statement is false."
+    },
+    {
+      "prompt": "Which of the following cells in the gastric mucosa produce intrinsic factor and hydrochloric acid?",
+      "options": [
+        "Parietal cells",
+        "Chief cells",
+        "Mucous cells",
+        "Gastrin cells"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Parietal cells",
+      "suggestedRationale": "Parietal cells secrete hydrochloric acid and intrinsic factor."
+    },
+    {
+      "prompt": "When highly acidic chyme enters the duodenum, which hormone stimulates the release of pancreatic secretions that contains very high bicarbonate ion content?",
+      "options": [
+        "Gastrin",
+        "Secretin",
+        "Cholecystokinin",
+        "Histamine"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Secretin",
+      "suggestedRationale": "Secretin stimulates a bicarbonate-rich pancreatic secretion that buffers acidic chyme in the duodenum."
+    },
+    {
+      "prompt": "In which structure is oxygenated blood (arterial) mixed with unoxygenated blood (venous) so as to support the functions of the structure?",
+      "options": [
+        "Pancreas",
+        "Liver",
+        "Small intestine",
+        "Spleen"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Liver",
+      "suggestedRationale": "In the liver, oxygenated hepatic-artery blood mixes with nutrient-rich portal venous blood to supply hepatocytes."
+    },
+    {
+      "prompt": "Which of the following stimulates increased peristalsis and secretions in the digestive tract?",
+      "options": [
+        "Sympathetic nervous system",
+        "Vagus nerve",
+        "Increased saliva",
+        "Absence of food in the system"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Vagus nerve",
+      "suggestedRationale": "Parasympathetic (vagus) stimulation increases peristalsis and digestive secretions; sympathetic stimulation inhibits them."
+    },
+    {
+      "prompt": "Which of the following is contained in pancreatic exocrine secretions?",
+      "options": [
+        "Bicarbonate ion",
+        "Hydrochloric acid",
+        "Activated digestive enzymes",
+        "Insulin"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Bicarbonate ion",
+      "suggestedRationale": "Pancreatic exocrine juice is rich in bicarbonate; digestive enzymes are secreted in inactive form, and insulin is endocrine."
+    },
+    {
+      "prompt": "The presence of food in the intestine stimulates intestinal activity but inhibits gastric activity through the",
+      "options": [
+        "defecation reflex.",
+        "enterogastric reflex.",
+        "vomiting reflex.",
+        "autodigestive reflex."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. enterogastric reflex.",
+      "suggestedRationale": "The enterogastric reflex lets intestinal filling slow gastric emptying and gastric activity."
+    },
+    {
+      "prompt": "What does the term gluconeogenesis refer to?",
+      "options": [
+        "Breakdown of glycogen to produce glucose",
+        "Conversion of excess glucose into glycogen for storage",
+        "Formation of glucose from protein and fat",
+        "Breakdown of glucose into carbon dioxide and water"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Formation of glucose from protein and fat",
+      "suggestedRationale": "Gluconeogenesis is formation of glucose from noncarbohydrate precursors such as protein and fat."
+    },
+    {
+      "prompt": "The early stage of vomiting causes",
+      "options": [
+        "metabolic alkalosis.",
+        "metabolic acidosis.",
+        "increased respirations.",
+        "increased excretion of hydrogen ions."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. metabolic alkalosis.",
+      "suggestedRationale": "Early vomiting loses gastric acid and tends to cause metabolic alkalosis."
+    },
+    {
+      "prompt": "Severe vomiting can lead to metabolic acidosis because of increased",
+      "options": [
+        "ketones produced.",
+        "CO2 retained in the lungs and kidneys.",
+        "hypovolemia and lactic acid production.",
+        "metabolic rate."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. hypovolemia and lactic acid production.",
+      "suggestedRationale": "Prolonged severe vomiting causes hypovolemia and lactic acid production, which can shift the picture to metabolic acidosis."
+    },
+    {
+      "prompt": "What does the defecation reflex require?",
+      "options": [
+        "Stimulation by the sympathetic nervous system",
+        "Contraction of the internal anal sphincter",
+        "Coordination through the sacral spinal cord",
+        "Voluntary relaxation of pelvic muscles"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Coordination through the sacral spinal cord",
+      "suggestedRationale": "The defecation reflex is coordinated through the sacral spinal cord (and requires relaxation of the external sphincter to void)."
+    },
+    {
+      "prompt": "What does congenital esophageal atresia cause?",
+      "options": [
+        "Direct passage of saliva and food from the mouth into the trachea",
+        "Repeated reflux of gastric secretions into the esophagus",
+        "No fluid or food entering the stomach",
+        "Gastric distention and cramps"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. No fluid or food entering the stomach",
+      "suggestedRationale": "Esophageal atresia is a blind-ending esophagus, so fluid and food cannot enter the stomach."
+    },
+    {
+      "prompt": "Which of the following applies to cleft palate?",
+      "options": [
+        "The mandibular processes do not fuse.",
+        "The hard and soft palates do not fuse during the first trimester of pregnancy.",
+        "Exposure to environmental factors in the last trimester causes the defect.",
+        "Speech and eating are not affected."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. The hard and soft palates do not fuse during the first trimester of pregnancy.",
+      "suggestedRationale": "Cleft palate occurs when the palatine processes fail to fuse in the first trimester."
+    },
+    {
+      "prompt": "Oral candidiasis is considered to",
+      "options": [
+        "be a common bacterial infection in infants and young children.",
+        "cause painful ulcerations in the mucosa and tongue.",
+        "cause white patches in the mucosa that cannot be scraped off.",
+        "be an opportunistic fungal infection of the mouth."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. be an opportunistic fungal infection of the mouth.",
+      "suggestedRationale": "Oral candidiasis is an opportunistic fungal (yeast) infection; the white plaques can usually be scraped off."
+    },
+    {
+      "prompt": "There is no cure for herpes, and it tends to reoccur because?",
+      "options": [
+        "Active infection is usually asymptomatic.",
+        "The virus builds up a resistance.",
+        "The virus persists in latent form in sensory nerve ganglia.",
+        "The virus mutates; therefore, no effective immunity develop"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. The virus persists in latent form in sensory nerve ganglia.",
+      "suggestedRationale": "Herpes simplex persists in a latent form in sensory nerve ganglia and can reactivate."
+    },
+    {
+      "prompt": "What does the term periodontitis refer to?",
+      "options": [
+        "Erosion of the enamel tooth surface",
+        "Bacterial damage to the teeth and surrounding alveolar bone",
+        "Inflammation and infection of the gingivae",
+        "Formation of calcified plaque on the tooth"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Bacterial damage to the teeth and surrounding alveolar bone",
+      "suggestedRationale": "Periodontitis is bacterial destruction involving the teeth and supporting alveolar bone, deeper than simple gingivitis."
+    },
+    {
+      "prompt": "A viral infection of the parotid gland is commonly known as",
+      "options": [
+        "tonsillitis.",
+        "mumps.",
+        "chickenpox.",
+        "scarlet fever."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. mumps.",
+      "suggestedRationale": "Viral infection of the parotid gland is mumps."
+    },
+    {
+      "prompt": "The telescoping of one section of bowel inside another section is called",
+      "options": [
+        "volvulus.",
+        "hernia.",
+        "adhesion.",
+        "intussusceptions."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. intussusceptions.",
+      "suggestedRationale": "Intussusception is telescoping of one bowel segment into another; volvulus is twisting."
+    },
+    {
+      "prompt": "Pancreatic cancer may be diagnosed early if obstruction of bile or pancreatic secretions develops when the tumor is located",
+      "options": [
+        "at the head of the pancreas.",
+        "in the body of the pancreas.",
+        "in the tail of the pancreas.",
+        "in the endocrine glands of the pancreas."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. at the head of the pancreas.",
+      "suggestedRationale": "A tumor at the head of the pancreas can obstruct bile or pancreatic flow early, so it may be found sooner."
+    },
+    {
+      "prompt": "Which of the following applies to gastric cancer?",
+      "options": [
+        "It usually appears as polyp or protruding mass.",
+        "Most cases involve an adenocarcinoma of the mucous glands.",
+        "Genetics or geographical area does not affect the incidence.",
+        "It is usually diagnosed in an early stage because of pyloric obstruction"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Most cases involve an adenocarcinoma of the mucous glands.",
+      "suggestedRationale": "Most gastric cancers are adenocarcinomas of the mucous glands and are often found late."
+    },
+    {
+      "prompt": "Gastroesophageal reflux disease involves",
+      "options": [
+        "periodic flow of gastric contents into the esophagus.",
+        "constant flow of intestinal and gastric contents into the esophagus.",
+        "spasmodic and violent vomiting of gastric contents.",
+        "violent spasming of the esophagus, causing choking."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. periodic flow of gastric contents into the esophagus.",
+      "suggestedRationale": "GERD is periodic reflux of gastric contents into the esophagus."
+    },
+    {
+      "prompt": "Which factor(s) appear(s) to have a role in the etiology of inflammatory bowel diseases?",
+      "options": [
+        "Dietary factors",
+        "Environmental toxins",
+        "Genetic and immunological factors",
+        "Chronic alcoholism"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Genetic and immunological factors",
+      "suggestedRationale": "Inflammatory bowel disease has a strong genetic and immune-mediated component; a single dietary or toxic cause is not established."
+    },
+    {
+      "prompt": "Although many factors may precipitate pancreatitis, the two major causes are",
+      "options": [
+        "obesity and smoking.",
+        "high-fat diet and hypertension.",
+        "congenital defects and drug abuse.",
+        "gallstones and alcohol abuse"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. gallstones and alcohol abuse",
+      "suggestedRationale": "The two major causes of acute pancreatitis are gallstones and alcohol abuse."
+    },
+    {
+      "prompt": "At what stage of alcoholic liver disease can the damage be reversed?",
+      "options": [
+        "It can never be reversed",
+        "Initial stage",
+        "Alcoholic hepatitis stage",
+        "End-stage cirrhosis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Initial stage",
+      "suggestedRationale": "The initial fatty-liver stage of alcoholic liver disease can be reversed with abstinence; cirrhosis cannot."
+    },
+    {
+      "prompt": "How does serum bilirubin change with cirrhosis?",
+      "options": [
+        "Increased unconjugated bilirubin",
+        "Increased conjugated bilirubin",
+        "Increased conjugated and unconjugated bilirubin",
+        "Decreased conjugated and unconjugated bilirubin"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Increased conjugated and unconjugated bilirubin",
+      "suggestedRationale": "In cirrhosis both conjugated and unconjugated bilirubin typically rise because uptake, conjugation, and excretion are impaired."
+    },
+    {
+      "prompt": "Identify a major reason making it difficult to prevent the spread of hepatitis B.",
+      "options": [
+        "A vaccine is not available.",
+        "The incubation period is too short to track contacts.",
+        "Infection is often asymptomatic.",
+        "Antibodies are not produced."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Infection is often asymptomatic.",
+      "suggestedRationale": "Hepatitis B is often asymptomatic, which makes it hard to identify and prevent spread; a vaccine is available."
+    },
+    {
+      "prompt": "Which of the following statement(s) about jaundice is/are true?",
+      "options": [
+        "It is often the first manifestation of hepatitis.",
+        "Jaundice indicates permanent liver damage.",
+        "Individuals with hepatitis are always jaundiced.",
+        "Jaundice usually develops with hepatocellular carcinoma.",
+        "1 only",
+        "4 only",
+        "1, 3",
+        "2, 4"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 5,
+      "suggestedLabel": "F. 4 only",
+      "suggestedRationale": "Jaundice commonly occurs with hepatocellular carcinoma. Hepatitis usually has a preicteric prodrome and is not always jaundiced, so “first manifestation” and “always jaundiced” are not reliable."
+    },
+    {
+      "prompt": "Which of the following is/are related to post-hepatic jaundice?",
+      "options": [
+        "Pruritic skin and light-colored stools",
+        "Dark-colored stools and urine",
+        "Increased serum levels of unconjugated bilirubin",
+        "Loss of all metabolic functions"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Pruritic skin and light-colored stools",
+      "suggestedRationale": "Post-hepatic (obstructive) jaundice causes pale stools, dark urine, and pruritus from accumulated bile salts."
+    },
+    {
+      "prompt": "Which of the following is NOT usually present during the icteric stage of viral hepatitis?",
+      "options": [
+        "Hepatomegaly",
+        "Elevated serum liver enzymes",
+        "Esophageal varices",
+        "Lighter-colored stools"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Esophageal varices",
+      "suggestedRationale": "Esophageal varices reflect portal hypertension from chronic liver disease, not ordinary icteric viral hepatitis."
+    },
+    {
+      "prompt": "Which term refers to an inflammation usually related to infection of the bile ducts?",
+      "options": [
+        "Cholelithiasis",
+        "Cholecystitis",
+        "Cholangitis",
+        "Choledocholithiasis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Cholangitis",
+      "suggestedRationale": "Cholangitis is inflammation, usually infection, of the bile ducts."
+    },
+    {
+      "prompt": "Which of the following frequently occurs 2 to 3 hours after meals in post-gastrectomy patients?",
+      "options": [
+        "Hypoglycemia",
+        "Hypovolemia",
+        "Abdominal cramps and distention",
+        "Increased peristalsis and diarrhea"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Hypoglycemia",
+      "suggestedRationale": "Late dumping, about 2–3 hours after a meal, causes hypoglycemia from a rapid insulin response to a carbohydrate load."
+    },
+    {
+      "prompt": "Which of the following is NOT a common predisposing factor to gastric carcinoma?",
+      "options": [
+        "Ingestion of smoked foods",
+        "Genetic factors",
+        "Ingestion of foods preserved with nitrates",
+        "Anti-inflammatory medications such as ASA"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Anti-inflammatory medications such as ASA",
+      "suggestedRationale": "Smoked or nitrate-preserved foods and genetic factors predispose to gastric cancer; NSAIDs/ASA are ulcer risk factors, not typical gastric-carcinoma risks."
+    },
+    {
+      "prompt": "An individual with peptic ulcer disease exhibits hematemesis. What does this probably indicate?",
+      "options": [
+        "Perforation",
+        "Obstruction",
+        "Erosion of a large blood vessel",
+        "Development of malignancy"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Erosion of a large blood vessel",
+      "suggestedRationale": "Hematemesis in peptic ulcer disease usually means a vessel has been eroded; perforation presents as an acute abdomen."
+    },
+    {
+      "prompt": "Which of the following is the most frequent location of peptic ulcers?",
+      "options": [
+        "Lower esophagus",
+        "Antrum of the stomach",
+        "Proximal duodenum",
+        "Distal duodenum"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Proximal duodenum",
+      "suggestedRationale": "Peptic ulcers occur most often in the proximal duodenum."
+    },
+    {
+      "prompt": "Bile pigment gallstones are more common in individuals dealing with",
+      "options": [
+        "obesity.",
+        "high cholesterol levels.",
+        "alcoholic cirrhosis.",
+        "use of oral contraceptives."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. alcoholic cirrhosis.",
+      "suggestedRationale": "Pigment (bile-pigment) stones are associated with hemolysis and alcoholic cirrhosis; cholesterol stones track more with obesity and estrogen."
+    },
+    {
+      "prompt": "How does pelvic inflammatory disease frequently lead to bacterial peritonitis?",
+      "options": [
+        "Chemical irritation by excessive ovarian and uterine secretions causes inflammation.",
+        "Ulceration and perforation of the uterus allow the bacteria to spread.",
+        "Infection spreads through the fallopian tubes directly into the peritoneal cavity.",
+        "Gangrene in the uterine wall spreads through into the pelvic cavity."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Infection spreads through the fallopian tubes directly into the peritoneal cavity.",
+      "suggestedRationale": "In PID, infection can travel through the open fallopian tubes directly into the peritoneal cavity."
+    },
+    {
+      "prompt": "What would be the likely outcome from chemical peritonitis related to a perforated gallbladder?",
+      "options": [
+        "Leakage of intestinal bacteria into blood and the peritoneal cavity",
+        "Massive hemorrhage and shock",
+        "Breakdown of the gallstones",
+        "Increasing peristalsis with intermittent painful spasms"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Leakage of intestinal bacteria into blood and the peritoneal cavity",
+      "suggestedRationale": "Bile leaking from a perforated gallbladder causes chemical peritonitis, which is often followed by bacterial peritoneal infection."
+    },
+    {
+      "prompt": "What causes hypovolemic shock to develop with intestinal obstruction?",
+      "options": [
+        "Continued vomiting and fluid shift into the intestine",
+        "Hemorrhage into the intestine",
+        "Rupture of the intestinal wall",
+        "Repeated bouts of severe diarrhea"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Continued vomiting and fluid shift into the intestine",
+      "suggestedRationale": "Obstruction causes ongoing vomiting and a third-space fluid shift into the bowel, producing hypovolemic shock."
+    },
+    {
+      "prompt": "A congenital condition in which parasympathetic innervation is missing from a section of the colon, impairing motility is referred to as",
+      "options": [
+        "diverticulitis.",
+        "Crohn’s disease.",
+        "irritable bowel syndrome.",
+        "Hirschsprung’s disease."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Hirschsprung’s disease.",
+      "suggestedRationale": "Hirschsprung disease is congenital absence of parasympathetic ganglion cells in a segment of colon, so motility fails."
+    },
+    {
+      "prompt": "Which of the following is a typical indicator of an intestinal obstruction caused by paralytic ileus?",
+      "options": [
+        "Excessive audible bowel sounds",
+        "Intermittent colicky pain",
+        "Severe steady abdominal pain",
+        "Visible peristalsis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Severe steady abdominal pain",
+      "suggestedRationale": "Paralytic ileus produces decreased or absent bowel sounds and severe, relatively steady pain, not hyperactive sounds or colicky waves."
+    },
+    {
+      "prompt": "To which site does colon cancer usually first metastasize?",
+      "options": [
+        "Lungs",
+        "Stomach",
+        "Liver",
+        "Spleen"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Liver",
+      "suggestedRationale": "Colon cancer usually metastasizes first to the liver via portal venous drainage."
+    },
+    {
+      "prompt": "How does localized peritonitis develop from acute appendicitis before rupture?",
+      "options": [
+        "The omentum walls off the inflamed area.",
+        "Intestinal bacteria escape through the necrotic appendiceal wall.",
+        "The obstructing object inside the appendix causes edema.",
+        "Bacteria escape into the circulating blood"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Intestinal bacteria escape through the necrotic appendiceal wall.",
+      "suggestedRationale": "Before frank rupture, bacteria can seep through a necrotic appendiceal wall and cause localized peritonitis, which the omentum may then help contain."
+    },
+    {
+      "prompt": "With acute appendicitis, localized pain and tenderness in the lower right quadrant results from",
+      "options": [
+        "increased peristalsis in the adjacent colon.",
+        "inflammation and stretching of the appendiceal wall.",
+        "increased gas and fluid inside the appendix.",
+        "local inflammation of the parietal peritoneum."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. local inflammation of the parietal peritoneum.",
+      "suggestedRationale": "Localized RLQ tenderness comes from inflammation of the adjacent parietal peritoneum once the process reaches the surface."
+    },
+    {
+      "prompt": "What is the cause of inflammatory bowel disease?",
+      "options": [
+        "Physical and emotional stress",
+        "An autoimmune reaction",
+        "A combination of recessive genes",
+        "Idiopathic"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Idiopathic",
+      "suggestedRationale": "The exact cause of IBD is unknown (idiopathic); genetic and immune factors are implicated but are not a single proven cause."
+    },
+    {
+      "prompt": "How does iron deficiency anemia frequently develop with ulcerative colitis?",
+      "options": [
+        "Loss of surface area for absorption in the ileum",
+        "Bone marrow depression by toxic wastes",
+        "Chronic blood loss in stools",
+        "Insufficient hydrochloric acid for iron absorption"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Chronic blood loss in stools",
+      "suggestedRationale": "Iron-deficiency anemia in ulcerative colitis is mainly from chronic blood loss in the stool."
+    },
+    {
+      "prompt": "How may a fistula form with Crohn’s disease?",
+      "options": [
+        "Lack of peristalsis, leading to dilated areas of intestine",
+        "Fibrosis and thickening of the wall, causing obstruction",
+        "Erosion of the mucosa, causing bleeding",
+        "Recurrent inflammation, necrosis, and fibrosis, forming a connection between intestinal loops"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Recurrent inflammation, necrosis, and fibrosis, forming a connection between intestinal loops",
+      "suggestedRationale": "In Crohn disease, recurrent inflammation, necrosis, and fibrosis can create a fistula between loops of bowel or to other organs."
+    },
+    {
+      "prompt": "Stools that are more liquid and contain mucus and frank blood are typical of",
+      "options": [
+        "diverticulitis.",
+        "ulcerative colitis.",
+        "Crohn’s disease.",
+        "celiac disease."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. ulcerative colitis.",
+      "suggestedRationale": "Frequent liquid stools with mucus and frank blood are typical of ulcerative colitis; Crohn stools are often less frankly bloody."
+    },
+    {
+      "prompt": "What are the typical changes occurring with Crohn’s disease?",
+      "options": [
+        "Degeneration and flattening of the villi in the small intestine",
+        "Multiple herniations of the mucosa through weak areas of the muscularis",
+        "A continuous area of mucosal inflammation and ulceration in the rectum and colon",
+        "Inflamed areas of the wall of the ileum alternating with thick fibrotic or normal areas"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Inflamed areas of the wall of the ileum alternating with thick fibrotic or normal areas",
+      "suggestedRationale": "Crohn disease causes skip lesions: inflamed segments, often in the ileum, alternating with fibrotic or normal bowel."
+    },
+    {
+      "prompt": "Which of the following best describes steatorrhea?",
+      "options": [
+        "A light gray-colored stool",
+        "A tarry black stool",
+        "Bulky, fatty, foul-smelling stools",
+        "Watery stools with mucus and blood"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Bulky, fatty, foul-smelling stools",
+      "suggestedRationale": "Steatorrhea is bulky, fatty, foul-smelling stool from fat malabsorption."
+    },
+    {
+      "prompt": "How does chemical peritonitis and shock frequently result from acute pancreatitis?",
+      "options": [
+        "Inflammation and increased vascular permeability of the peritoneum affect fluid balance.",
+        "Erosion in the intestinal wall causes release of bacteria.",
+        "Fat necrosis and hypocalcemia develop.",
+        "Secretions from the pancreas and intestine become more acidic."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Inflammation and increased vascular permeability of the peritoneum affect fluid balance.",
+      "suggestedRationale": "Activated pancreatic enzymes inflame the peritoneum and increase vascular permeability, so fluid is lost and shock can develop."
+    },
+    {
+      "prompt": "What causes massive inflammation and necrosis in acute pancreatitis?",
+      "options": [
+        "Formation of multiple thrombi and ischemia",
+        "Infection by intestinal microbes",
+        "Immune complex reaction",
+        "Autodigestion of tissue by pancreatic enzymes"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Autodigestion of tissue by pancreatic enzymes",
+      "suggestedRationale": "Acute pancreatitis is autodigestion of pancreatic and surrounding tissue by prematurely activated pancreatic enzymes."
+    },
+    {
+      "prompt": "Which of the following is a major cause of primary hepatocellular cancer?",
+      "options": [
+        "Metastatic tumors",
+        "Acute hepatitis",
+        "Long-term exposure to certain chemicals",
+        "Chronic cholelithiasis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Long-term exposure to certain chemicals",
+      "suggestedRationale": "Primary hepatocellular carcinoma is strongly associated with chronic liver injury and long-term exposure to hepatotoxins (and with chronic hepatitis/cirrhosis, which is not listed cleanly here)."
+    },
+    {
+      "prompt": "Which factors contribute to ascites in patients with cirrhosis?",
+      "options": [
+        "Increased aldosterone and deficit of albumin",
+        "Severe anemia and increased serum bilirubin",
+        "Hypokalemia and increased serum ammonia",
+        "Hyperproteinemia and persistent hypotension"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Increased aldosterone and deficit of albumin",
+      "suggestedRationale": "Ascites in cirrhosis comes from portal hypertension, low plasma albumin (low oncotic pressure), and secondary hyperaldosteronism."
+    },
+    {
+      "prompt": "What is the primary cause of increased bleeding tendencies associated with cirrhosis?",
+      "options": [
+        "Anemia and leucopenia",
+        "Jaundice and pruritus",
+        "Recurrent infections",
+        "Deficit of vitamin K and prothrombin"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Deficit of vitamin K and prothrombin",
+      "suggestedRationale": "Bleeding tendency in cirrhosis is largely from impaired hepatic synthesis of clotting factors, including those that require vitamin K."
+    },
+    {
+      "prompt": "What is the primary cause of esophageal varices?",
+      "options": [
+        "Increased hydrostatic pressure in the veins",
+        "Alcohol irritating the mucosa",
+        "Failure to inactivate estrogen",
+        "Poor nutritional status"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Increased hydrostatic pressure in the veins",
+      "suggestedRationale": "Esophageal varices form because portal hypertension raises hydrostatic pressure in portosystemic collateral veins."
+    },
+    {
+      "prompt": "What indicates the presence of third-stage alcohol hepatitis?",
+      "options": [
+        "Below normal blood levels of AST and ALT",
+        "Upper left quadrant tenderness and dull pain",
+        "A small, firm, nodular liver and portal hypertension",
+        "Decreased production of blood clotting factors"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. A small, firm, nodular liver and portal hypertension",
+      "suggestedRationale": "The third (end) stage of alcoholic liver disease is cirrhosis: a small, firm, nodular liver with portal hypertension."
+    },
+    {
+      "prompt": "A factor that may precipitate encephalopathy with cirrhosis is the elevated and with increased bleeding in the digestive tract",
+      "options": [
+        "serum urea.",
+        "conjugated bilirubin.",
+        "serum ammonia.",
+        "serum pH."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. serum ammonia.",
+      "suggestedRationale": "Hepatic encephalopathy is driven by elevated serum ammonia; GI bleeding adds a large protein load and can precipitate it."
+    }
+  ]
+}

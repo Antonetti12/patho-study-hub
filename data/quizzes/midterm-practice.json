@@ -1,0 +1,840 @@
+{
+  "id": "midterm-practice",
+  "title": "Midterm Practice (do this last)",
+  "blurb": "Midterm practice set. Use this after the earlier week tests.",
+  "questions": [
+    {
+      "prompt": "Which of the following bone types is the femur classified as?",
+      "options": [
+        "Short bone",
+        "Flat bone",
+        "Long bone",
+        "Irregular bone"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Long bone",
+      "suggestedRationale": "The femur is a long bone."
+    },
+    {
+      "prompt": "What type of bone cell is responsible for bone resorption?",
+      "options": [
+        "Osteoblast",
+        "Osteocyte",
+        "Osteoclast",
+        "Chondrocyte"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Osteoclast",
+      "suggestedRationale": "Osteoclasts resorb bone; osteoblasts form bone."
+    },
+    {
+      "prompt": "What is the function of synovial fluid?",
+      "options": [
+        "To nourish osteoblasts",
+        "To produce blood cells",
+        "To lubricate and reduce friction in joints",
+        "To repair fractures"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. To lubricate and reduce friction in joints",
+      "suggestedRationale": "Synovial fluid lubricates the joint and reduces friction."
+    },
+    {
+      "prompt": "A greenstick fracture is best described as:",
+      "options": [
+        "Complete break forming separate pieces",
+        "Partial break with one side bent",
+        "Bone crushed into small pieces",
+        "Skin pierced by the bone"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Partial break with one side bent",
+      "suggestedRationale": "A greenstick fracture is an incomplete break with one side of the bone bent, common in children."
+    },
+    {
+      "prompt": "What type of muscular dystrophy is most common in children?",
+      "options": [
+        "Becker’s",
+        "Duchenne’s",
+        "Limb-Girdle",
+        "Myotonic"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Duchenne’s",
+      "suggestedRationale": "Duchenne muscular dystrophy is the most common type in children."
+    },
+    {
+      "prompt": "Osteoporosis results in:",
+      "options": [
+        "Increased bone density",
+        "Bone resorption exceeding formation",
+        "Overproduction of osteoblasts",
+        "Joint inflammation"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Bone resorption exceeding formation",
+      "suggestedRationale": "In osteoporosis, bone resorption exceeds bone formation, so mass and density fall."
+    },
+    {
+      "prompt": "What is the primary cause of gout?",
+      "options": [
+        "Bacterial infection",
+        "Uric acid crystal deposits",
+        "Autoimmune disorder",
+        "Osteophyte formation"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Uric acid crystal deposits",
+      "suggestedRationale": "Gout is caused by uric acid crystal deposits in joints."
+    },
+    {
+      "prompt": "Which joint is most commonly affected by osteoarthritis?",
+      "options": [
+        "Shoulder",
+        "Ankle",
+        "Weight-bearing joints (e.g., knees, hips)",
+        "Wrist"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Weight-bearing joints (e.g., knees, hips)",
+      "suggestedRationale": "Osteoarthritis most often affects weight-bearing joints such as the knees and hips."
+    },
+    {
+      "prompt": "What are the significant early signs of a ruptured cerebral aneurysm?",
+      "options": [
+        "impaired speech and muscle weakness",
+        "severe headache, nuchal rigidity, and photophobia",
+        "abdnormal sensations and tremors",
+        "vomiting and visual abnormalities"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. severe headache, nuchal rigidity, and photophobia",
+      "suggestedRationale": "A ruptured cerebral aneurysm often presents with a sudden severe headache, nuchal rigidity, and photophobia."
+    },
+    {
+      "prompt": "Typical signs of a TIA include:",
+      "options": [
+        "rapidly increasing intracranial pressure",
+        "loss of consciousness",
+        "transient muscle weakness in a hand or leg",
+        "headache, photophobia, and nuchal rigidity"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. transient muscle weakness in a hand or leg",
+      "suggestedRationale": "A TIA causes brief, reversible deficits such as transient weakness in a hand or leg; consciousness is usually preserved."
+    },
+    {
+      "prompt": "Which type of cerebrovascular accident (CVA) has the poorest prognosis?",
+      "options": [
+        "CVA caused by thrombus",
+        "hemorrhagic CVA",
+        "embolic CVA",
+        "no difference among types"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. hemorrhagic CVA",
+      "suggestedRationale": "Hemorrhagic strokes generally have the poorest prognosis of the CVA types listed."
+    },
+    {
+      "prompt": "Following a head injury, what is the most likely cause of secondary damage to the brain?",
+      "options": [
+        "hematoma or infection",
+        "laceration by foreign objects",
+        "hypoxia or acidosis",
+        "tearing of blood vessels as the brain rotates across the inside of the skull"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. hematoma or infection",
+      "suggestedRationale": "After the primary injury, secondary brain damage commonly comes from hematoma, infection, ischemia, or swelling."
+    },
+    {
+      "prompt": "Collateral circulation is most likely to be present when a CVA results from:",
+      "options": [
+        "rupture of a cerebral artery",
+        "an embolus",
+        "artherosclerosis",
+        "vasospasm in the cerebral circulation"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. artherosclerosis",
+      "suggestedRationale": "Collateral circulation is more likely when a CVA develops gradually from atherosclerosis than from a sudden embolus or rupture."
+    },
+    {
+      "prompt": "Secondary brain tumors usually arise from:",
+      "options": [
+        "severe head trauma",
+        "metastasized breast or lung tumors",
+        "exposure to carcinogenic agents",
+        "exposure to radiation"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. metastasized breast or lung tumors",
+      "suggestedRationale": "Secondary (metastatic) brain tumors most often come from lung or breast cancer."
+    },
+    {
+      "prompt": "What does a vegetative state refer to?",
+      "options": [
+        "Depression of the reticular activating system (RAS) and inability to initiate action",
+        "loss of awareness and intellectual function but continued brainstem function",
+        "continuing intellectual function but inability to communicate or move",
+        "disorientation and confusion with decreased responsiveness"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. loss of awareness and intellectual function but continued brainstem function",
+      "suggestedRationale": "A vegetative state is loss of awareness and higher function with continued brainstem function."
+    },
+    {
+      "prompt": "Loss of blood flow to the heart muscle that creates pain is called:",
+      "options": [
+        "Phantom pain",
+        "Ischemic pain",
+        "Somatic pain",
+        "Neuropathic pain"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Ischemic pain",
+      "suggestedRationale": "Pain from inadequate blood flow to the heart is ischemic (anginal) pain."
+    },
+    {
+      "prompt": "Pain that originates from damaged peripheral nerves is referred to as:",
+      "options": [
+        "Neuropathic pain.",
+        "Clinical pain.",
+        "Acute pain",
+        "Disproportionate pain"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Neuropathic pain.",
+      "suggestedRationale": "Pain from damaged peripheral nerves is neuropathic pain."
+    },
+    {
+      "prompt": "Abnormal changes in blood flow and metabolism in the brain may result in which type of headaches?",
+      "options": [
+        "Tension headaches.",
+        "Sinus headaches.",
+        "Migraine headaches.",
+        "Hemorrhagic headaches."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Migraine headaches.",
+      "suggestedRationale": "Migraines are associated with abnormal cerebral blood flow and neurovascular/metabolic changes."
+    },
+    {
+      "prompt": "Tension headaches are the result of:",
+      "options": [
+        "Pulled tendon.",
+        "Emotional stress.",
+        "Sinus pressure.",
+        "Temporal mandibular joint."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Emotional stress.",
+      "suggestedRationale": "Tension headaches are commonly related to muscle tension from emotional stress."
+    },
+    {
+      "prompt": "Myelinated A Delta fibers transmit which type of impulses?",
+      "options": [
+        "Chronic pain.",
+        "Acute pain.",
+        "Diversion.",
+        "Gate control."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Acute pain.",
+      "suggestedRationale": "Myelinated A-delta fibers transmit sharp, acute pain; unmyelinated C fibers carry dull, chronic pain."
+    },
+    {
+      "prompt": "Physical symptoms or Signs of pain that can be documented are:",
+      "options": [
+        "Decreased heart rate and decreased blood pressure.",
+        "Elevated heart rate and elevated blood pressure.",
+        "Redness and swelling.",
+        "Fever and localized warmth."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Elevated heart rate and elevated blood pressure.",
+      "suggestedRationale": "Documentable physiologic signs of acute pain include an elevated heart rate and blood pressure."
+    },
+    {
+      "prompt": "What is the function of endorphins in relation to pain?",
+      "options": [
+        "Endorphins activate the SNS system for fight or flight",
+        "Transmit pain impulse through the spinal cord",
+        "Block Pain",
+        "Relay pain to the cerebral cortex"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Block Pain",
+      "suggestedRationale": "Endorphins are endogenous opioids that block or reduce pain transmission."
+    },
+    {
+      "prompt": "A reflexive stimuli results in which action?",
+      "options": [
+        "Spontaneous extension of affected limbs",
+        "Repeated flexion and extension of limbs",
+        "Involuntary movement away from pain",
+        "Pupillary constriction and malaise"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Involuntary movement away from pain",
+      "suggestedRationale": "A withdrawal reflex produces involuntary movement away from a painful stimulus."
+    },
+    {
+      "prompt": "The awareness of the brain for pain impulse that comes through is controlled by?",
+      "options": [
+        "Sensory association area",
+        "Motor cortex",
+        "Reticular activating system",
+        "Cranial nerves"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Reticular activating system",
+      "suggestedRationale": "The reticular activating system helps determine awareness of incoming sensory (including pain) impulses."
+    },
+    {
+      "prompt": "Somatic Pain refers to pain that arises from?",
+      "options": [
+        "Skin, Bone, and Muscle",
+        "Only Visceral pain",
+        "Limited to Peripheral pain",
+        "Responsible for all pain"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Skin, Bone, and Muscle",
+      "suggestedRationale": "Somatic pain arises from skin, bone, or muscle; visceral pain arises from organs."
+    },
+    {
+      "prompt": "Rust Colored sputum in patients with pneumonia is an indication of?",
+      "options": [
+        "Bleed in the lung",
+        "Lung cancer",
+        "pneumococcal pneumonia",
+        "emphesyma"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. pneumococcal pneumonia",
+      "suggestedRationale": "Rust-colored sputum is a classic clue to pneumococcal (Streptococcus pneumoniae) pneumonia."
+    },
+    {
+      "prompt": "An Epidural hematoma is located between?",
+      "options": [
+        "Dura and Pia matter",
+        "Dura and Arachnoid",
+        "Arachnoid and Pia",
+        "Dura and Skull"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Dura and Skull",
+      "suggestedRationale": "An epidural hematoma is between the dura mater and the skull."
+    },
+    {
+      "prompt": "What does Gross level mean?",
+      "options": [
+        "Organ or systems",
+        "Specific cell",
+        "Cellular Level",
+        "Tissue or muscle level"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Organ or systems",
+      "suggestedRationale": "“Gross level” refers to organs or organ systems, as opposed to the cellular/microscopic level."
+    },
+    {
+      "prompt": "Which gram-positive bacillus causes flu-like symptoms and often causes bacterial infections of the skin or gastrointestinal (GI) tract of humans and cattle?",
+      "options": [
+        "Mad Cow Disease",
+        "Anthrax",
+        "Ankylosing Spondylosis",
+        "Tinea Corpea"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Anthrax",
+      "suggestedRationale": "Anthrax is caused by Bacillus anthracis, a gram-positive bacillus that can infect skin or the GI tract in humans and cattle."
+    },
+    {
+      "prompt": "What is an example of non-specific defense mechanism?",
+      "options": [
+        "Antigen- Antibody",
+        "Humoral Response",
+        "Killer T Cells",
+        "Inflammation"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Inflammation",
+      "suggestedRationale": "Inflammation is a nonspecific defense; antigen–antibody responses, humoral immunity, and T cells are specific."
+    },
+    {
+      "prompt": "Placing a client in which position reduces the force of gravity and affects many body functions?",
+      "options": [
+        "Trendelenburg",
+        "Standing",
+        "Sitting",
+        "Supine"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Supine",
+      "suggestedRationale": "The supine position reduces the effect of gravity on many body functions (an important issue in immobility)."
+    },
+    {
+      "prompt": "Acute necrotizing fasciitis is a condition caused by infection with",
+      "options": [
+        "Human papilloma virus.",
+        "Candida mycosis fungus.",
+        "A beta hemolytic streptococcus.",
+        "Mycobacterium leprae."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. A beta hemolytic streptococcus.",
+      "suggestedRationale": "Acute necrotizing fasciitis is typically caused by group A beta-hemolytic streptococcus."
+    },
+    {
+      "prompt": "Which stress hormone is produced by Adrenal Cortex?",
+      "options": [
+        "Aldosterone",
+        "Epinepherine",
+        "Cortisol",
+        "ADH"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Cortisol",
+      "suggestedRationale": "Cortisol, the main glucocorticoid stress hormone, is made by the adrenal cortex (aldosterone is also cortical but is not the primary “stress hormone”)."
+    },
+    {
+      "prompt": "Difference between sensory nerve impulse and motor nerve impulse is that?",
+      "options": [
+        "Sensory nerve impulse travels via Afferent Fibers",
+        "Motor Nerves control and use the Afferent Fibers",
+        "Sensory nerve uses spinal tract while Moto nerve connect directly to the cerebral cortex",
+        "They both use Afferent Fibers and Efferent Fibers"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Sensory nerve impulse travels via Afferent Fibers",
+      "suggestedRationale": "Sensory (afferent) fibers carry impulses toward the CNS; motor (efferent) fibers carry them away."
+    },
+    {
+      "prompt": "Drugs that are designed to inhibit or slow down growth of microbes but not necessarily kill them are considered?",
+      "options": [
+        "Therapy",
+        "Bactericide",
+        "Bactereostatic",
+        "antibiotic"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Bactereostatic",
+      "suggestedRationale": "Bacteriostatic agents inhibit microbial growth without necessarily killing the organisms."
+    },
+    {
+      "prompt": "What is the term that is used when discussing the maximal amount of air that can be moved in and out of the lungs?",
+      "options": [
+        "Total Lung Capacity",
+        "Tidal Colume",
+        "Vital Capacity",
+        "Inspiratory Reserve"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Vital Capacity",
+      "suggestedRationale": "Vital capacity is the maximum volume of air that can be moved in and out of the lungs."
+    },
+    {
+      "prompt": "Depression is a common complication of which disorder?",
+      "options": [
+        "Stress",
+        "Homeostasis",
+        "Immobility",
+        "Embolism"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Immobility",
+      "suggestedRationale": "Depression is a common psychosocial complication of prolonged immobility."
+    },
+    {
+      "prompt": "Secondary infections are common with AIDS. Which fungus is a common cause of death?",
+      "options": [
+        "Candida",
+        "Pneumocystis carinii",
+        "herpes simplex",
+        "Dementia"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Pneumocystis carinii",
+      "suggestedRationale": "Pneumocystis pneumonia (a fungal infection) is a classic, often life-threatening opportunistic infection in AIDS."
+    },
+    {
+      "prompt": "What type of hypersensitivity is associated with incompatible blood transfusion?",
+      "options": [
+        "Type I",
+        "Type II",
+        "Type IV",
+        "Type III"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Type II",
+      "suggestedRationale": "An incompatible blood transfusion is a type II (cytotoxic) hypersensitivity reaction."
+    },
+    {
+      "prompt": "The manifestations of a disease are best defined as the:",
+      "options": [
+        "subjective feelings of discomfort during a chronic illness.",
+        "signs and symptoms of a disease.",
+        "factors that precipitate an acute episode of a chronic illness.",
+        "early indicators of the prodromal stage of infection."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. signs and symptoms of a disease.",
+      "suggestedRationale": "Manifestations of a disease are its signs and symptoms."
+    },
+    {
+      "prompt": "Which of the following confirms the presence of active (reinfection) tuberculosis?",
+      "options": [
+        "A positive skin test for TB",
+        "A calcified tubercle shown on a chest X-ray",
+        "Identification of acid-fast bacilli in a sputum sample",
+        "A history of exposure to individuals being treated for TB"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Identification of acid-fast bacilli in a sputum sample",
+      "suggestedRationale": "Active tuberculosis is confirmed by identifying acid-fast bacilli (or equivalent microbiologic evidence) in sputum; a skin test only shows exposure."
+    },
+    {
+      "prompt": "When does flail chest usually occur?",
+      "options": [
+        "An open puncture wound involves the pleural membranes.",
+        "The visceral pleura is torn by a fractured rib.",
+        "Several ribs are fractured at two sites.",
+        "Increasing fluid in the pleural cavity causes atelectasis."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Several ribs are fractured at two sites.",
+      "suggestedRationale": "Flail chest occurs when several ribs are fractured in two places, creating a free-floating segment."
+    },
+    {
+      "prompt": "All of the following are examples of Advance Parkinson's Disease, Except?",
+      "options": [
+        "Difficulty chewing and swallowing",
+        "Urinary retention",
+        "Loss of vision",
+        "Orthostatic hypotension"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Loss of vision",
+      "suggestedRationale": "Loss of vision is not a typical feature of advanced Parkinson disease; swallowing difficulty, urinary problems, and orthostatic hypotension can occur."
+    },
+    {
+      "prompt": "A disease which involves muscles and nerves and leads to tetany, esp in the face and hands is called?",
+      "options": [
+        "hyperparathyroidism",
+        "hypercalcemia",
+        "hypocalcemia",
+        "hyperkalemia"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. hypocalcemia",
+      "suggestedRationale": "Hypocalcemia increases neuromuscular irritability and can cause tetany, including in the face and hands."
+    },
+    {
+      "prompt": "One severe complication of a fracture of the pelvis or long bones like the femur which often occurs during transportation after injury is?",
+      "options": [
+        "compartment syndrome",
+        "nerve damage",
+        "fat emboli",
+        "osteoarthritis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. fat emboli",
+      "suggestedRationale": "Fractures of the pelvis or long bones (such as the femur) can release fat emboli, especially with movement after injury."
+    },
+    {
+      "prompt": "A theory of pain control includes nerve synapses in the spinal cord and brain which permit pain to pass to the brain. This is called?",
+      "options": [
+        "Recticular Activating System",
+        "The Cerebral Cortex along with the Midbrain",
+        "Gate Theory or Gate Control System",
+        "The myelin fibers"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Gate Theory or Gate Control System",
+      "suggestedRationale": "Gate-control theory describes synapses in the spinal cord and brain that can permit or block pain signals."
+    },
+    {
+      "prompt": "Healing of a would can be accomplished in several ways. A compound fracture which requires a longer healing time due to a large break and more inflammation than a simple fracture which would heal by which means?",
+      "options": [
+        "First Intention",
+        "Surgical Healing",
+        "Second Intention",
+        "Resolution"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. First Intention",
+      "suggestedRationale": "The wording points to how a simpler, cleaner wound or fracture heals: by first (primary) intention. A compound wound with more tissue damage is closer to second intention."
+    },
+    {
+      "prompt": "Elephantiasis, caused by the obstruction of lymphatic vessels by parasitic worms, is an example of the condition known as:",
+      "options": [
+        "plasma cell myeloma.",
+        "diverticulitis.",
+        "lymphedema.",
+        "obstructive vessel disorder."
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. lymphedema.",
+      "suggestedRationale": "Elephantiasis from lymphatic obstruction by parasites is a form of lymphedema."
+    },
+    {
+      "prompt": "Which of the following are common early signs of multiple sclerosis?",
+      "options": [
+        "Paralysis of the lower body, impaired cognitive function",
+        "Areas of numbness, weakness in the legs, visual problems",
+        "Sensory deficit in the legs and trunk, memory loss, urinary incontinence",
+        "Tremors, speech impairment, hearing loss"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Areas of numbness, weakness in the legs, visual problems",
+      "suggestedRationale": "Early multiple sclerosis often causes patchy numbness, leg weakness, and visual problems."
+    }
+  ]
+}

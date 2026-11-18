@@ -1,0 +1,707 @@
+{
+  "id": "final-exam-review",
+  "title": "Final Exam Review",
+  "blurb": "The 50-question final review packet, scored with its official answer key.",
+  "questions": [
+    {
+      "prompt": "What is the basic guidelines provided by the CDC to prevent the spread of infection?",
+      "options": [
+        "Isolation",
+        "Hand washing",
+        "Universal precautions",
+        "Wearing gloves"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Hand washing",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "Inflammation caused by chemical infiltration or bacterial invasion of the sterile gut cavity, presenting with a rigid, board-like abdomen, is called?",
+      "options": [
+        "Gastritis",
+        "Peritonitis",
+        "Diverticulitis",
+        "Crohn’s disease"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Peritonitis",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "Which is an example of a prion disease?",
+      "options": [
+        "Huntington’s disease",
+        "Creutzfeldt-Jakob",
+        "Alzheimer’s disease",
+        "Parkinson’s disease"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Creutzfeldt-Jakob",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "What are the three mechanisms that control or compensate for serum pH?",
+      "options": [
+        "Kidney excretion, heart rate, oxygen levels",
+        "Buffer pairs in blood, change in kidney excretion rate, change in respiration rate",
+        "Blood pressure, acid production, nutrient absorption",
+        "Liver function, glucose levels, pancreatic enzymes"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Buffer pairs in blood, change in kidney excretion rate, change in respiration rate",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "Which of the following is NOT a function of the kidney?",
+      "options": [
+        "Removal of metabolic waste",
+        "Regulation of electrolytes",
+        "Activation of vitamin D",
+        "Production of albumin"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 3,
+      "correctLabel": "Production of albumin",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "An autoimmune disease is:",
+      "options": [
+        "An overproduction of T-cells",
+        "A failure to produce antibodies",
+        "An exaggerated response to allergens",
+        "Failure of the immune system to distinguish self from nonself"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 3,
+      "correctLabel": "Failure of the immune system to distinguish self from nonself",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "Which type of cerebrovascular accident has the poorest prognosis?",
+      "options": [
+        "Ischemic CVA",
+        "Hemorrhagic CVA",
+        "Transient ischemic attack",
+        "Embolic CVA"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Hemorrhagic CVA",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "Which of the following is a specific defense mechanism?",
+      "options": [
+        "Phagocytosis",
+        "The inflammatory response",
+        "Production of antibodies",
+        "The mucous membrane"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Production of antibodies",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "Metabolic syndrome has three factors; which of the following is the primary cause?",
+      "options": [
+        "Genetic predisposition",
+        "High blood pressure",
+        "Obesity",
+        "Hormonal imbalance"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Obesity",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "A common ascending infection or inflammation of the kidney is called?",
+      "options": [
+        "Nephrotic syndrome",
+        "Glomerulonephritis",
+        "Hydronephrosis",
+        "Pyelonephritis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 3,
+      "correctLabel": "Pyelonephritis",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "One of the reasons non-Hodgkin's lymphomas are harder to treat than Hodgkin's lymphomas is that they:",
+      "options": [
+        "Are less common",
+        "Involve multiple nodes and widespread metastases",
+        "Develop more slowly",
+        "Are diagnosed earlier"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Involve multiple nodes and widespread metastases",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "A thrombus or blood clot originating from the deep leg veins is called what?",
+      "options": [
+        "Deep vein thrombosis",
+        "Stroke",
+        "Pulmonary emboli",
+        "Varicose veins"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 0,
+      "correctLabel": "Deep vein thrombosis",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "Malignant tumors spread by several methods. Which one means spread to sites by blood or lymph?",
+      "options": [
+        "Local invasion",
+        "Seeding",
+        "Metastasis through blood",
+        "Recurrence"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Metastasis through blood",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "Inflammation, especially in the metaphysis of the femur or tibia, and pain that increases with movement is seen in which disorder, especially in teens?",
+      "options": [
+        "Rheumatoid arthritis",
+        "Ewing sarcoma",
+        "Osteomyelitis",
+        "Rickets"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Osteomyelitis",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "A common ascending infection or inflammation of the kidney is called?",
+      "options": [
+        "Pyelonephritis",
+        "Nephrolithiasis",
+        "Cystitis",
+        "Glomerulonephritis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 0,
+      "correctLabel": "Pyelonephritis",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "The semicircular canals of the inner ear are responsible for:",
+      "options": [
+        "Balance and equilibrium",
+        "Hearing high-frequency sounds",
+        "Filtering earwax",
+        "Sound localization"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 0,
+      "correctLabel": "Balance and equilibrium",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "A cardiac dysrhythmia where the rate is very rapid with no filling and no output is called?",
+      "options": [
+        "Ventricular tachycardia",
+        "Atrial fibrillation",
+        "Ventricular Fibrillation",
+        "Premature ventricular contractions"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Ventricular Fibrillation",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "A condition where there is an increased production of erythrocytes is considered a neoplastic disorder called?",
+      "options": [
+        "Leukemia",
+        "Sickle cell anemia",
+        "Polycythemia",
+        "Thrombocytopenia"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Polycythemia",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "Which type of cancer is considered to be a silent tumor as there is a lack of a reliable screening test and causes many deaths?",
+      "options": [
+        "Liver cancer",
+        "Pancreatic cancer",
+        "Lung cancer",
+        "Ovarian cancer"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 3,
+      "correctLabel": "Ovarian cancer",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "A common ascending infection or inflammation of the kidney is called?",
+      "options": [
+        "Pyelonephritis",
+        "Glomerulonephritis",
+        "Urethritis",
+        "Hydronephrosis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 0,
+      "correctLabel": "Pyelonephritis",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "A patient presents with moon face and buffalo hump and is glucose intolerant. What will they likely be diagnosed with?",
+      "options": [
+        "Addison’s disease",
+        "Diabetes mellitus",
+        "Acromegaly",
+        "Cushing’s syndrome"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 3,
+      "correctLabel": "Cushing’s syndrome",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "Elephantiasis is an example of the condition known as:",
+      "options": [
+        "Anemia",
+        "Leukemia",
+        "Lymphedema",
+        "Lymphoma"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Lymphedema",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "Which statement applies to the recommended emergency care for burns?",
+      "options": [
+        "Use ice packs to cool the burn",
+        "Apply an antiseptic ointment immediately",
+        "Leave all clothing in place",
+        "Cover the burn area with clean, cool, or tepid water and remove non-sticking clothing"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 3,
+      "correctLabel": "Cover the burn area with clean, cool, or tepid water and remove non-sticking clothing",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "Cystitis is more common in females because:",
+      "options": [
+        "Females are more prone to infection",
+        "The urethra is short, wide, and adjacent to areas with resident flora",
+        "Females are more likely to hold urine too long",
+        "Females have a lower immune response than males"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "The urethra is short, wide, and adjacent to areas with resident flora",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "A common ascending infection or inflammation of the kidney is called?",
+      "options": [
+        "Glomerulonephritis",
+        "Pyelonephritis",
+        "Cystitis",
+        "Hydronephrosis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Pyelonephritis",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "What is the most common cause of heart attacks?",
+      "options": [
+        "High blood pressure",
+        "Coronary artery disease",
+        "Stroke",
+        "Diabetes"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Coronary artery disease",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "Which part of the brain controls voluntary movements?",
+      "options": [
+        "Cerebellum",
+        "Frontal lobe",
+        "Parietal lobe",
+        "Brainstem"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Frontal lobe",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "What type of immunity develops after vaccination?",
+      "options": [
+        "Innate immunity",
+        "Passive immunity",
+        "Acquired immunity",
+        "Natural immunity"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Acquired immunity",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "What is the role of platelets in the body?",
+      "options": [
+        "Fighting infections",
+        "Blood clotting",
+        "Oxygen transport",
+        "Hormone regulation"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Blood clotting",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "Which organ is primarily responsible for detoxifying chemicals in the blood?",
+      "options": [
+        "Kidney",
+        "Liver",
+        "Spleen",
+        "Pancreas"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Liver",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "Which hormone regulates blood sugar levels?",
+      "options": [
+        "Insulin",
+        "Cortisol",
+        "Thyroxine",
+        "Estrogen"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 0,
+      "correctLabel": "Insulin",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "Which vitamin is essential for blood clotting?",
+      "options": [
+        "Vitamin A",
+        "Vitamin D",
+        "Vitamin E",
+        "Vitamin K"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 3,
+      "correctLabel": "Vitamin K",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "What is the smallest structural unit of the kidney?",
+      "options": [
+        "Nephron",
+        "Glomerulus",
+        "Renal tubule",
+        "Cortex"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 0,
+      "correctLabel": "Nephron",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "Which of the following is a type of connective tissue?",
+      "options": [
+        "Skin",
+        "Blood",
+        "Nerve",
+        "Muscle"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Blood",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "What condition is characterized by brittle bones?",
+      "options": [
+        "Osteoporosis",
+        "Arthritis",
+        "Scoliosis",
+        "Kyphosis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 0,
+      "correctLabel": "Osteoporosis",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "Which part of the eye is responsible for focusing light?",
+      "options": [
+        "Cornea",
+        "Retina",
+        "Iris",
+        "Lens"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 3,
+      "correctLabel": "Lens",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "What type of pathogen causes tuberculosis?",
+      "options": [
+        "Virus",
+        "Bacteria",
+        "Fungus",
+        "Parasite"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Bacteria",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "Which organ system includes the skin, hair, and nails?",
+      "options": [
+        "Digestive",
+        "Integumentary",
+        "Nervous",
+        "Endocrine"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Integumentary",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "What is the primary function of the large intestine?",
+      "options": [
+        "Absorb nutrients",
+        "Produce bile",
+        "Absorb water",
+        "Filter blood"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Absorb water",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "What type of joint is found in the shoulder?",
+      "options": [
+        "Hinge joint",
+        "Ball-and-socket joint",
+        "Pivot joint",
+        "Saddle joint"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Ball-and-socket joint",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "Which organ produces bile?",
+      "options": [
+        "Gallbladder",
+        "Pancreas",
+        "Liver",
+        "Stomach"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Liver",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "What is the main function of hemoglobin?",
+      "options": [
+        "Transport oxygen",
+        "Fight infections",
+        "Regulate hormones",
+        "Break down fats"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 0,
+      "correctLabel": "Transport oxygen",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "What condition results from a lack of vitamin C?",
+      "options": [
+        "Rickets",
+        "Scurvy",
+        "Pellagra",
+        "Beriberi"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Scurvy",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "Which of the following is a viral infection?",
+      "options": [
+        "Tuberculosis",
+        "Influenza",
+        "Ringworm",
+        "Tetanus"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Influenza",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "Which structure is known as the pacemaker of the heart?",
+      "options": [
+        "AV node",
+        "SA node",
+        "Bundle of His",
+        "Purkinje fibers"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "SA node",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "Which part of the digestive system is primarily responsible for nutrient absorption?",
+      "options": [
+        "Stomach",
+        "Small intestine",
+        "Large intestine",
+        "Esophagus"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Small intestine",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "Which gland is often referred to as the \"master gland\" due to its control over other glands?",
+      "options": [
+        "Thyroid gland",
+        "Adrenal gland",
+        "Pituitary gland",
+        "Pineal gland"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Pituitary gland",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "What is the term for the process by which plants convert sunlight into energy?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Fermentation",
+        "Transpiration"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Photosynthesis",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "Which blood type is known as the universal donor?",
+      "options": [
+        "Type A",
+        "Type B",
+        "Type AB",
+        "Type O"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 3,
+      "correctLabel": "Type O",
+      "source": "review_doc"
+    },
+    {
+      "prompt": "What is the primary function of white blood cells?",
+      "options": [
+        "Transport oxygen",
+        "Fight infections",
+        "Produce hormones",
+        "Store energy"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Fight infections",
+      "source": "review_doc"
+    }
+  ]
+}

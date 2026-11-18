@@ -1,0 +1,717 @@
+{
+  "id": "additional-final-practice",
+  "title": "Additional Final Exam Practice",
+  "blurb": "Additional final exam review (part 1).",
+  "questions": [
+    {
+      "prompt": "Which disorder is characterized by immune-mediated damage to the glomeruli?",
+      "options": [
+        "Cystitis",
+        "Nephrotic syndrome",
+        "Glomerulonephritis",
+        "Hydronephrosis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Glomerulonephritis",
+      "suggestedRationale": "Glomerulonephritis is immune-mediated inflammation and damage to the glomeruli."
+    },
+    {
+      "prompt": "Which of the following is a sign of nephrotic syndrome?",
+      "options": [
+        "Hypertension",
+        "Proteinuria",
+        "Hematuria",
+        "Oliguria"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Proteinuria",
+      "suggestedRationale": "Heavy proteinuria is the hallmark of nephrotic syndrome."
+    },
+    {
+      "prompt": "Which term refers to the presence of kidney stones?",
+      "options": [
+        "Nephritis",
+        "Pyelonephritis",
+        "Urolithiasis",
+        "Cystitis"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Urolithiasis",
+      "suggestedRationale": "Urolithiasis is the presence of urinary calculi (kidney or urinary-tract stones)."
+    },
+    {
+      "prompt": "What is the most common cause of urinary tract infections (UTIs)?",
+      "options": [
+        "Streptococcus",
+        "Escherichia coli",
+        "Staphylococcus",
+        "Mycobacterium"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Escherichia coli",
+      "suggestedRationale": "Escherichia coli from the gut is the most common cause of urinary tract infection."
+    },
+    {
+      "prompt": "Which structure is the functional unit of the kidney?",
+      "options": [
+        "Nephron",
+        "Glomerulus",
+        "Renal tubule",
+        "Collecting duct"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Nephron",
+      "suggestedRationale": "The nephron is the functional unit of the kidney."
+    },
+    {
+      "prompt": "Which hormone is responsible for water reabsorption in the kidneys?",
+      "options": [
+        "Aldosterone",
+        "Antidiuretic hormone (ADH)",
+        "Atrial natriuretic hormone",
+        "Renin"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Antidiuretic hormone (ADH)",
+      "suggestedRationale": "ADH increases water reabsorption in the collecting ducts; aldosterone mainly increases sodium reabsorption."
+    },
+    {
+      "prompt": "Which vitamin is absorbed in the ileum with the help of intrinsic factor?",
+      "options": [
+        "Vitamin A",
+        "Vitamin B6",
+        "Vitamin B12",
+        "Vitamin K"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Vitamin B12",
+      "suggestedRationale": "Vitamin B12 binds intrinsic factor and is absorbed in the ileum."
+    },
+    {
+      "prompt": "Which condition is characterized by inflammation of the stomach lining?",
+      "options": [
+        "Gastritis",
+        "Gastroenteritis",
+        "Peptic ulcer",
+        "GERD"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Gastritis",
+      "suggestedRationale": "Gastritis is inflammation of the stomach lining."
+    },
+    {
+      "prompt": "Which hormone inhibits gastric emptying?",
+      "options": [
+        "Gastrin",
+        "Secretin",
+        "Cholecystokinin",
+        "Histamine"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Cholecystokinin",
+      "suggestedRationale": "Cholecystokinin, released when fats and protein enter the duodenum, inhibits gastric emptying and stimulates bile/pancreatic release."
+    },
+    {
+      "prompt": "What is the primary site of nutrient absorption?",
+      "options": [
+        "Stomach",
+        "Small intestine",
+        "Large intestine",
+        "Liver"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Small intestine",
+      "suggestedRationale": "The small intestine is the primary site of nutrient absorption."
+    },
+    {
+      "prompt": "Which organ produces bile?",
+      "options": [
+        "Pancreas",
+        "Stomach",
+        "Liver",
+        "Small intestine"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 2,
+      "correctLabel": "Liver",
+      "source": "form",
+      "matchedFrom": "final_review#41"
+    },
+    {
+      "prompt": "What is the primary function of the stomach?",
+      "options": [
+        "Absorption of nutrients",
+        "Mechanical and chemical digestion",
+        "Water reabsorption",
+        "Bile production"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Mechanical and chemical digestion",
+      "suggestedRationale": "The stomach’s primary job is mechanical and chemical digestion of food, not nutrient absorption or bile production."
+    },
+    {
+      "prompt": "Which of the following is NOT a sign of left-sided heart failure?",
+      "options": [
+        "Pulmonary congestion",
+        "Dyspnea",
+        "Edema in the legs",
+        "Orthopnea"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Edema in the legs",
+      "suggestedRationale": "Leg edema is a sign of right-sided (systemic) backup, not of left-sided failure, which causes pulmonary congestion, dyspnea, and orthopnea."
+    },
+    {
+      "prompt": "Which of the following best describes angina pectoris?",
+      "options": [
+        "Complete obstruction of a coronary artery",
+        "Temporary oxygen deficiency to the myocardium",
+        "Inflammation of the pericardium",
+        "Aneurysm formation in the coronary arteries"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Temporary oxygen deficiency to the myocardium",
+      "suggestedRationale": "Angina pectoris is transient myocardial ischemia (oxygen supply that does not meet demand), not complete coronary occlusion."
+    },
+    {
+      "prompt": "Which of the following increases heart rate?",
+      "options": [
+        "Parasympathetic stimulation",
+        "Low thyroid hormones",
+        "Sympathetic stimulation",
+        "Low body temperature"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Sympathetic stimulation",
+      "suggestedRationale": "Sympathetic stimulation increases heart rate; parasympathetic stimulation slows it."
+    },
+    {
+      "prompt": "What is the pacemaker of the heart?",
+      "options": [
+        "AV node",
+        "SA node",
+        "Purkinje fibers",
+        "Bundle of His"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. SA node",
+      "suggestedRationale": "The SA node is the normal pacemaker of the heart."
+    },
+    {
+      "prompt": "Which valve separates the left atrium and left ventricle?",
+      "options": [
+        "Tricuspid valve",
+        "Pulmonary valve",
+        "Mitral valve",
+        "Aortic valve"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Mitral valve",
+      "suggestedRationale": "The mitral (bicuspid) valve separates the left atrium from the left ventricle."
+    },
+    {
+      "prompt": "Which heart layer is responsible for contraction?",
+      "options": [
+        "Endocardium",
+        "Myocardium",
+        "Epicardium",
+        "Pericardium"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Myocardium",
+      "suggestedRationale": "The myocardium is the contractile muscle layer of the heart."
+    },
+    {
+      "prompt": "Which organ is responsible for the maturation of T lymphocytes?",
+      "options": [
+        "Spleen",
+        "Thymus",
+        "Lymph nodes",
+        "Bone marrow"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": true,
+      "correctIndex": 1,
+      "correctLabel": "Thymus",
+      "source": "form",
+      "matchedFrom": "practice2#20"
+    },
+    {
+      "prompt": "What is a key feature of multiple myeloma?",
+      "options": [
+        "Increased plasma cells in the bone marrow",
+        "Overproduction of red blood cells",
+        "Enlargement of the spleen",
+        "Lymph node swelling"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Increased plasma cells in the bone marrow",
+      "suggestedRationale": "Multiple myeloma is a malignancy of plasma cells that accumulate in the bone marrow."
+    },
+    {
+      "prompt": "What is the most common form of lymphedema?",
+      "options": [
+        "Primary lymphedema",
+        "Secondary lymphedema",
+        "Elephantiasis",
+        "Castleman’s disease"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Secondary lymphedema",
+      "suggestedRationale": "Secondary lymphedema (after surgery, radiation, infection, or obstruction) is much more common than primary (congenital) lymphedema."
+    },
+    {
+      "prompt": "What is the primary function of the lymphatic system?",
+      "options": [
+        "Transport oxygen",
+        "Return interstitial fluid to the cardiovascular system",
+        "Produce red blood cells",
+        "Regulate blood pressure"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Return interstitial fluid to the cardiovascular system",
+      "suggestedRationale": "A primary job of the lymphatic system is to return interstitial fluid to the blood."
+    },
+    {
+      "prompt": "Which type of lymphoma is characterized by the presence of Reed-Sternberg cells?",
+      "options": [
+        "Hodgkin’s lymphoma",
+        "Non-Hodgkin’s lymphoma",
+        "Multiple myeloma",
+        "Castleman’s disease"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Hodgkin’s lymphoma",
+      "suggestedRationale": "Reed-Sternberg cells are the histologic hallmark of Hodgkin lymphoma."
+    },
+    {
+      "prompt": "Which structure is responsible for filtering and destroying foreign material in the lymphatic system?",
+      "options": [
+        "Tonsils",
+        "Lymph nodes",
+        "Spleen",
+        "Thymus"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Lymph nodes",
+      "suggestedRationale": "Lymph nodes filter lymph and help destroy foreign material; the spleen mainly filters blood."
+    },
+    {
+      "prompt": "Which of the following is NOT a symptom of anemia?",
+      "options": [
+        "Fatigue",
+        "Pallor",
+        "Tachycardia",
+        "Hypertension"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Hypertension",
+      "suggestedRationale": "Hypertension is not a typical feature of anemia; fatigue, pallor, and tachycardia are."
+    },
+    {
+      "prompt": "Which protein in red blood cells binds to oxygen?",
+      "options": [
+        "Albumin",
+        "Globulin",
+        "Fibrinogen",
+        "Hemoglobin"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Hemoglobin",
+      "suggestedRationale": "Hemoglobin is the oxygen-binding protein in red blood cells."
+    },
+    {
+      "prompt": "Which type of circulation is responsible for gas exchange in the lungs?",
+      "options": [
+        "Systemic circulation",
+        "Pulmonary circulation",
+        "Coronary circulation",
+        "Microcirculation"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Pulmonary circulation",
+      "suggestedRationale": "Pulmonary circulation carries blood through the lungs for gas exchange."
+    },
+    {
+      "prompt": "What is the primary function of platelets in the blood?",
+      "options": [
+        "Transport oxygen",
+        "Fight infections",
+        "Blood clotting",
+        "Carry nutrients"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Blood clotting",
+      "suggestedRationale": "Platelets (thrombocytes) are essential for hemostasis and blood clotting."
+    },
+    {
+      "prompt": "Which type of anemia is caused by a lack of intrinsic factor?",
+      "options": [
+        "Iron deficiency anemia",
+        "Pernicious anemia",
+        "Aplastic anemia",
+        "Hemolytic anemia"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Pernicious anemia",
+      "suggestedRationale": "Pernicious anemia is a vitamin B12 deficiency caused by lack of intrinsic factor."
+    },
+    {
+      "prompt": "Which of the following is responsible for stimulating erythrocyte production?",
+      "options": [
+        "Hemoglobin",
+        "Erythropoietin",
+        "Albumin",
+        "Fibrinogen"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Erythropoietin",
+      "suggestedRationale": "Erythropoietin, mainly from the kidney, stimulates red-cell production."
+    },
+    {
+      "prompt": "Which hormone stimulates spermatogenesis in males?",
+      "options": [
+        "Testosterone",
+        "Luteinizing hormone (LH)",
+        "Follicle-stimulating hormone (FSH)",
+        "Estrogen"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Follicle-stimulating hormone (FSH)",
+      "suggestedRationale": "FSH stimulates spermatogenesis in the seminiferous tubules; LH mainly stimulates testosterone production."
+    },
+    {
+      "prompt": "Which condition is characterized by the failure of testes to descend into the scrotum?",
+      "options": [
+        "Hydrocele",
+        "Cryptorchidism",
+        "Varicocele",
+        "Torsion of the testes"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Cryptorchidism",
+      "suggestedRationale": "Cryptorchidism is failure of one or both testes to descend into the scrotum."
+    },
+    {
+      "prompt": "What is the most common type of cancer in older men?",
+      "options": [
+        "Testicular cancer",
+        "Prostate cancer",
+        "Bladder cancer",
+        "Penile cancer"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Prostate cancer",
+      "suggestedRationale": "Prostate cancer is the most common cancer in older men (aside from skin cancers)."
+    },
+    {
+      "prompt": "Which structure in the female reproductive system produces estrogen and progesterone?",
+      "options": [
+        "Uterus",
+        "Fallopian tubes",
+        "Ovaries",
+        "Cervix"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Ovaries",
+      "suggestedRationale": "The ovaries produce estrogen and progesterone."
+    },
+    {
+      "prompt": "Which of the following is NOT a symptom of pelvic inflammatory disease (PID)?",
+      "options": [
+        "Lower abdominal pain",
+        "Fever",
+        "Vaginal discharge",
+        "Hypertension"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. Hypertension",
+      "suggestedRationale": "Hypertension is not a feature of PID; pain, fever, and vaginal discharge are."
+    },
+    {
+      "prompt": "Which of the following describes endometriosis?",
+      "options": [
+        "Growth of endometrial tissue outside the uterus",
+        "Infection of the uterus",
+        "Formation of cysts in the ovaries",
+        "Malignant tumor of the uterus"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 0,
+      "suggestedLabel": "A. Growth of endometrial tissue outside the uterus",
+      "suggestedRationale": "Endometriosis is growth of endometrial tissue outside the uterine cavity."
+    },
+    {
+      "prompt": "Which term describes a tumor that does not invade surrounding tissues?",
+      "options": [
+        "Malignant",
+        "Benign",
+        "Metastatic",
+        "Infiltrative"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Benign",
+      "suggestedRationale": "A benign tumor remains localized and does not invade surrounding tissues the way a malignant tumor does."
+    },
+    {
+      "prompt": "Which type of cancer arises from connective tissue?",
+      "options": [
+        "Carcinoma",
+        "Sarcoma",
+        "Leukemia",
+        "Lymphoma"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Sarcoma",
+      "suggestedRationale": "Sarcomas arise from connective (mesenchymal) tissue; carcinomas arise from epithelium."
+    },
+    {
+      "prompt": "What does the term 'metastasis' refer to in cancer?",
+      "options": [
+        "Local tumor growth",
+        "Spread of cancer cells to distant organs",
+        "Shrinkage of a tumor",
+        "Inflammation around the tumor"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. Spread of cancer cells to distant organs",
+      "suggestedRationale": "Metastasis is spread of cancer cells to distant sites."
+    },
+    {
+      "prompt": "Which system is commonly used for staging cancer?",
+      "options": [
+        "ABC system",
+        "TNM system",
+        "WHO system",
+        "GRADING system"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 1,
+      "suggestedLabel": "B. TNM system",
+      "suggestedRationale": "The TNM system (tumor, nodes, metastasis) is the standard clinical staging system."
+    },
+    {
+      "prompt": "Which of the following is a warning sign of cancer?",
+      "options": [
+        "Unexplained weight loss",
+        "Persistent cough",
+        "Unusual bleeding",
+        "All of the above"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 3,
+      "suggestedLabel": "D. All of the above",
+      "suggestedRationale": "Unexplained weight loss, persistent cough, and unusual bleeding are all classic warning signs of cancer."
+    },
+    {
+      "prompt": "Which term refers to programmed cell death?",
+      "options": [
+        "Metaplasia",
+        "Hyperplasia",
+        "Apoptosis",
+        "Dysplasia"
+      ],
+      "kind": "multiple_choice",
+      "answerKnown": false,
+      "correctIndex": null,
+      "correctLabel": null,
+      "source": "form",
+      "suggestedIndex": 2,
+      "suggestedLabel": "C. Apoptosis",
+      "suggestedRationale": "Apoptosis is programmed cell death."
+    }
+  ]
+}
