@@ -495,3 +495,9 @@ code { font-size: 0.92em; }
   border-radius: 10px;
   font-size: 14px;
 }
+
+/* review guides */
+.chip.guide { background: var(--navy); }
+.resource .guide-meta { display: block; font-size: 0.82em; color: var(--muted); font-weight: 400; }
+.resource.soon { opacity: 0.6; cursor: default; background: #fff; border-style: dashed; }
+.resource.soon:hover { border-color: var(--line); background: #fff; color: inherit; }
