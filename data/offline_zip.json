@@ -1,1 +1,2 @@
-{"href": "https://github.com/Antonetti12/patho-study-hub/releases/download/offline-v1/Patho_Study_Hub_Offline_Windows.zip", "size": "68 MB"}
+{"windows": {"href": "https://github.com/Antonetti12/patho-study-hub/releases/download/offline-v1/Patho_Study_Hub_Offline_Windows.zip", "size": "68 MB"},
+ "mac": {"href": "https://github.com/Antonetti12/patho-study-hub/releases/download/offline-v1/Patho_Study_Hub_Offline_Mac.zip", "size": "68 MB"}}
