@@ -28,12 +28,13 @@
   document.querySelectorAll(".nav a[data-nav]").forEach(function (a) {
     const key = a.getAttribute("data-nav");
     const map = {
-      home: /(?:^|\/)(index\.html)?$/.test(path) && path.indexOf("/powerpoints") === -1 && path.indexOf("/practice") === -1 && path.indexOf("/docs") === -1 && path.indexOf("/videos") === -1 && path.indexOf("/review-guides") === -1,
+      home: /(?:^|\/)(index\.html)?$/.test(path) && path.indexOf("/powerpoints") === -1 && path.indexOf("/practice") === -1 && path.indexOf("/docs") === -1 && path.indexOf("/videos") === -1 && path.indexOf("/review-guides") === -1 && path.indexOf("/downloads") === -1,
       powerpoints: path.indexOf("/powerpoints") !== -1,
       practice: path.indexOf("/practice") !== -1,
       docs: path.indexOf("/docs") !== -1,
       videos: path.indexOf("/videos") !== -1,
-      guides: path.indexOf("/review-guides") !== -1
+      guides: path.indexOf("/review-guides") !== -1,
+      downloads: path.indexOf("/downloads") !== -1
     };
     if (map[key]) a.setAttribute("aria-current", "page");
   });
